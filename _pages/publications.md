@@ -47,7 +47,5 @@ author_profile: true
 
 2017
 ==
-* Zhou, C., **Zhang, X.*** (2020). "Measuring the efficiency of fiscal policies for environmental pollution control and the spatial effect of fiscal decentralization in China". _International Journal of Environmental Research and Public Health_, 17(23), 8974. [[link]](https://www.mdpi.com/1660-4601/17/23/8974)
-* **Zhang, X.***, Xie, H., Shi, J., Lv, T., Zhou, C., Liu, W. (2020). "Assessing changes in ecosystem service values in response to land cover dynamics in Jiangxi province, China". _International Journal of Environmental Research and Public Health_, 17(9), 3018. [[link]](https://doi.org/10.3390/ijerph17093018)
-* Liu, F., **Zhang, X.**, Murayama, Y., Morimoto, T. (2020). "Impacts of land cover/use on the urban thermal environment: A comparative study of 10 megacities in China". _Remote Sensing_, 12(2), 307. [[link]](https://doi.org/10.3390/rs12020307)
-* **Zhang, X.***, Xie, H., Zhou, C., Zeng, B. (2020). "Jingdezhen: The millennium porcelain capital". _Cities_, 98, 102569. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0264275119309916)
+* Wang, W., Xie, H., Lu, F., **Zhang, X.** (2017). "Measuring the performance of industrial green development using a non-radial directional distance function approach: A case study of Jiangxi province in China". _Sustainability_, 9(10), 1757. [[link]](https://www.mdpi.com/2071-1050/9/10/1757)
+* **Zhang, X.***, Estoque, R. C., Murayama, Y. (2017). "An urban heat island study in Nanchang City, China based on land surface temperature and social-ecological variables". _Sustainable Cities and Society_, 32, 557-568. [[link]](https://www.sciencedirect.com/science/article/pii/S221067071730094X)
