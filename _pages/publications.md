@@ -31,7 +31,21 @@ author_profile: true
 * Liu, F., **Zhang, X.**, Murayama, Y., Morimoto, T. (2020). "Impacts of land cover/use on the urban thermal environment: A comparative study of 10 megacities in China". _Remote Sensing_, 12(2), 307. [[link]](https://doi.org/10.3390/rs12020307)
 * **Zhang, X.***, Xie, H., Zhou, C., Zeng, B. (2020). "Jingdezhen: The millennium porcelain capital". _Cities_, 98, 102569. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0264275119309916)
 
-2020
+2019
+==
+* Zhou, C., **Zhang, X.*** (2020). "Measuring the efficiency of fiscal policies for environmental pollution control and the spatial effect of fiscal decentralization in China". _International Journal of Environmental Research and Public Health_, 17(23), 8974. [[link]](https://www.mdpi.com/1660-4601/17/23/8974)
+* **Zhang, X.***, Xie, H., Shi, J., Lv, T., Zhou, C., Liu, W. (2020). "Assessing changes in ecosystem service values in response to land cover dynamics in Jiangxi province, China". _International Journal of Environmental Research and Public Health_, 17(9), 3018. [[link]](https://doi.org/10.3390/ijerph17093018)
+* Liu, F., **Zhang, X.**, Murayama, Y., Morimoto, T. (2020). "Impacts of land cover/use on the urban thermal environment: A comparative study of 10 megacities in China". _Remote Sensing_, 12(2), 307. [[link]](https://doi.org/10.3390/rs12020307)
+* **Zhang, X.***, Xie, H., Zhou, C., Zeng, B. (2020). "Jingdezhen: The millennium porcelain capital". _Cities_, 98, 102569. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0264275119309916)
+
+2018
+==
+* Zhou, C., **Zhang, X.*** (2020). "Measuring the efficiency of fiscal policies for environmental pollution control and the spatial effect of fiscal decentralization in China". _International Journal of Environmental Research and Public Health_, 17(23), 8974. [[link]](https://www.mdpi.com/1660-4601/17/23/8974)
+* **Zhang, X.***, Xie, H., Shi, J., Lv, T., Zhou, C., Liu, W. (2020). "Assessing changes in ecosystem service values in response to land cover dynamics in Jiangxi province, China". _International Journal of Environmental Research and Public Health_, 17(9), 3018. [[link]](https://doi.org/10.3390/ijerph17093018)
+* Liu, F., **Zhang, X.**, Murayama, Y., Morimoto, T. (2020). "Impacts of land cover/use on the urban thermal environment: A comparative study of 10 megacities in China". _Remote Sensing_, 12(2), 307. [[link]](https://doi.org/10.3390/rs12020307)
+* **Zhang, X.***, Xie, H., Zhou, C., Zeng, B. (2020). "Jingdezhen: The millennium porcelain capital". _Cities_, 98, 102569. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0264275119309916)
+
+2017
 ==
 * Zhou, C., **Zhang, X.*** (2020). "Measuring the efficiency of fiscal policies for environmental pollution control and the spatial effect of fiscal decentralization in China". _International Journal of Environmental Research and Public Health_, 17(23), 8974. [[link]](https://www.mdpi.com/1660-4601/17/23/8974)
 * **Zhang, X.***, Xie, H., Shi, J., Lv, T., Zhou, C., Liu, W. (2020). "Assessing changes in ecosystem service values in response to land cover dynamics in Jiangxi province, China". _International Journal of Environmental Research and Public Health_, 17(9), 3018. [[link]](https://doi.org/10.3390/ijerph17093018)
