@@ -29,5 +29,6 @@
 
 
 2017
+=
 * Wang, W., Xie, H., Lu, F., **Zhang, X.** (2017). "Measuring the performance of industrial green development using a non-radial directional distance function approach: A case study of Jiangxi province in China". _Sustainability_, 9(10), 1757. [[link]](https://www.mdpi.com/2071-1050/9/10/1757)
 * **Zhang, X.***, Estoque, R. C., Murayama, Y. (2017). "An urban heat island study in Nanchang City, China based on land surface temperature and social-ecological variables". _Sustainable Cities and Society_, 32, 557-568. [[link]](https://www.sciencedirect.com/science/article/pii/S221067071730094X)
