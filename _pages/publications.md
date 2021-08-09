@@ -14,10 +14,10 @@
 
 2019
 ==
-* Zhou, C., **Zhang, X.*** (2020). "Measuring the efficiency of fiscal policies for environmental pollution control and the spatial effect of fiscal decentralization in China". _International Journal of Environmental Research and Public Health_, 17(23), 8974. [[link]](https://www.mdpi.com/1660-4601/17/23/8974)
-* **Zhang, X.***, Xie, H., Shi, J., Lv, T., Zhou, C., Liu, W. (2020). "Assessing changes in ecosystem service values in response to land cover dynamics in Jiangxi province, China". _International Journal of Environmental Research and Public Health_, 17(9), 3018. [[link]](https://doi.org/10.3390/ijerph17093018)
-* Liu, F., **Zhang, X.**, Murayama, Y., Morimoto, T. (2020). "Impacts of land cover/use on the urban thermal environment: A comparative study of 10 megacities in China". _Remote Sensing_, 12(2), 307. [[link]](https://doi.org/10.3390/rs12020307)
-* **Zhang, X.***, Xie, H., Zhou, C., Zeng, B. (2020). "Jingdezhen: The millennium porcelain capital". _Cities_, 98, 102569. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0264275119309916)
+* Lv, T., Wang, L., **Zhang, X.**, Xie, H., Lu, H., Li, H., Liu, W., Zhang, Y. (2019). "Coupling coordinated development and exploring its influencing factors in Nanchang, China: From the perspectives of land urbanization and population urbanization". _Land_, 8(12), 178. [[link]](https://www.mdpi.com/2073-445X/8/12/178)
+* Lv, T., Xie, H., Lu, H., **Zhang, X.**, Yang, L. (2019). "A game theory-based approach for exploring water resource exploitation behavior in the Poyang Lake Basin, China". _Sustainability_, 11(22), 6237. [[link]](https://www.mdpi.com/2071-1050/11/22/6237)
+* Zhou, C., Xie, H., **Zhang, X.** (2019). "Does fiscal policy promote third-party environmental pollution control in China? An evolutionary game theoretical approach". _Sustainability_, 11(16), 4434. [[link]](https://www.mdpi.com/2071-1050/11/16/4434)
+* **Zhang, X.***, Estoque, R. C., Xie, H., Murayama, Y., Ranagalage, M. (2019). "Bibliometric analysis of highly cited articles on ecosystem services". _PLoS ONE_, 14(2), e0210707. [[link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210707)
 
 2018
 ==
