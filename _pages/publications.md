@@ -13,14 +13,14 @@
 * **Zhang, X.***, Xie, H., Zhou, C., Zeng, B. (2020). "Jingdezhen: The millennium porcelain capital". _Cities_, 98, 102569. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0264275119309916)
 
 2019
-==
+====
 * Lv, T., Wang, L., **Zhang, X.**, Xie, H., Lu, H., Li, H., Liu, W., Zhang, Y. (2019). "Coupling coordinated development and exploring its influencing factors in Nanchang, China: From the perspectives of land urbanization and population urbanization". _Land_, 8(12), 178. [[link]](https://www.mdpi.com/2073-445X/8/12/178)
 * Lv, T., Xie, H., Lu, H., **Zhang, X.**, Yang, L. (2019). "A game theory-based approach for exploring water resource exploitation behavior in the Poyang Lake Basin, China". _Sustainability_, 11(22), 6237. [[link]](https://www.mdpi.com/2071-1050/11/22/6237)
 * Zhou, C., Xie, H., **Zhang, X.** (2019). "Does fiscal policy promote third-party environmental pollution control in China? An evolutionary game theoretical approach". _Sustainability_, 11(16), 4434. [[link]](https://www.mdpi.com/2071-1050/11/16/4434)
 * **Zhang, X.***, Estoque, R. C., Xie, H., Murayama, Y., Ranagalage, M. (2019). "Bibliometric analysis of highly cited articles on ecosystem services". _PLoS ONE_, 14(2), e0210707. [[link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210707)
 
 2018
-==
+====
 * Ranagalage, M., Dissanayake, D., Murayama, Y., **Zhang, X.***, Estoque, R. C., Perera, E., Morimoto, T. (2018). "Quantifying surface urban heat island formation in the world heritage tropical mountain city of Sri Lanka". _ISPRS International Journal of Geo-Information_, 7(9), 341. [[link]](https://www.mdpi.com/2220-9964/7/9/341)
 * Ranagalage, M., Estoque, R. C., Handayani, H. H., **Zhang, X.**, Morimoto, T., Tadono, T., Murayama, Y. (2018). "Relation between urban volume and land surface temperature: A comparative study of planned and traditional cities in Japan". _Sustainability_, 10(7), 2366. [[link]](https://www.mdpi.com/2071-1050/10/7/2366)
 * Lu, H., Xie, H., He, Y., Wu, Z., **Zhang, X.** (2018). "Assessing the impacts of land fragmentation and plot size on yields and costs: A translog production model and cost function approach". _Agricultural Systems_, 161, 81-88. [[link]](https://www.sciencedirect.com/science/article/pii/S0308521X17309034)
@@ -29,6 +29,6 @@
 
 
 2017
-=
+====
 * Wang, W., Xie, H., Lu, F., **Zhang, X.** (2017). "Measuring the performance of industrial green development using a non-radial directional distance function approach: A case study of Jiangxi province in China". _Sustainability_, 9(10), 1757. [[link]](https://www.mdpi.com/2071-1050/9/10/1757)
 * **Zhang, X.***, Estoque, R. C., Murayama, Y. (2017). "An urban heat island study in Nanchang City, China based on land surface temperature and social-ecological variables". _Sustainable Cities and Society_, 32, 557-568. [[link]](https://www.sciencedirect.com/science/article/pii/S221067071730094X)
