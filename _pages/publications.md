@@ -26,7 +26,8 @@ author_profile: true
 
 2021
 ====
-* Lv, T., Liu, W., **Zhang, X.***, Yao, L. (2021). "Spatiotemporal evolution of the green efficiency of industrial water resources and its influencing factors in the Poyang Lake region". _Physics and Chemistry of the Earth_, 123, 103049. [[link]](https://www.sciencedirect.com/science/article/pii/S1474706521000929)
-* Lv, T., Wang, L., Xie, H., **Zhang, X.***, Zhang, Y. (2021). "Exploring the global research trends of land use planning based on a bibliometric analysis: Current status and future prospects". _Land_, 10(3), 304. [[link]](https://www.mdpi.com/2073-445X/10/3/304)
-* Xie, H., Wen, Y., Choi, Y., **Zhang, X.** (2021). "Global trends on food security research: A bibliometric analysis". _Land_, 10(2), 119. [[link]](https://www.mdpi.com/2073-445X/10/2/119)
-* Lv, T., Wang, L., Xie, H., **Zhang, X.**, Zhang, Y. (2021). "Exploring the global research trends of land use planning based on a bibliometric analysis: Current status and future prospects". _Ecological Informatics_, 61, 101218. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S1574954121000091)
+* Zhou, C., **Zhang, X.*** (2020). "Measuring the efficiency of fiscal policies for environmental pollution control and the spatial effect of fiscal decentralization in China". _International Journal of Environmental Research and Public Health_, 17(23), 8974. [[link]](https://www.mdpi.com/1660-4601/17/23/8974)
+* **Zhang, X.***, Xie, H., Shi, J., Lv, T., Zhou, C., Liu, W. (2020). "Assessing changes in ecosystem service values in response to land cover dynamics in Jiangxi province, China". _International Journal of Environmental Research and Public Health_, 17(9), 3018. [[link]](https://doi.org/10.3390/ijerph17093018)
+* Liu, F., **Zhang, X.**, Murayama, Y., Morimoto, T. (2020). "Impacts of land cover/use on the urban thermal environment: A comparative study of 10 megacities in China". _Remote Sensing_, 12(2), 307. [[link]](https://doi.org/10.3390/rs12020307)
+* **Zhang, X.***, Xie, H., Zhou, C., Zeng, B. (2020). "Jingdezhen: The millennium porcelain capital". _Cities_, 98, 102569. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0264275119309916)
+
