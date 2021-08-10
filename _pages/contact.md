@@ -6,11 +6,6 @@ redirect_from:
   - /contact
 ---
 
-{% include base_path %}
-
----
-
-
 # Address
 
 Institute of Ecological Civilization  
