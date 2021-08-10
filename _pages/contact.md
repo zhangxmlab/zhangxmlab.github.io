@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /contact_us/
+permalink: /contact/
 author_profile: true
 redirect_from:
   - /contact
