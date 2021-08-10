@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The Zhang Group|Jiangxi University of Finance and Economics"
+title: "The Zhang Group"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is a website for the Zhang Group @ Jiangxi University of Finance and Economics.
+
