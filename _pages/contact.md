@@ -12,9 +12,6 @@ redirect_from:
 # Address
 Institute of Ecological Civilization  
 Jiangxi University of Finance and Economics
-     
-邮箱：zhangyuzhong at westlake.edu.cn  
-电话：(0571)87089389/ (0571)87089883  
 
 
 No. 169, East Shuanggang Road
