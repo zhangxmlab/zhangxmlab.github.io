@@ -1,0 +1,13 @@
+{% include base_path %}
+
+<div style="clear: both;">
+  {% if include.image_path %}
+  <div style="float: left; margin-right: 2em; width:25%; height:25%; ">
+    <img src="{{ include.image_path  | prepend: "/images/" | prepend: base_path }}" alt="">
+  </div>
+  {% endif %}
+  <div>
+    <h2>{{ include.title }}</h2>
+    {{ include.description | markdownify }}
+  </div>
+</div>
