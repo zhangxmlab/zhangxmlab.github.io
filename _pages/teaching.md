@@ -1,0 +1,20 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+Submitted
+=====
+* Daniel Cusworth, Alexis Bloom, Shuang Ma, Charles Miller, Kevin Bowman, Yi Yin, Joannes Maasakkers, Yuzhong Zhang, Tia Scarpelli, Daniel Jacob, John Worden: <font color="#e63900">A Bayesian framework for deriving sector-based methane emissions from top-down fluxes</font>, submitted to _Nature Communications_, 2021.
+* Zhen Qu, Daniel J. Jacob, Lu Shen, Xiao Lu, **Yuzhong Zhang**, Tia R. Scarpelli, Hannah O. Nesser, Melissa P. Sulprizio, Joannes D. Maasakkers, A. Anthony Bloom, John R. Worden, Robert J. Parker, Alba L. Delgado: <font color="#e63900"> Global distribution of methane emissions: a comparative inverse analysis of observations from the TROPOMI and GOSAT satellite instruments</font>, _Atmos. Chem. Phys. Discuss._, in review, 2021. [[link]](https://doi.org/10.5194/acp-2021-309)
+* Irakulis-Loitxate, I., L. Guanter, Y.-N. Liu, D.J. Varon, J.D. Maasakkers, **Y. Zhang**, A.K. Thorpe, R.M. Duren, C. Frankenberg, D. Lyon, B. Hmiel, D.H. Cusworth, Y. Zhang, K. Segl, J. Gorron, E. Sanchez-Garcıa, M.P.  Sulprizio, K. Cao, H. Zhu, J. Liang, X. Li, I. Aben, D.J. Jacob: <font color="#e63900">Satellite-based survey of extreme methane emissions in the Permian Basin</font>, accepted by  _Science Advances_, 2020.
+* Nesser, H., Jacob, D. J., Maasakkers, J. D., Scarpelli, T. R., Sulprizio, M. P., **Zhang, Y.**, and Rycroft, C. H., <font color="#e63900">Reduced-Cost Construction of Jacobian Matrices for High-Resolution Inversions of Satellite Observations of Atmospheric Composition</font>, _Atmos. Meas. Tech. Discuss._, https://doi.org/10.5194/amt-2020-451, in review, 2020.[[link]](https://amt.copernicus.org/preprints/amt-2020-451/)
+* Shuang Ma, John R Worden, A. Anthony Bloom, **Yuzhong Zhang**, Benjamin Poulter, Daniel H. Cusworth, Yi Yin, Sudhanshu Pandey, Joannes D. Maasakkers, Xiao Lu, Lu Shen, Jianxiong Sheng, Christian Frankenberg, Charles E. Miller, Daniel J. Jacob: <font color="#e63900">Satellite methane observations constrain latitudinal distribution of wetland emissions and their climate sensitivity</font>, submitted to _AGU Advances_, 2021
