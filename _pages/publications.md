@@ -1,3 +1,17 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+
 2021
 ====
 * Lv, T., Liu, W., **Zhang, X.***, Yao, L. (2021). "Spatiotemporal evolution of the green efficiency of industrial water resources and its influencing factors in the Poyang Lake region". _Physics and Chemistry of the Earth_, 123, 103049. [[link]](https://www.sciencedirect.com/science/article/pii/S1474706521000929)
