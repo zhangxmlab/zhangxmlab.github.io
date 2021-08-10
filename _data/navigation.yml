@@ -6,7 +6,7 @@ main:
     
   - title: "People"
     url: /people/
-    [[research]](https://zhangxmlab.github.io/people/)
+    [[people]](https://zhangxmlab.github.io/people/)
     
   - title: "Publications"
     url: /publications/   
