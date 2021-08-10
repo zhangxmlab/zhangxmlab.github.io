@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 
-# 联系方式 Contact Information
+# Address
 
 Institute of Ecological Civilization  
 Jiangxi University of Finance and Economics  
