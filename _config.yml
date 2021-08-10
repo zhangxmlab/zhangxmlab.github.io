@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "西湖大学大气环境研究组"
+title                    : "The Zhang Group"
 title_separator          : "-"
-name                     : &name "Atmospheric Environment Research @ Westlake University"
-description              : &description "Atmospheric chemistry modeling & data analysis"
-url                      : https://febfly.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "The Zhang Group"
+description              : &description "Landscape Ecology and Ecosystem Management"
+url                      : https://zhangxmlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "febfly"
+repository               : "zhangxmlab"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
 #  facebook         :
   foursquare       :
-  github           : "febfly"
+  github           : "zhangxmlab"
   google_plus      :
   keybase          :
   instagram        :
