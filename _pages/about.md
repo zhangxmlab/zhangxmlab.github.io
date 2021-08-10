@@ -10,4 +10,3 @@ redirect_from:
 
 Our research focuses on ...
 
-
