@@ -24,11 +24,11 @@ zhangxm1217(at)yahoo.com
 邮箱：zhangyuzhong at westlake.edu.cn  
 电话：(0571)87089389/ (0571)87089883  
 
-Institute of Ecological Civilizationp  
-WJiangxi University of Finance and Economicsg  
-1No. 169, East Shuanggang Roada  
-ENanchang 330013, Chinan  
-Tel: (0571)87089389/ (0571)87089883  
+Institute of Ecological Civilization  
+WJiangxi University of Finance and Economics  
+1No. 169, East Shuanggang Road  
+ENanchang 330013, China  
+  
 
 
 # Address
