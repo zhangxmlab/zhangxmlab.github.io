@@ -2,10 +2,12 @@
 main:
   - title: "Research"
     url: /research/
-
+    [[research]](https://zhangxmlab.github.io/research/)
+    
   - title: "People"
     url: /people/
-
+    [[research]](https://zhangxmlab.github.io/people/)
+    
   - title: "Publications"
     url: /publications/   
 
