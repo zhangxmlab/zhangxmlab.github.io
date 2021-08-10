@@ -4,6 +4,10 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
+# Opportunity
+
+I am recruiting 1-2 graduate students majoring in Land Resource and Ecological Economics every year, welcome to join us.
+
 
 # Address
 
