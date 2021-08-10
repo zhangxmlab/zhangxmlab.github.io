@@ -24,10 +24,10 @@ zhangxm1217(at)yahoo.com
 邮箱：zhangyuzhong at westlake.edu.cn  
 电话：(0571)87089389/ (0571)87089883  
 
-Atmospheric Environment Research Group  
-Westlake University, School of Engineering  
-18 Shilongshan Rd, Hangzhou, China  
-Email: zhangyuzhong at westlake.edu.cn  
+Institute of Ecological Civilizationp  
+WJiangxi University of Finance and Economicsg  
+1No. 169, East Shuanggang Roada  
+ENanchang 330013, Chinan  
 Tel: (0571)87089389/ (0571)87089883  
 
 
