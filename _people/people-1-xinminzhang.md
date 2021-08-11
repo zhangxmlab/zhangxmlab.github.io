@@ -1,7 +1,7 @@
 
 ---
 title: "Xinmin Zhang"
-excerpt: "<img src='/images/group/ZhangYuzhong_sm.JPG' class='rounded-corners'><br/>Principle investigator "
+excerpt: "<img src='/images/group/XinminZhang_sm.jpg' class='rounded-corners'><br/>Principle investigator "
 collection: people
 ---
 <img src='/images/group/XinminZhang.jpg' class='rounded-corners'>
