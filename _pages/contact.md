@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-# Perspective Students
+# Prospective Students
 
 I am recruiting 1-2 graduate students majoring in Land Resource and Ecological Economics every year. If you are interested in any aspect of my current research or any work I have done in the past, please feel free to contact me. Welcome to join us.
 
