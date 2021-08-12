@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.team %}
+{% for post in site.people %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
