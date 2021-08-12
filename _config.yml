@@ -78,22 +78,6 @@ analytics:
     tracking_id          :
 
 
-# Site Author
-author:
-  name             : "Atmospheric Environment Research Group @ Westlake University"
-  avatar           : "profile.png"
-  bio              : "atmospheric chemistry modeling | data analysis | air pollution | climate change | greenhouse gas"
-  location         : "Hangzhou, China"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=jLzcXpMAAAAJ&hl=zh-CN"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
 #  facebook         :
   foursquare       :
   github           : "zhangxmlab"
@@ -187,7 +171,7 @@ collections:
 #  talks:
 #    output: true
 #    permalink: /:collection/:path/
-  team:
+  people:
     output: true
     permalink: /:collection/:path/
 
@@ -256,10 +240,10 @@ defaults:
       author_profile: false
       share: false
       comment: false
-  # _team
+  # _people
   - scope:
       path: ""
-      type: team
+      type: people
     values:
       layout: single
       author_profile: true
