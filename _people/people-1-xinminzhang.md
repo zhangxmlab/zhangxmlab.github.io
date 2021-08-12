@@ -13,4 +13,4 @@ collection: people
 * **Jiangxi Normal University**, B.S., Geographical Sciences, _2009-2013_
 
 ## Research Interests
-  Landscape Ecology; Ecosystem Services; Land Management; Environmental Pollution
+    Landscape Ecology; Ecosystem Services; Land Management; Environmental Pollution
