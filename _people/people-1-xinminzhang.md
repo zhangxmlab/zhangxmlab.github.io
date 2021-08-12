@@ -10,7 +10,8 @@ collection: people
 * **University of Tsukuba**, 2013-2019
   * Ph.D. in Geoenvironmental Sciences
   * M.Sc. in Geosciences
-* **Jiangxi Normal University**, B.Sc. in Geographical Sciences, 2009-2013
+* **Jiangxi Normal University**, 2009-2013
+  * B.Sc. in Geographical Sciences
 
 ## Research Interests
   * Land Management; Landscape Ecology; Ecosystem Services; Environmental Pollution
