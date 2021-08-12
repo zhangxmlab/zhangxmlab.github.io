@@ -8,7 +8,7 @@ collection: people
 
 ## Education
 * **University of Tsukuba**, 2013-2019
-  * Ph.D. in Goeenvironmental Sciences
+  * Ph.D. in Geoenvironmental Sciences
   * M.Sc. in Geosciences
 * **Jiangxi Normal University**, B.Sc., Geographical Sciences, 2009-2013
 
