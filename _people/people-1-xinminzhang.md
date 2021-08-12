@@ -1,10 +1,9 @@
-
 ---
 title: "Xinmin Zhang"
-excerpt: "<img src='/images/group/XinminZhang_small.jpg' class='rounded-corners'><br/>Principle investigator "
+excerpt: "<img src='/images/group/XinminZhang_small.JPG' class='rounded-corners'><br/>Principle investigator"
 collection: people
 ---
-<img src='/images/group/XinminZhang.jpg' class='rounded-corners'>
+<img src='/images/group/XinminZhang.JPG' class='rounded-corners'>
 <br/>Dr. Xinmin Zhang is an Assistant Professor in the Institute of Ecological Civilization at Jiangxi University of Finance and Economics.<br/>
 
 ## Education
