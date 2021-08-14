@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Zhang Group @JUFE"
+title                    : "The Zhang Group @Jiangxi University of Finance and Economics"
 title_separator          : "-"
-name                     : &name "The Zhang Group @JUFE"
+name                     : &name "The Zhang Group @Jiangxi University of Finance and Economics"
 description              : &description "Landscape Ecology and Ecosystem Management"
 url                      : https://zhangxmlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
