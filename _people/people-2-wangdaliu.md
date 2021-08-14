@@ -7,4 +7,3 @@ collection: people
 
 ## Education
 * 2019-Now **Jiangxi University of Finance and Economics**, Land Resource and Ecological Economics (Graduate Student)
-* 2014-2018 **xx University**, Land Resource Management (Bachelor)
