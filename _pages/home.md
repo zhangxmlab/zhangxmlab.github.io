@@ -12,5 +12,4 @@ redirect_from:
 
 # The Zhang Group @ Jiangxi University of Finance and Economics
 ---
-
 Our research focuses on ...
