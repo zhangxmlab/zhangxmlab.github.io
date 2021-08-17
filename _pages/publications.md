@@ -36,7 +36,6 @@ Total number of citations = 460; H-index = 9 (Aug. 2021)
 * Ranagalage, M., Estoque, R. C., **Zhang, X.***, Murayama, Y. (2018). "Spatial changes of urban heat island formation in the Colombo District, Sri Lanka: Implications for sustainability planning". _Sustainability_, 10(5), 1367. [[Link]](https://www.mdpi.com/2071-1050/10/5/1367)
 * Xie, H., Wang, W., **Zhang, X.** (2018). "Evolutionary game and simulation of management strategies of fallow cultivated land: A case study in Hunan province, China". _Land Use Policy_, 71, 86-97. [[Link]](https://www.sciencedirect.com/science/article/pii/S0264837717311328)
 
-
 2017
 ====
 * Wang, W., Xie, H., Lu, F., **Zhang, X.** (2017). "Measuring the performance of industrial green development using a non-radial directional distance function approach: A case study of Jiangxi province in China". _Sustainability_, 9(10), 1757. [[Link]](https://www.mdpi.com/2071-1050/9/10/1757)
