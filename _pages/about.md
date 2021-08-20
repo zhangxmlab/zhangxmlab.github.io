@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The Zhang Group @JUFE"
+title: "Zhang Group @JUFE"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
