@@ -26,7 +26,7 @@ Total number of citations = 460; H-index = 10 (Aug. 2021)
 (11) Lv, T., Wang, L., <strong>Zhang, X.</strong>, Xie, H., Lu, H., Li, H., Liu, W., Zhang, Y. (2019). "Coupling coordinated development and exploring its influencing factors in Nanchang, China: From the perspectives of land urbanization and population urbanization". _Land_, 8(12), 178. [[Link]](https://www.mdpi.com/2073-445X/8/12/178)  
 (10) Lv, T., Xie, H., Lu, H., <strong>Zhang, X.</strong>, Yang, L. (2019). "A game theory-based approach for exploring water resource exploitation behavior in the Poyang Lake Basin, China". _Sustainability_, 11(22), 6237. [[Link]](https://www.mdpi.com/2071-1050/11/22/6237)  
 (9) Zhou, C., Xie, H., <strong>Zhang, X.</strong> (2019). "Does fiscal policy promote third-party environmental pollution control in China? An evolutionary game theoretical approach". _Sustainability_, 11(16), 4434. [[Link]](https://www.mdpi.com/2071-1050/11/16/4434)  
-(8) <strong>Zhang, X.*</strong>, Estoque, R. C., Xie, H., Murayama, Y., Ranagalage, M. (2019). "Bibliometric analysis of highly cited articles on ecosystem services". _PLoS ONE_, 14(2), e0210707. [[Link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210707)
+[8] <strong>Zhang, X.*</strong>, Estoque, R. C., Xie, H., Murayama, Y., Ranagalage, M. (2019). "Bibliometric analysis of highly cited articles on ecosystem services". _PLoS ONE_, 14(2), e0210707. [[Link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210707)
 
 2018
 ====
