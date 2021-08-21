@@ -30,11 +30,11 @@ Total number of citations = 460; H-index = 10 (Aug. 2021)
 
 2018
 ====
-(7) Ranagalage, M., Dissanayake, D., Murayama, Y., **Zhang, X.***, Estoque, R. C., Perera, E., Morimoto, T. (2018). "Quantifying surface urban heat island formation in the world heritage tropical mountain city of Sri Lanka". _ISPRS International Journal of Geo-Information_, 7(9), 341. [[Link]](https://www.mdpi.com/2220-9964/7/9/341)  
-(6) Ranagalage, M., Estoque, R. C., Handayani, H. H., **Zhang, X.**, Morimoto, T., Tadono, T., Murayama, Y. (2018). "Relation between urban volume and land surface temperature: A comparative study of planned and traditional cities in Japan". _Sustainability_, 10(7), 2366. [[Link]](https://www.mdpi.com/2071-1050/10/7/2366)  
-**(5)** Lu, H., Xie, H., He, Y., Wu, Z., **Zhang, X.** (2018). "Assessing the impacts of land fragmentation and plot size on yields and costs: A translog production model and cost function approach". _Agricultural Systems_, 161, 81-88. [[Link]](https://www.sciencedirect.com/science/article/pii/S0308521X17309034)  
-**(4)** Ranagalage, M., Estoque, R. C., **Zhang, X.***, Murayama, Y. (2018). "Spatial changes of urban heat island formation in the Colombo District, Sri Lanka: Implications for sustainability planning". _Sustainability_, 10(5), 1367. [[Link]](https://www.mdpi.com/2071-1050/10/5/1367)  
-**(3)** Xie, H., Wang, W., **Zhang, X.** (2018). "Evolutionary game and simulation of management strategies of fallow cultivated land: A case study in Hunan province, China". _Land Use Policy_, 71, 86-97. [[Link]](https://www.sciencedirect.com/science/article/pii/S0264837717311328)
+<font color="#e63900">(7)</font> Ranagalage, M., Dissanayake, D., Murayama, Y., **Zhang, X.***, Estoque, R. C., Perera, E., Morimoto, T. (2018). "Quantifying surface urban heat island formation in the world heritage tropical mountain city of Sri Lanka". _ISPRS International Journal of Geo-Information_, 7(9), 341. [[Link]](https://www.mdpi.com/2220-9964/7/9/341)  
+<font color="#e63900">(6)</font> Ranagalage, M., Estoque, R. C., Handayani, H. H., **Zhang, X.**, Morimoto, T., Tadono, T., Murayama, Y. (2018). "Relation between urban volume and land surface temperature: A comparative study of planned and traditional cities in Japan". _Sustainability_, 10(7), 2366. [[Link]](https://www.mdpi.com/2071-1050/10/7/2366)  
+<font color="#e63900">(5)</font> Lu, H., Xie, H., He, Y., Wu, Z., **Zhang, X.** (2018). "Assessing the impacts of land fragmentation and plot size on yields and costs: A translog production model and cost function approach". _Agricultural Systems_, 161, 81-88. [[Link]](https://www.sciencedirect.com/science/article/pii/S0308521X17309034)  
+<font color="#e63900">(4)</font> Ranagalage, M., Estoque, R. C., **Zhang, X.***, Murayama, Y. (2018). "Spatial changes of urban heat island formation in the Colombo District, Sri Lanka: Implications for sustainability planning". _Sustainability_, 10(5), 1367. [[Link]](https://www.mdpi.com/2071-1050/10/5/1367)  
+<font color="#e63900">(3)</font> Xie, H., Wang, W., **Zhang, X.** (2018). "Evolutionary game and simulation of management strategies of fallow cultivated land: A case study in Hunan province, China". _Land Use Policy_, 71, 86-97. [[Link]](https://www.sciencedirect.com/science/article/pii/S0264837717311328)
 
 2017
 ====
