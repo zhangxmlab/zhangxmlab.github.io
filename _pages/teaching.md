@@ -19,5 +19,5 @@ Courses (whole semester):
 Courses (2-3 times for a semester):
 =====
 * Reading and Writing on Resource Economics II (Graduate Students, Spring 2020/21)
-* Reading and Writing on Resource Economics I (Graduate Students, Fall 2019/20)
+* Reading and Writing on Resource Economics I (Graduate Students, Fall 2019/20/21)
 * Reading and Writing (Graduate Students, Fall 2019/20)
