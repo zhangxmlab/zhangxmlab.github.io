@@ -10,10 +10,4 @@ redirect_from:
 
 # Welcome to the Zhang Group @JUFE
 
-# About us
-
 Our research focuses on ...
-
-
-# Recent News
-
