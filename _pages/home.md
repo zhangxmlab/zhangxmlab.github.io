@@ -11,4 +11,11 @@ redirect_from:
 {% include base_path %}
 
 ---
+
+# About us
+
 Our research focuses on ...
+
+
+# Recent News
+
