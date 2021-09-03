@@ -11,6 +11,7 @@ redirect_from:
 {% include base_path %}
 
 ---
+# Welcome to the Zhang group @JUFE
 
 # About us
 
