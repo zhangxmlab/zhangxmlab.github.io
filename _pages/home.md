@@ -8,7 +8,7 @@ redirect_from:
   - /home
 ---
 
-# Welcome to the Zhang Group @JUFE
+# Welcome to the Zhang Group @Jiangxi University of Finance and Economics
 
 # About us
 
