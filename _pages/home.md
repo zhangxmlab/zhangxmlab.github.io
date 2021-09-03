@@ -15,4 +15,4 @@ redirect_from:
 ---
 <img src='/images/gallery/JUFE.jpg'> 
 
-Our research focuses on ...
+Our research focuses on land management, landscape ecology, ecosystem services, and environmental pollution.
