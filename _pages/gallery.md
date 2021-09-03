@@ -4,4 +4,4 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
-<img src='/images/gallery/JUFE.jpg' class='rounded-corners'>
+<img src='/images/group/JUFE.jpg' class='rounded-corners'>
