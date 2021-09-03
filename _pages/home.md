@@ -8,6 +8,11 @@ redirect_from:
   - /home
 ---
 
+
+{% include base_path %}
+
 # Welcome to the Zhang Group @JUFE
+---
+<img src='/images/gallery/JUFE.jpg'> 
 
 Our research focuses on ...
