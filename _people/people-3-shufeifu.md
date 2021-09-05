@@ -9,5 +9,5 @@ collection: people
 * 2020-Now **Jiangxi University of Finance and Economics**, Land Resource Management (Graduate Student)
 * 2016-2020 **Henan Agricultural University**, Land Resource Management (Bachelor)
 
-## Email
+## E-mail
 627941356@qq.com
