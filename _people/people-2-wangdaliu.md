@@ -9,4 +9,4 @@ collection: people
 * 2019-Now **Jiangxi University of Finance and Economics**, Land Resource Management (Graduate Student)
 
 ## E-mail
-675040802@qq.com
+675040802(at)qq.com
