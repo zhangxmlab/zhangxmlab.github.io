@@ -10,4 +10,4 @@ collection: people
 * 2016-2020 **Henan Agricultural University**, Land Resource Management (Bachelor)
 
 ## E-mail
-627941356@qq.com
+fushufei0526@163.com
