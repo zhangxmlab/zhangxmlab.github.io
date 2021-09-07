@@ -7,9 +7,9 @@ author_profile: true
 
 Courses (whole semester):
 =====
-* Advanced Resource and Environmental Economics (Graduate Students, Fall 2019/20/21)
-* Resource and Environmental Economics (Graduate Students, Fall 2019/20/21)
-* Frontiers of Landscape Ecology (Graduate Students, Spring 2020)
+* Advanced Resource and Environmental Economics (PhD Course, Fall 2020)
+* Resource and Environmental Economics (Master Course, Fall 2019/21)
+* Frontiers of Landscape Ecology (PhD Course, Spring 2020)
 
 Courses (2-3 times for a semester):
 =====
