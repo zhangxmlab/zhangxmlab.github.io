@@ -1,6 +1,6 @@
 ---
 title: "Zeying Li"
-excerpt: "<img src='/images/group/ZeyingLi_small.jpg' class='rounded-corners'><br/>Graduate Student (2021)"
+excerpt: "<img src='/images/group/ZeyingLi_small.jpg' class='rounded-corners'><br/>Master Student (2021)"
 collection: people
 ---
 <img src='/images/group/ZeyingLi_small.jpg' class='rounded-corners'>
