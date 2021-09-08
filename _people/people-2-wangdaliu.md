@@ -1,6 +1,6 @@
 ---
 title: "Wangda Liu"
-excerpt: "<img src='/images/group/WangdaLiu_small.jpg' class='rounded-corners'><br/>Master Student (2019)"
+excerpt: "<img src='/images/group/WangdaLiu_small.jpg' class='rounded-corners'><br/>Graduate Student (2019)"
 collection: people
 ---
 <img src='/images/group/WangdaLiu.jpg' class='rounded-corners'>
