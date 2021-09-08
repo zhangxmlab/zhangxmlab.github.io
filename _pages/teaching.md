@@ -15,4 +15,4 @@ Courses (2-3 times for a semester):
 =====
 * Reading and Writing on Resource Economics II (Doctoral Course, Spring 2020/21)
 * Reading and Writing on Resource Economics I (Doctoral Course, Fall 2019/20/21)
-* Reading and Writing (Master Course, Fall 2019/20)
+* Professional Academic Writing (Master Course, Fall 2019/20)
