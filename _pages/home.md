@@ -15,7 +15,6 @@ redirect_from:
 ---
 <img src='/images/gallery/JUFE.jpg'> 
 
-
 Absolutely everyone in this world works based on their Time Zone.  
 People around you might seem to go ahead of you,  
 some might seem to be behind you.  
