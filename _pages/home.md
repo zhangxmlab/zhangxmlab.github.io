@@ -8,7 +8,6 @@ redirect_from:
   - /home
 ---
 
-
 {% include base_path %}
 
 # Welcome to the Zhang Group @JUFE
