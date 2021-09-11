@@ -1,5 +1,5 @@
 ---
-title: "Shufei Fu"
+title: "Shufei Fu (付舒斐)"
 excerpt: "<img src='/images/group/ShufeiFu_small.jpg' class='rounded-corners'><br/>Graduate Student (2020)"
 collection: people
 ---
