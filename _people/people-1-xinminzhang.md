@@ -1,5 +1,5 @@
 ---
-title: "Xinmin Zhang (张新民)"
+title: "Xinmin Zhang"
 excerpt: "<img src='/images/group/XinminZhang_small.jpg' class='rounded-corners'><br/>Principal Investigator"
 collection: people
 ---
