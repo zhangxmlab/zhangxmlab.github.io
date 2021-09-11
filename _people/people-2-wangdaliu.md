@@ -1,5 +1,5 @@
 ---
-title: "Wangda Liu (刘旺达)"
+title: "Wangda Liu"
 excerpt: "<img src='/images/group/WangdaLiu_small.jpg' class='rounded-corners'><br/>Graduate Student (2019)"
 collection: people
 ---
