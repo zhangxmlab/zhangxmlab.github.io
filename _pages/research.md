@@ -13,4 +13,4 @@ Research Grants (Principal Investigator):
 
 Horizontal Projects (Principal Investigator):
 =====
-* "Gross Ecosystem Product (GEP) accounting report in Gaoan City", funded by Gaoan Municipal People’s Government. (2021-2022)
+* "Gross Ecosystem Product (GEP) accounting in Gaoan City", funded by Gaoan Municipal People’s Government. (2021-2022)
