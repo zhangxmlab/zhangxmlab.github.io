@@ -1,5 +1,5 @@
 ---
-title: "Zeying Li"
+title: "Xintong Dong"
 excerpt: "<img src='/images/group/XintongDong_small.jpg' class='rounded-corners'><br/>Graduate Student (2021)"
 collection: people
 ---
