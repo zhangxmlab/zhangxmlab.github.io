@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-
 Research Grants (Principal Investigator):
 =====
 * "Ecological risk assessment and ecological security pattern optimization in Dongjiangyuan watershed based on GIS", funded by the Science and Technology Project of Jiangxi Education Department. (2021.1-2022.12)
