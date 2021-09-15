@@ -22,6 +22,7 @@ English journals
 * [[Remote Sensing of Environment]](https://www.sciencedirect.com/journal/remote-sensing-of-environment)  
 * [[Science of the Total Environment]](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
 * [[Journal of Cleaner Production]](https://www.journals.elsevier.com/journal-of-cleaner-production)  
+* [[Habitat International]](https://www.sciencedirect.com/journal/habitat-international)  
 * [[Ecological Indicators]](https://www.sciencedirect.com/journal/ecological-indicators)  
 * [[Sustainable Cities and Society]](https://www.sciencedirect.com/journal/sustainable-cities-and-society)  
 * [[Land Use Policy]](https://www.sciencedirect.com/journal/land-use-policy)  
