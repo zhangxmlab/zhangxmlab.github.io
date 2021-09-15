@@ -30,4 +30,6 @@ English journals
 * [[Sustainable Cities and Society]](https://www.sciencedirect.com/journal/sustainable-cities-and-society)  
 * [[Land Use Policy]](https://www.sciencedirect.com/journal/land-use-policy)  
 * [[Applied Geography]](https://www.sciencedirect.com/journal/applied-geography)  
+* [[Forest Ecology and Management]](https://www.sciencedirect.com/journal/forest-ecology-and-management)  
+* [[Urban Forestry & Urban Greening]](https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening)  
 * [[Journal of Geographical Sciences]](https://www.springer.com/journal/11442/)  
