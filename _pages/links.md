@@ -22,7 +22,7 @@ English journals
 * [Remote Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-environment)  
 * [Science of the Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
 * [Landscape and Urban Planning](https://www.sciencedirect.com/journal/landscape-and-urban-planning)  
-* [Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production)  
+* [Journal of Cleaner Production](https://www.sciencedirect.com/journal/journal-of-cleaner-production)  
 * [Ecosystem Services](https://www.sciencedirect.com/journal/ecosystem-services)  
 * [Science China Earth Sciences](https://www.springer.com/journal/11430)  
 * [Land Degradation & Development](https://onlinelibrary.wiley.com/journal/1099145x)  
