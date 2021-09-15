@@ -16,5 +16,5 @@ Chinese journals
 English journals
 =====
 * [[Science of the Total Environment]](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
-* [[地理学报 Acta Geographica Sinica]](http://www.geog.com.cn/CN/0375-5444/home.shtml)  
+* [[Journal of Cleaner Production]](https://www.journals.elsevier.com/journal-of-cleaner-production)  
 
