@@ -5,7 +5,6 @@ permalink: /links/
 author_profile: true
 ---
 
-
 Chinese journals
 =====
 * [[地理学报 Acta Geographica Sinica]](http://www.geog.com.cn/CN/0375-5444/home.shtml)  
@@ -14,7 +13,6 @@ Chinese journals
 * [[地球信息科学学报 Journal of Geo-Information Science]](http://geoscien.neigae.ac.cn/CN/1560-8999/current.shtml)  
 * [[生态学报 Acta Ecologica Sinica]](http://www.ecologica.cn/stxb/ch/index.aspx)  
 * [[生态科学 Ecological Science]](http://journal15.magtechjournal.com/Jwk_stkx/CN/volumn/current.shtml)  
-
 
 English journals
 =====
