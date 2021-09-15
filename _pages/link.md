@@ -21,4 +21,5 @@ English journals
 * [[Ecological Indicators]](https://www.sciencedirect.com/journal/ecological-indicators)  
 * [[Sustainable Cities and Society]](https://www.sciencedirect.com/journal/sustainable-cities-and-society)  
 * [[Land Use Policy]](https://www.sciencedirect.com/journal/land-use-policy)  
+* [[Applied Geography]](https://www.sciencedirect.com/journal/applied-geography)  
 
