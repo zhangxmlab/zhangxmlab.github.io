@@ -34,4 +34,5 @@ English journals
 * [[Applied Geography]](https://www.sciencedirect.com/journal/applied-geography)  
 * [[Forest Ecology and Management]](https://www.sciencedirect.com/journal/forest-ecology-and-management)  
 * [[Urban Forestry & Urban Greening]](https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening)  
+* [[Remote Sensing]](https://www.mdpi.com/journal/remotesensing)  
 * [[Journal of Geographical Sciences]](https://www.springer.com/journal/11442/)  
