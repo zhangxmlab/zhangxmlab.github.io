@@ -19,6 +19,8 @@ English journals
 * [[Nature Communications]](https://www.nature.com/ncomms/)  
 * [[Nature Climate Change]](https://www.nature.com/nclimate/)  
 * [[Nature Sustainability]](https://www.nature.com/natsustain/)  
+* [[Nature Sustainability]](https://www.nature.com/natsustain/)  
+* [[Nature Sustainability]](https://www.nature.com/natsustain/)  
 * [[Journal of Cleaner Production]](https://www.journals.elsevier.com/journal-of-cleaner-production)  
 * [[Ecological Indicators]](https://www.sciencedirect.com/journal/ecological-indicators)  
 * [[Sustainable Cities and Society]](https://www.sciencedirect.com/journal/sustainable-cities-and-society)  
