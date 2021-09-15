@@ -26,6 +26,7 @@ English journals
 * [[Journal of Cleaner Production]](https://www.sciencedirect.com/journal/landscape-and-urban-planning)  
 * [[Landscape and Urban Planning]](https://www.journals.elsevier.com/journal-of-cleaner-production)  
 * [[Ecosystem Services]](https://www.sciencedirect.com/journal/ecosystem-services)  
+* [[Science China Earth Sciences]](https://www.springer.com/journal/11430)  
 * [[Habitat International]](https://www.sciencedirect.com/journal/habitat-international)  
 * [[Ecological Indicators]](https://www.sciencedirect.com/journal/ecological-indicators)  
 * [[Sustainable Cities and Society]](https://www.sciencedirect.com/journal/sustainable-cities-and-society)  
