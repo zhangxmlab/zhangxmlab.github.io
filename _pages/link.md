@@ -17,4 +17,5 @@ English journals
 =====
 * [[Science of the Total Environment]](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
 * [[Journal of Cleaner Production]](https://www.journals.elsevier.com/journal-of-cleaner-production)  
+* [[Ecological Indicators]](https://www.sciencedirect.com/journal/ecological-indicators)  
 
