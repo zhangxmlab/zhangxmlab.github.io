@@ -22,6 +22,7 @@ English journals
 * [[Global Change Biology]](https://onlinelibrary.wiley.com/journal/13652486)  
 * [[Remote Sensing of Environment]](https://www.sciencedirect.com/journal/remote-sensing-of-environment)  
 * [[Science of the Total Environment]](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
+* [[Environment International]](https://www.sciencedirect.com/journal/environment-international)  
 * [[Journal of Cleaner Production]](https://www.sciencedirect.com/journal/landscape-and-urban-planning)  
 * [[Landscape and Urban Planning]](https://www.journals.elsevier.com/journal-of-cleaner-production)  
 * [[Ecosystem Services]](https://www.sciencedirect.com/journal/ecosystem-services)  
