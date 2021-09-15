@@ -20,4 +20,5 @@ English journals
 * [[Journal of Cleaner Production]](https://www.journals.elsevier.com/journal-of-cleaner-production)  
 * [[Ecological Indicators]](https://www.sciencedirect.com/journal/ecological-indicators)  
 * [[Sustainable Cities and Society]](https://www.sciencedirect.com/journal/sustainable-cities-and-society)  
+* [[Land Use Policy]](https://www.sciencedirect.com/journal/land-use-policy)  
 
