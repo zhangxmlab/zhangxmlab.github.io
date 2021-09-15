@@ -17,7 +17,7 @@ Chinese journals
 English journals
 =====
 * [[Nature Communications]](https://www.nature.com/ncomms/)  
-* [[Nature Sustainability]](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
+* [[Nature Sustainability]](https://www.nature.com/natsustain/)  
 * [[Science of the Total Environment]](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
 * [[Journal of Cleaner Production]](https://www.journals.elsevier.com/journal-of-cleaner-production)  
 * [[Ecological Indicators]](https://www.sciencedirect.com/journal/ecological-indicators)  
