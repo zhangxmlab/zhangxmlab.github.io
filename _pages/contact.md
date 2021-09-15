@@ -16,3 +16,5 @@ No. 169, East Shuanggang Street
 Nanchang 330013, China  
   
 E-mail: zhangxm1217(at)yahoo.com
+
+<img src='/images/gallery/Location.jpg'> 
