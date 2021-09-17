@@ -11,10 +11,7 @@ main:
 
     - title: "Grants"
       url: /grants/
-    
-    - title: "Projects"
-      url: /projects/
-      
+         
   - title: "People"
     url: /people/
     
