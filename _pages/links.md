@@ -32,6 +32,7 @@ English Journals
 * [Habitat International](https://www.sciencedirect.com/journal/habitat-international)  
 * [Ecological Indicators](https://www.sciencedirect.com/journal/ecological-indicators)  
 * [Ambio](https://www.springer.com/journal/13280)  
+* [Environmental Modelling & Software](https://www.sciencedirect.com/journal/environmental-modelling-and-software)  
 * [Agricultural Systems](https://www.sciencedirect.com/journal/agricultural-systems)  
 * [Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)  
 * [Land Use Policy](https://www.sciencedirect.com/journal/land-use-policy)  
