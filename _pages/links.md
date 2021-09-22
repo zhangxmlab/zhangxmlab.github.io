@@ -27,6 +27,7 @@ English Journals
 * [Journal of Cleaner Production](https://www.sciencedirect.com/journal/journal-of-cleaner-production)  
 * [Ecosystem Services](https://www.sciencedirect.com/journal/ecosystem-services)  
 * [Science China Earth Sciences](https://www.springer.com/journal/11430)  
+* [Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management)  
 * [Land Degradation & Development](https://onlinelibrary.wiley.com/journal/1099145x)  
 * [Habitat International](https://www.sciencedirect.com/journal/habitat-international)  
 * [Ecological Indicators](https://www.sciencedirect.com/journal/ecological-indicators)  
