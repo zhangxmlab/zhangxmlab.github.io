@@ -40,3 +40,4 @@ English Journals
 * [Remote Sensing](https://www.mdpi.com/journal/remotesensing)  
 * [Journal of Geographical Sciences](https://www.springer.com/journal/11442/)  
 * [Environment, Development and Sustainability](https://www.springer.com/journal/10668/)  
+* [Environmental Management](https://www.springer.com/journal/267)  
