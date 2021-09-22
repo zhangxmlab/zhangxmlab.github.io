@@ -39,3 +39,4 @@ English Journals
 * [Urban Forestry & Urban Greening](https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening)  
 * [Remote Sensing](https://www.mdpi.com/journal/remotesensing)  
 * [Journal of Geographical Sciences](https://www.springer.com/journal/11442/)  
+* [Environment, Development and Sustainability](https://www.springer.com/journal/10668/)  
