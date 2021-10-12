@@ -10,5 +10,8 @@ collection: people
 * Ph.D. in Geoenvironmental Sciences **University of Tsukuba**, 2016-2019
 * M.Sc. in Geosciences **University of Tsukuba**, 2014-2016
 
+## Academic Appointments
+* 2019.3-Now, Assistant Professor, Institute of Ecological Civilization, Jiangxi University of Finance and Economics
+
 ## Research Interests
   * Land Management; Landscape Ecology; Ecosystem Services; Environmental Pollution
