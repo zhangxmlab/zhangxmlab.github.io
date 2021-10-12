@@ -14,5 +14,4 @@ Institute of Ecological Civilization
 Jiangxi University of Finance and Economics  
 No. 169, East Shuanggang Street  
 Nanchang 330013, China  
-  
 E-mail: zhangxm1217(at)yahoo.com
