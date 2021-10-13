@@ -10,8 +10,8 @@ collection: people
 * 2019.4-Now, Assistant Professor, Institute of Ecological Civilization, Jiangxi University of Finance and Economics
 
 ## Education
-* Ph.D. in Geoenvironmental Sciences **University of Tsukuba**, 2016-2019
-* M.Sc. in Geosciences **University of Tsukuba**, 2014-2016
+* Ph.D. in Geoenvironmental Sciences **University of Tsukuba**, 2016.4-2019.3
+* M.Sc. in Geosciences **University of Tsukuba**, 2014.4-2016.3
 
 ## Research Interests
   * Land Management; Landscape Ecology; Ecosystem Services; Environmental Pollution
