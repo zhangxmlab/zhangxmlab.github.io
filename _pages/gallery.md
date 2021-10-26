@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 <img src='/images/gallery/Seminar_1.jpg'> 
-1. Seminar in our group
+<strong>1. Seminar in our group</strong>
