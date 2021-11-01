@@ -8,8 +8,7 @@ Total number of citations = 460; H-index = 10 (Aug. 2021)
 
 2021
 ====
-[22] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Xie, H., Wang, L., Fu, S. (2021). "Spatial spillover effects of urbanization on carbon emissions in the Yangtze River Delta Urban Agglomeration, China". _Environmental Science and Pollution Research_, 28. [[Link]](https://www.springer.com/journal/11356/)  
-[21] Wu, Z., Zeng, T., Yang, J., <strong>Zhang, X.*</strong> (2021). "Rural livelihood transition in Gannan Soviet Area, China: History, outlets and optimization". _Agriculture_, 11. [[Link]](https://www.mdpi.com/journal/agriculture)  
+[21] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Xie, H., Wang, L., Fu, S. (2021). "Spatial spillover effects of urbanization on carbon emissions in the Yangtze River Delta Urban Agglomeration, China". _Environmental Science and Pollution Research_, 28. [[Link]](https://www.springer.com/journal/11356/)  
 [20] Lv, T., Liu, W., <strong>Zhang, X.*</strong>, Yao, L. (2021). "Spatiotemporal evolution of the green efficiency of industrial water resources and its influencing factors in the Poyang Lake region". _Physics and Chemistry of the Earth_, 124, 103049. [[Link]](https://www.sciencedirect.com/science/article/pii/S1474706521000929)  
 [19] Lv, T., Wang, L., Xie, H., <strong>Zhang, X.*</strong>, Zhang, Y. (2021). "Exploring the global research trends of land use planning based on a bibliometric analysis: Current status and future prospects". _Land_, 10(3), 304. [[Link]](https://www.mdpi.com/2073-445X/10/3/304)  
 [18] Xie, H., Wen, Y., Choi, Y., <strong>Zhang, X.</strong> (2021). "Global trends on food security research: A bibliometric analysis". _Land_, 10(2), 119. [[Link]](https://www.mdpi.com/2073-445X/10/2/119)  
