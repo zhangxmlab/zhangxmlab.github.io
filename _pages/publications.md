@@ -8,7 +8,7 @@ Total number of citations = 501; H-index = 10 (Nov. 2021)
 
 2022
 ====
-[22] Wang, L., Lv, T., <strong>Zhang, X.*</strong>, Hu, H., Cai, X. (2022). "Global research trends and gaps in ecological compensation studies from 1990 to 2020: A scientometric review". _Journal for Nature Conservation_, 65. [[Link]](https://www.sciencedirect.com/journal/journal-for-nature-conservation)  
+[22] Wang, L., Lv, T., <strong>Zhang, X.</strong>, Hu, H., Cai, X. (2022). "Global research trends and gaps in ecological compensation studies from 1990 to 2020: A scientometric review". _Journal for Nature Conservation_, 65. [[Link]](https://www.sciencedirect.com/journal/journal-for-nature-conservation)  
 
 2021
 ====
