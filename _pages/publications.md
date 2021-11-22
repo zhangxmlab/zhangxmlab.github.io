@@ -23,8 +23,8 @@ Total number of citations = 501; H-index = 10 (Nov. 2021)
 2020
 ====
 [15] Zhou, C., <strong>Zhang, X.*</strong> (2020). "Measuring the efficiency of fiscal policies for environmental pollution control and the spatial effect of fiscal decentralization in China". _International Journal of Environmental Research and Public Health_, 17(23), 8974. [[Link]](https://www.mdpi.com/1660-4601/17/23/8974)  
-[14] <strong>Zhang, X.*</strong>, Xie, H., Shi, J., Lv, T., Zhou, C., Liu, W. (2020). "Assessing changes in ecosystem service values in response to land cover dynamics in Jiangxi province, China". _International Journal of Environmental Research and Public Health_, 17(9), 3018. [[Link]](https://doi.org/10.3390/ijerph17093018)  
-[13] Liu, F., <strong>Zhang, X.</strong>, Murayama, Y., Morimoto, T. (2020). "Impacts of land cover/use on the urban thermal environment: A comparative study of 10 megacities in China". _Remote Sensing_, 12(2), 307. [[Link]](https://doi.org/10.3390/rs12020307)  
+[14] <strong>Zhang, X.*</strong>, Xie, H., Shi, J., Lv, T., Zhou, C., Liu, W. (2020). "Assessing changes in ecosystem service values in response to land cover dynamics in Jiangxi province, China". _International Journal of Environmental Research and Public Health_, 17(9), 3018. [[Link]](https://www.mdpi.com/1660-4601/17/9/3018)  
+[13] Liu, F., <strong>Zhang, X.</strong>, Murayama, Y., Morimoto, T. (2020). "Impacts of land cover/use on the urban thermal environment: A comparative study of 10 megacities in China". _Remote Sensing_, 12(2), 307. [[Link]](https://www.mdpi.com/2072-4292/12/2/307)  
 [12] <strong>Zhang, X.*</strong>, Xie, H., Zhou, C., Zeng, B. (2020). "Jingdezhen: The millennium porcelain capital". _Cities_, 98, 102569. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0264275119309916)
 
 2019
