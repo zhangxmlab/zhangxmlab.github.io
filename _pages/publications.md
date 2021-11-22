@@ -9,7 +9,7 @@ Total number of citations = 501; H-index = 10 (Nov. 2021)
 2022
 ====
 [23] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Wang, L., Fu, S. (2022). "Impact of multi-dimensional urbanization on carbon emissions in an ecological civilization experimental area of China". _Physics and Chemistry of the Earth_, 124. [[Link]](https://www.sciencedirect.com/journal/physics-and-chemistry-of-the-earth-parts-a-b-c)  
-[22] Wang, L., Lv, T., <strong>Zhang, X.</strong>, Hu, H., Cai, X. (2022). "Global research trends and gaps in ecological compensation studies from 1990 to 2020: A scientometric review". _Journal for Nature Conservation_, 65. [[Link]](https://www.sciencedirect.com/journal/journal-for-nature-conservation)  
+[22] Wang, L., Lv, T., <strong>Zhang, X.</strong>, Hu, H., Cai, X. (2022). "Global research trends and gaps in ecological compensation studies from 1990 to 2020: A scientometric review". _Journal for Nature Conservation_, 65. [[Link]](https://doi.org/10.1016/j.jnc.2021.126097)  
 
 2021
 ====
