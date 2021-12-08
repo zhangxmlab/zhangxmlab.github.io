@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Total number of citations = 501; H-index = 10 (Nov. 2021)
+Total number of citations = 516; H-index = 10 (Dec. 2021)
 
 2022
 ====
