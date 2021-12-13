@@ -23,10 +23,8 @@ Land management
 Landscape ecology
 =
 
-
 Ecosystem services
 =
-
 
 Environmental pollution
 =
