@@ -16,3 +16,6 @@ redirect_from:
 <img src='/images/gallery/JUFE.jpg'> 
 
 Our research focuses on land management, landscape ecology, ecosystem services, and environmental pollution.
+
+
+Our collaborative research paper, entitled “Spatial spillover effects of urbanization on carbon emissions in the Yangtze River Delta urban agglomeration, China”, has been published in Environmental Science and Pollution Research. Congratulations to all the authors!
