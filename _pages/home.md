@@ -18,6 +18,6 @@ redirect_from:
 Our research focuses on land management, landscape ecology, ecosystem services, and environmental pollution.
 
 ---
-**Recent Publications** 
+**Recent Progresses** 
 * Our collaborative research paper, entitled “Spatial spillover effects of urbanization on carbon emissions in the Yangtze River Delta urban agglomeration, China”, has been published in _Environmental Science and Pollution Research_. Congratulations to all the authors!  
 * Our collaborative research paper, entitled “Global research trends and gaps in ecological compensation studies from 1990 to 2020: A scientometric review”, has been published in _Journal for Nature Conservation_. Congratulations to all the authors!
