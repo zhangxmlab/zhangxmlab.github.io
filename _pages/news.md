@@ -12,5 +12,3 @@ redirect_from:
 {% for post in site.news %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
-
-**1. Our group members attended the 6th Poyang Lake Forum**
