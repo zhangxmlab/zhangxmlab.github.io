@@ -11,7 +11,7 @@ I am recruiting 1-2 Chinese graduate students majoring in Land Resource and Ecol
 # Address
 
 Institute of Ecological Civilization  
-Jiangxi University of Finance and Economics  
+Jiangxi University of Finance and Economics (Jiaoqiao Campus)  
 No. 169, Shuanggang East Road  
 Nanchang 330013, China  
 E-mail: zhangxm1217(at)yahoo.com
