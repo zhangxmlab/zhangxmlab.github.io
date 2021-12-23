@@ -13,7 +13,7 @@ I am recruiting 1-2 Chinese graduate students majoring in Land Resource and Ecol
 Institute of Ecological Civilization  
 Jiangxi University of Finance and Economics  
 No. 169, Shuanggang East Road  
-Nanchang 330013, P.R. China  
+Nanchang 330013, China  
 E-mail: zhangxm1217(at)yahoo.com
 
 <img src='/images/gallery/JUFE_Map.jpg'> 
