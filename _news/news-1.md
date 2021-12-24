@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /news/news-1
 venue: "London School of Testing"
 date: 2014-02-01
-location: "London, UK"
+location: "Nanchang, China"
 ---
 
 [More information here](https://zhangxmlab.github.io/news/news-1)
