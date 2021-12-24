@@ -1,6 +1,6 @@
 ---
 title: "Our members attended the 6th Poyang Lake Forum and achieved gratifying awards"
-excerpt: "Description<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/500x300.png'>"
 collection: news
 ---
 
