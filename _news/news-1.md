@@ -3,7 +3,6 @@ title: "Our members attended the 6th Poyang Lake Forum and achieved gratifying p
 collection: news
 ---
 
-
 The 6th Poyang Lake Forum organized by School of Economics and Institute of Ecological Economics of Jiangxi University of Finance and economics was successfully held On 17 December 2021, in Nanchang, China. The theme of this forum is "harmonious high-quality development between human and nature".  
 
 Our members, Li Wang, Shufei Fu, Han Hu, Can Geng, and Zeying Li were invited to participate in the forum and deliver their researches. Li Wang presented the temporal and spatial evolution of urban-rural integration and influencing factors  in the middle region of the Yangtze River from the perspective of high-quality development and won the first prize in this forum; the spatial disequilibrium characteristics and influencing factors of urban ecological resilience in the Yangtze River Delta reported by Han Hu and won the second prize.  
