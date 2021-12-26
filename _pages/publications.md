@@ -8,6 +8,7 @@ Total number of citations = 526; H-index = 10 (Dec. 2021)
 
 2022
 ====
+[23] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Xie, H., Wang, L., Fu, S. (2022). "Spatial spillover effects of urbanization on carbon emissions in the Yangtze River Delta urban agglomeration, China". _Environmental Science and Pollution Research_, 29. [[Link]](https://www.springer.com/journal/11356/)  
 [22] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Xie, H., Wang, L., Fu, S. (2022). "Spatial spillover effects of urbanization on carbon emissions in the Yangtze River Delta urban agglomeration, China". _Environmental Science and Pollution Research_, 29. [[Link]](https://www.springer.com/journal/11356/)  
 [21] Wang, L., Lv, T., <strong>Zhang, X.</strong>, Hu, H., Cai, X. (2022). "Global research trends and gaps in ecological compensation studies from 1990 to 2020: A scientometric review". _Journal for Nature Conservation_, 65, 126097. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1617138121001448)  
 
