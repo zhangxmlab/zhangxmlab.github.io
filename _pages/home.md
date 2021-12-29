@@ -15,7 +15,7 @@ redirect_from:
 
 <img src='/images/gallery/Home_1.jpg'> 
 
-We are interested in topics of land management, landscape ecology, ecosystem services, and environmental pollution. Our research focuses on better understanding ecosystem services, their distributions and impacts, and their interactions with humans and nature. Besides, we are also interested in exploring some pressing environmental issues (e.g., carbon emission) and their sustainability relationship with our urbanizing planet.
+We are interested in topics of land management, landscape ecology, ecosystem services, and environmental pollution. Our research focuses on better understanding ecosystem services, their distributions and impacts, and their interactions with humans and nature. Besides, we are also interested in exploring the most pressing environmental issues (e.g., carbon emission) and their sustainability relationship with our urbanizing planet.
 
 ---
 **Recent Progresses** 
