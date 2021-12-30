@@ -8,7 +8,7 @@ Total number of citations = 539; H-index = 11 (Dec. 2021)
 
 2022
 ====
-[24] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Wang, L., Fu, S. (2022). "Impact of multidimensional urbanization on  carbon emissions in an ecological civilization experimental area of China". _Physics and Chemistry of the Earth_. [[Link]](https://www.sciencedirect.com/journal/physics-and-chemistry-of-the-earth-parts-a-b-c)  
+[24] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Wang, L., Fu, S. (2022). "Impact of multidimensional urbanization on carbon emissions in an ecological civilization experimental area of China". _Physics and Chemistry of the Earth_. [[Link]](https://www.sciencedirect.com/journal/physics-and-chemistry-of-the-earth-parts-a-b-c)  
 [23] Lv, T., Hu, H., Xie, H., <strong>Zhang, X.*</strong>, Wang, L., Shen, X. (2022). "An empirical relationship between urbanization and carbon emissions in an ecological civilization demonstration area of China based on the STIRPAT model". _Environment, Development and Sustainability_. [[Link]](https://www.springer.com/journal/10668)  
 [22] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Xie, H., Wang, L., Fu, S. (2022). "Spatial spillover effects of urbanization on carbon emissions in the Yangtze River Delta urban agglomeration, China". _Environmental Science and Pollution Research_, 29. [[Link]](https://www.springer.com/journal/11356/)  
 [21] Wang, L., Lv, T., <strong>Zhang, X.</strong>, Hu, H., Cai, X. (2022). "Global research trends and gaps in ecological compensation studies from 1990 to 2020: A scientometric review". _Journal for Nature Conservation_, 65, 126097. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1617138121001448)  
