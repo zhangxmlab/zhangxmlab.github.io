@@ -6,7 +6,6 @@ author_profile: true
 ---
 <strong>2. Strolling in Jiangxi Academy of Forestry on 19 December, 2021.</strong>
 <img src='/images/gallery/Trip_1.jpg'> 
-<img src='/images/gallery/Trip_2.jpg'> 
 <strong>1. Once every two weeks, our seminar is held in Mailu Campus, JUFE.</strong>
 <img src='/images/gallery/Seminar_2.jpg'> 
 <img src='/images/gallery/Seminar_1.jpg'> 
