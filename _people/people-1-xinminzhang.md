@@ -11,7 +11,7 @@ collection: people
 
 ## Education
 * Ph.D. in Geoenvironmental Sciences **University of Tsukuba** (2019)
-* M.Sc. in Geosciences **University of Tsukuba**, (2016)
+* M.Sc. in Geosciences **University of Tsukuba** (2016)
 
 ## Research Interests
   * Land Management; Landscape Ecology; Ecosystem Services; Environmental Pollution
