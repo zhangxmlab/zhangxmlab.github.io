@@ -10,4 +10,4 @@ collection: people
 * 2016-2020 **Jiangsu Ocean University**, Land Resource Management (Bachelor)
 
 ## E-mail
-jclchh@163.com
+jclchh(at)163.com
