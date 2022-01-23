@@ -8,6 +8,7 @@ Total number of citations = 560; H-index = 11 (Jan. 2022)
 
 2022
 ====
+[26] Wang, L., Lv, T., Xie, H., <strong>Zhang, X.</strong>, Zhang, Y., Cai, J., Liu, Y., Liu, J. (2022). "Assessing urban smart growth in China based on the Sustainable Development Goals framework". _Environment, Development and Sustainability_, 24. [[Link]](https://www.springer.com/journal/10668)  
 [25] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Wang, L., Fu, S. (2022). "Impact of multidimensional urbanization on carbon emissions in an ecological civilization experimental area of China". _Physics and Chemistry of the Earth_. [[Link]](https://www.sciencedirect.com/journal/physics-and-chemistry-of-the-earth-parts-a-b-c)  
 [24] He, Y., Zhu, Z., Xie, H., <strong>Zhang, X.</strong> (2022). "Efficiency measurement and optimization of industrial parks in underdeveloped areas: a case study of Jiangxi Province". _Environment, Development and Sustainability_, 24. [[Link]](https://www.springer.com/journal/10668)  
 [23] Lv, T., Hu, H., Xie, H., <strong>Zhang, X.*</strong>, Wang, L., Shen, X. (2022). "An empirical relationship between urbanization and carbon emissions in an ecological civilization demonstration area of China based on the STIRPAT model". _Environment, Development and Sustainability_, 24. [[Link]](https://www.springer.com/journal/10668) (Accepted)  
