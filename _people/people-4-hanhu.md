@@ -8,6 +8,3 @@ collection: people
 ## Education
 * 2020-Now **Jiangxi University of Finance and Economics**, Land Resource Management (Graduate Student)
 * 2016-2020 **Jiangsu Ocean University**, Land Resource Management (Bachelor)
-
-## E-mail
-jclchh(at)163.com
