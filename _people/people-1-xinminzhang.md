@@ -17,5 +17,5 @@ collection: people
 Land Management; Landscape Ecology; Ecosystem Services; Environmental Pollution
 
 ## Editorial Board Memberships
-* **Editorial Board**
+* **Editorial Board**  
   2022-Now, SN Social Sciences, Editorial Board, Springer
