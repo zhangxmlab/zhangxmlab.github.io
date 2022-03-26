@@ -18,4 +18,4 @@ Land Management; Landscape Ecology; Ecosystem Services; Environmental Pollution
 
 ## Editorial Board Memberships
 * **Editorial Board**  
-  2022-Now, SN Social Sciences, Editorial Board, Springer
+  2022-Now, SN Social Sciences, Springer
