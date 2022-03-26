@@ -17,4 +17,4 @@ collection: people
 Land Management; Landscape Ecology; Ecosystem Services; Environmental Pollution
 
 ## Editorial Board Memberships
-* **Editorial Board**  
+* Editorial Board  
