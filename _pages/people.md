@@ -12,5 +12,3 @@ redirect_from:
 {% for post in site.people %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
-
-**Alumni**
