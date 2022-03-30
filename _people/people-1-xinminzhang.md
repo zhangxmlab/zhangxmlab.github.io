@@ -8,7 +8,7 @@ collection: people
 
 ## Academic Appointments
 * 2019.4-Now, Assistant Professor, Institute of Ecological Civilization, Jiangxi University of Finance and Economics, China
-* 2017.4-2019.3, Research Fellow, University of Tsukuba, Japan
+* 2017.4-2019.3, JSPS Research Fellow, University of Tsukuba, Japan
 
 ## Education
 * Ph.D. in Geoenvironmental Sciences, University of Tsukuba, 2019
