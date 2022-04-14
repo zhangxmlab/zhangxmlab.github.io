@@ -4,6 +4,4 @@ excerpt: "<img src='/images/group/ShufeiFu_small.jpg' class='rounded-corners'><b
 collection: people
 ---
 <img src='/images/group/ShufeiFu.jpg' class='rounded-corners'>
-
-## Education
 * 2020-Now **Jiangxi University of Finance and Economics**, Land Resource Management (Graduate Student)
