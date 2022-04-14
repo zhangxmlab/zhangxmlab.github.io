@@ -4,6 +4,4 @@ excerpt: "<img src='/images/group/ZeyingLi_small.jpg' class='rounded-corners'><b
 collection: people
 ---
 <img src='/images/group/ZeyingLi_small.jpg' class='rounded-corners'>
-
-## Education
 * 2021-Now **Jiangxi University of Finance and Economics**, Land Resource Management (Graduate Student)
