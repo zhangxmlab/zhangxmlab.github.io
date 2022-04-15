@@ -16,4 +16,5 @@ collection: people
 ## Research Interests
 Land Management; Landscape Ecology; Ecosystem Services; Environmental Pollution
 
-## Journal Editorships
+## Editorial Board Memberships
+* Editorial Board
