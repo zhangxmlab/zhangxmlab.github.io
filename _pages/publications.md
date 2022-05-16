@@ -8,6 +8,7 @@ Total number of citations = 600; H-index = 11 (Mar. 2022)
 
 2022
 ====
+[29] Hu, H., Lv, T., <strong>Zhang, X.*</strong>, Fu, S., Geng, C., Li, Z. (2022). "Spatiotemporal pattern of regional carbon emissions and its influencing factors in the Yangtze River Delta urban agglomeration of China". _Environmental Monitoring and Assessment_, 194. [[Link]](https://www.springer.com/journal/10661)  
 [28] Wang, L., Lv, T., Xie, H., <strong>Zhang, X.</strong>, Zhang, Y., Cai, J., Liu, Y., Liu, J. (2022). "Assessing urban smart growth in China based on the Sustainable Development Goals framework". _Environment, Development and Sustainability_, 24. [[Link]](https://www.springer.com/journal/10668)  
 [27] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Wang, L., Fu, S. (2022). "Impact of multidimensional urbanization on carbon emissions in an ecological civilization experimental area of China". _Physics and Chemistry of the Earth_, 125, 103120. [[Link]](https://www.sciencedirect.com/science/article/pii/S1474706522000158)  
 [26] He, Y., Zhu, Z., Xie, H., <strong>Zhang, X.</strong>, Sheng, M. (2022). "A case study in China of the influence mechanism of industrial park efficiency using DEA". _Environment, Development and Sustainability_, 24. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02290-x)  
