@@ -8,7 +8,7 @@ Total number of citations = 650; H-index = 12 (May 2022)
 
 2022
 ====
-[30] Hu, H., Lv, T., <strong>Zhang, X.*</strong>, Fu, S., Geng, C., Li, Z. (2022). "Spatiotemporal characteristics and decoupling mechanism of economic growth and carbon emissions among 31 cities of the urban agglomeration in the middle reaches of the Yangtze River". _Environmental Monitoring and Assessment_, 194. [[Link]](https://www.springer.com/journal/10661)  
+[30] Hu, H., Lv, T., <strong>Zhang, X.*</strong>, Fu, S., Geng, C., Li, Z. (2022). "Spatiotemporal dynamics and decoupling mechanism of economic growth and carbon emissions in an urban agglomeration of China". _Environmental Monitoring and Assessment_, 194. [[Link]](https://www.springer.com/journal/10661)  
 [29] Wang, L., Lv, T., Xie, H., <strong>Zhang, X.</strong>, Zhang, Y., Cai, J., Liu, Y., Liu, J. (2022). "Assessing urban smart growth in China based on the Sustainable Development Goals framework". _Environment, Development and Sustainability_, 24. [[Link]](https://www.springer.com/journal/10668)  
 [28] Pathmanandakumar, V., Ranagalage, M., Thasarathan, N., <strong>Zhang, X.*</strong> (2022). "The emerging trend in land use and land cover change research: A bibliometric analysis". _Geomatics, Natural Hazards and Risk_, 13. [[Link]](https://www.tandfonline.com/journals/tgnh20)  
 [27] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Xie, H., Fu, S., Wang, L. (2022). "Spatiotemporal pattern of regional carbon emissions and its influencing factors in the Yangtze River Delta urban agglomeration of China". _Environmental Monitoring and Assessment_, 194. [[Link]](https://link.springer.com/article/10.1007/s10661-022-10085-w)  
