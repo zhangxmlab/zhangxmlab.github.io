@@ -9,6 +9,7 @@ collection: people
 ## Working Experience
 * 2022.9-2023.2, Visiting Scholar, Xi'an Jiaotong University, China
 * 2019.4-Now, Assistant Professor, Jiangxi University of Finance and Economics, China
+* 2017.4-2019.3, JSPS Research Fellow (DC), University of Tsukuba, Japan
 
 ## Education
 * Ph.D. in Geoenvironmental Sciences, University of Tsukuba, 2019
