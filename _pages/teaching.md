@@ -8,7 +8,7 @@ author_profile: true
 Courses (whole semester):
 =====
 * Advanced Resource and Environmental Economics (Doctoral Course, Fall 2020)
-* Resource and Environmental Economics (Master Course, Fall 2019/21)
+* Resource and Environmental Economics (Master Course, Fall 2019/21/22)
 * Frontiers of Landscape Ecology (Doctoral Course, Spring 2020)
 
 Courses (2-3 times for a semester):
