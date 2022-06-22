@@ -6,5 +6,5 @@ author_profile: true
 ---
 <strong>2. Congratulations to the graduates of 2022.</strong>
 <img src='/images/gallery/Graduation_2022.JPG'> 
-<strong>1. Strolling in Jiangxi Academy of Forestry on 19 December, 2021.</strong>
+<strong>1. Strolling in the Forestry Academy on 19 December, 2021.</strong>
 <img src='/images/gallery/Trip_1.jpg'> 
