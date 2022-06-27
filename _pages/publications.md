@@ -8,6 +8,7 @@ Total number of citations = 650; H-index = 12 (May 2022)
 
 2022
 ====
+[32] Hu, H., Lv, T., <strong>Zhang, X.</strong>, Xie, H., Fu, S., Geng, C., Li, Z. (2022). "Spatiotemporal heterogeneity and decoupling decomposition of industrial CO2 emission in the Yangtze River Delta urban agglomeration". _Environmental Science and Pollution Research_, 29. [[Link]](https://www.springer.com/journal/11356)  
 [31] Xu, Y., Yu, H., Zeng, X., <strong>Zhang, X.*</strong> (2022). "Impacts of environmental regulation on innovation from the perspective of the internet". _Environment, Development and Sustainability_, 24. [[Link]](https://www.springer.com/journal/10668)  
 [30] Hu, H., Lv, T., <strong>Zhang, X.*</strong>, Fu, S., Geng, C., Li, Z. (2022). "Spatiotemporal dynamics and decoupling mechanism of economic growth and carbon emissions in an urban agglomeration of China". _Environmental Monitoring and Assessment_, 194. [[Link]](https://link.springer.com/article/10.1007/s10661-022-10195-5)  
 [29] Wang, L., Lv, T., Xie, H., <strong>Zhang, X.</strong>, Zhang, Y., Cai, J., Liu, Y., Liu, J. (2022). "Assessing urban smart growth in China based on the Sustainable Development Goals framework". _Environment, Development and Sustainability_, 24. [[Link]](https://www.springer.com/journal/10668)  
