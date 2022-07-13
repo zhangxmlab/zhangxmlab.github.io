@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Total number of citations = 650; H-index = 12 (May 2022) [[ORCID]](https://orcid.org/0000-0002-5180-8371)
+Total number of citations = 680; H-index = 12 (July 2022) [[ORCID]](https://orcid.org/0000-0002-5180-8371)
 
 2022
 ====
