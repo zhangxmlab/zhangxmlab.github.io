@@ -13,6 +13,8 @@ redirect_from:
 ---
 “Absolutely everyone in this world works based on their time zone. People around you might seem to go ahead of you, some might seem to be behind you. But everyone is running their own race, in their own time. Life is about waiting for the right moment to act. You are very much on time, and in your time zone destiny set up for you.”
 
+<img src='/images/gallery/Home_1.jpg'>
+
 ---
 **Recent Progresses** 
 * Our collaborative research paper, entitled “Spatial spillover effects of urbanization on carbon emissions in the Yangtze River Delta urban agglomeration, China”, has been published in _Environmental Science and Pollution Research_. Congratulations to all the authors!  
