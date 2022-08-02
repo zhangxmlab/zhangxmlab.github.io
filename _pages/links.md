@@ -20,9 +20,9 @@ English Journals
 =====
 * [Nature Communications](https://www.nature.com/ncomms/)  
 * [Nature Sustainability](https://www.nature.com/natsustain/)  
+* [One Earth](https://www.sciencedirect.com/journal/one-earth))  
 * [Global Change Biology](https://onlinelibrary.wiley.com/journal/13652486)  
 * [Remote Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-environment)  
-* [Earth’s Future](https://agupubs.onlinelibrary.wiley.com/journal/23284277)  
 * [Science of the Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
 * [Landscape and Urban Planning](https://www.sciencedirect.com/journal/landscape-and-urban-planning)  
 * [Journal of Cleaner Production](https://www.sciencedirect.com/journal/journal-of-cleaner-production)  
