@@ -20,7 +20,7 @@ English Journals
 =====
 * [Nature Communications](https://www.nature.com/ncomms/)  
 * [Nature Sustainability](https://www.nature.com/natsustain/)  
-* [One Earth](https://www.sciencedirect.com/journal/one-earth))  
+* [One Earth](https://www.sciencedirect.com/journal/one-earth)  
 * [Global Change Biology](https://onlinelibrary.wiley.com/journal/13652486)  
 * [Remote Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-environment)  
 * [Science of the Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
