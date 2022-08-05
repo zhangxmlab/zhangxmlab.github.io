@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhang Lab @JUFE"
+title                    : "Ecosystem Management Lab"
 title_separator          : "-"
-name                     : &name "Zhang Lab @JUFE"
-description              : &description "Landscape Ecology and Ecosystem Management"
+name                     : &name "Ecosystem Management Lab @JUFE"
+description              : &description "Ecosystem Management"
 url                      : https://zhangxmlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhangxmlab"
