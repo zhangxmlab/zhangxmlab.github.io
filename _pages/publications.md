@@ -6,7 +6,7 @@ author_profile: true
 ---
 Total citations = 730; H-index = 13 (Google Scholar, Sep. 2022) [[ORCID]](https://orcid.org/0000-0002-5180-8371) [[Scopus]](https://www.scopus.com/authid/detail.uri?authorId=57194289047)
 
-Refereed Papers
+Refereed Articles
 ====
 2022
 ====
