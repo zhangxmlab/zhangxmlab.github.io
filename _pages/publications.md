@@ -6,6 +6,8 @@ author_profile: true
 ---
 Total citations = 730; H-index = 13 (Google Scholar, Sep. 2022) [[ORCID]](https://orcid.org/0000-0002-5180-8371) [[Scopus]](https://www.scopus.com/authid/detail.uri?authorId=57194289047)
 
+Refereed Papers
+====
 2022
 ====
 [33] Hu, H., Lv, T., <strong>Zhang, X.</strong>, Xie, H., Fu, S., Geng, C., Li, Z. (2022). "Spatiotemporal heterogeneity and decoupling decomposition of industrial CO2 emission in the Yangtze River Delta urban agglomeration". _Environmental Science and Pollution Research_, 29. [[Link]](https://www.springer.com/journal/11356)  
