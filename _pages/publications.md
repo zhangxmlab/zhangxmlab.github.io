@@ -8,7 +8,8 @@ Total citations = 730; H-index = 13 (Google Scholar, Sep. 2022) [[ORCID]](https:
 
 2022
 ====
-[30] Xu, Y., Yu, H., Zeng, X., <strong>Zhang, X.*</strong> (2022). "Impacts of environmental regulation on innovation in the context of the Internet". _Environment, Development and Sustainability_, 24. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02615-w)  
+[31] Xu, Y., Yu, H., Zeng, X., <strong>Zhang, X.*</strong> (2022). "Impacts of environmental regulation on innovation in the context of the Internet". _Environment, Development and Sustainability_, 24. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02615-w)  
+[30] Lv, T., Fu, S., <strong>Zhang, X.*</strong>, Wu, G., Hu, H., Tian, J. (2022). "Assessing cultivated land use transition in the major grain-producing areas of China based on an integrated framework". _Land_, 24. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02615-w)  
 [29] Hu, H., Lv, T., <strong>Zhang, X.*</strong>, Fu, S., Geng, C., Li, Z. (2022). "Spatiotemporal dynamics and decoupling mechanism of economic growth and carbon emissions in an urban agglomeration of China". _Environmental Monitoring and Assessment_, 194(9), 616. [[Link]](https://link.springer.com/article/10.1007/s10661-022-10195-5)  
 [28] Xiao, K., Ullah, W., Fu, J., <strong>Zhang, X.*</strong> (2022). "Poverty alleviation efficiency of tourism and its spatiotemporal differentiation in Jiangxi province of China based on the DEA model". _SAGE Open_, 12. [[Link]](https://journals.sagepub.com/home/sgo)  
 [27] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Xie, H., Fu, S., Wang, L. (2022). "Spatiotemporal pattern of regional carbon emissions and its influencing factors in the Yangtze River Delta urban agglomeration of China". _Environmental Monitoring and Assessment_, 194(7), 515. [[Link]](https://link.springer.com/article/10.1007/s10661-022-10085-w)  
