@@ -6,13 +6,6 @@ author_profile: true
 ---
 Total citations = 760; H-index = 14 (Google Scholar, Sep. 2022) [[ORCID]](https://orcid.org/0000-0002-5180-8371) [[Scopus]](https://www.scopus.com/authid/detail.uri?authorId=57194289047)
 
-Books
-====
-[1] Xie, H., Xu, Y., <strong>Zhang, X.</strong>, Zou, J. (2022). Gross Ecosystem Product (GEP) Accounting: Methods, Theories and Practices. Economic Science Press: Beijing, China. (in Chinese)
-
-Refereed Journals
-====
-
 2022
 ====
 [31] Xu, Y., Yu, H., Zeng, X., <strong>Zhang, X.*</strong> (2022). "Impacts of environmental regulation on innovation in the context of the Internet". _Environment, Development and Sustainability_, 24. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02615-w)  
