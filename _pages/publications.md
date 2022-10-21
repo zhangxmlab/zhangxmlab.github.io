@@ -6,11 +6,14 @@ author_profile: true
 ---
 Total citations = 760; H-index = 14 (Google Scholar, Sep. 2022) [[ORCID]](https://orcid.org/0000-0002-5180-8371) [[Scopus]](https://www.scopus.com/authid/detail.uri?authorId=57194289047)
 
+2023
+====
+[32] Xu, Y., Yu, H., Zeng, X., <strong>Zhang, X.*</strong> (2023). "Impacts of environmental regulation on innovation in the context of the Internet". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02615-w)  
+[31] He, Y., Zhu, Z., Xie, H., <strong>Zhang, X.</strong>, Sheng, M. (2023). "A case study in China of the influence mechanism of industrial park efficiency using DEA". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02290-x)  
+[30] <strong>Zhang, X.*</strong>, Dong, X., Liu, F., Lv, T., Wu, Z., Ranagalage, M. (2023). "Spatiotemporal dynamics of ecological security in a typical conservation region of southern China based on catastrophe theory and GIS". _Environmental Monitoring and Assessment_, 195. [[Link]](https://www.springer.com/journal/10661)  
+
 2022
 ====
-[32] Xu, Y., Yu, H., Zeng, X., <strong>Zhang, X.*</strong> (2022). "Impacts of environmental regulation on innovation in the context of the Internet". _Environment, Development and Sustainability_, 24. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02615-w)  
-[31] He, Y., Zhu, Z., Xie, H., <strong>Zhang, X.</strong>, Sheng, M. (2022). "A case study in China of the influence mechanism of industrial park efficiency using DEA". _Environment, Development and Sustainability_, 24. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02290-x)  
-[30] <strong>Zhang, X.*</strong>, Dong, X., Liu, F., Lv, T., Wu, Z., Ranagalage, M. (2022). "Spatiotemporal dynamics of ecological security in a typical conservation region of southern China based on catastrophe theory and GIS". _Environmental Monitoring and Assessment_, 194. [[Link]](https://www.springer.com/journal/10661)  
 [29] Lv, T., Fu, S., <strong>Zhang, X.</strong>, Wu, G., Hu, H., Tian, J. (2022). "Assessing cultivated land-use transition in the major grain-producing areas of China based on an integrated framework". _Land_, 11(10), 1622. [[Link]](https://www.mdpi.com/2073-445X/11/10/1622)  
 [28] Hu, H., Lv, T., <strong>Zhang, X.*</strong>, Fu, S., Geng, C., Li, Z. (2022). "Spatiotemporal dynamics and decoupling mechanism of economic growth and carbon emissions in an urban agglomeration of China". _Environmental Monitoring and Assessment_, 194(9), 616. [[Link]](https://link.springer.com/article/10.1007/s10661-022-10195-5)  
 [27] Xiao, K., Ullah, W., Fu, J., <strong>Zhang, X.*</strong> (2022). "Poverty alleviation efficiency of tourism and its spatiotemporal differentiation in Jiangxi province of China based on the DEA model". _SAGE Open_, 12. [[Link]](https://journals.sagepub.com/home/sgo)  
