@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Total citations = 760; H-index = 14 (Google Scholar, Sep. 2022) [[ORCID]](https://orcid.org/0000-0002-5180-8371) [[Scopus]](https://www.scopus.com/authid/detail.uri?authorId=57194289047)
+Total citations = 810; H-index = 14 (Google Scholar, Sep. 2022) [[ORCID]](https://orcid.org/0000-0002-5180-8371) [[Scopus]](https://www.scopus.com/authid/detail.uri?authorId=57194289047)
 
 2023
 ====
