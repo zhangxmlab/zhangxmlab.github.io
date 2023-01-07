@@ -8,7 +8,7 @@ Total citations = 810; H-index = 14 (Google Scholar, Nov. 2022) [[ORCID]](https:
 
 2023
 ====
-[32] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Wang, L., Fu, S. (2022). "Impact of multidimensional urbanization on carbon emissions in an ecological civilization experimental area of China". _Physics and Chemistry of the Earth_, 126, 103120. [[Link]](https://www.sciencedirect.com/science/article/pii/S1474706522000158)  
+[32] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Wang, L., Fu, S. (2023). "Spatiotemporal coupling of multidimensional urbanization and resource–environment performance in the Yangtze River Delta urban agglomeration of China". _Physics and Chemistry of the Earth_, 126, 103120. [[Link]](https://www.sciencedirect.com/science/article/pii/S1474706522000158)  
 [31] Xu, Y., Yu, H., Zeng, X., <strong>Zhang, X.*</strong> (2023). "Impacts of environmental regulation on innovation in the context of the Internet". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02615-w)  
 [30] He, Y., Zhu, Z., Xie, H., <strong>Zhang, X.</strong>, Sheng, M. (2023). "A case study in China of the influence mechanism of industrial park efficiency using DEA". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02290-x)  
 [29] Lv, T., Hu, H., Xie, H., <strong>Zhang, X.*</strong>, Wang, L., Shen, X. (2023). "An empirical relationship between urbanization and carbon emissions in an ecological civilization demonstration area of China based on the STIRPAT model". _Environment, Development and Sustainability_, 24. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02144-6)  
