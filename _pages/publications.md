@@ -8,9 +8,9 @@ Total citations = 810; H-index = 14 (Google Scholar, Nov. 2022) [[ORCID]](https:
 
 2023
 ====
-[32] Xu, Y., Yu, H., Zeng, X., <strong>Zhang, X.*</strong> (2023). "Impacts of environmental regulation on innovation in the context of the Internet". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02615-w)  
-[31] He, Y., Zhu, Z., Xie, H., <strong>Zhang, X.</strong>, Sheng, M. (2023). "A case study in China of the influence mechanism of industrial park efficiency using DEA". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02290-x)  
-[30] Xiao, K., Ullah, W., Fu, J., <strong>Zhang, X.*</strong> (2023). "Poverty alleviation efficiency of tourism and its spatiotemporal differentiation in Jiangxi province of China based on the DEA model". _SAGE Open_, 12. [[Link]](https://journals.sagepub.com/home/sgo)  
+[32] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Wang, L., Fu, S. (2022). "Impact of multidimensional urbanization on carbon emissions in an ecological civilization experimental area of China". _Physics and Chemistry of the Earth_, 126, 103120. [[Link]](https://www.sciencedirect.com/science/article/pii/S1474706522000158)  
+[31] Xu, Y., Yu, H., Zeng, X., <strong>Zhang, X.*</strong> (2023). "Impacts of environmental regulation on innovation in the context of the Internet". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02615-w)  
+[30] He, Y., Zhu, Z., Xie, H., <strong>Zhang, X.</strong>, Sheng, M. (2023). "A case study in China of the influence mechanism of industrial park efficiency using DEA". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02290-x)  
 [29] Lv, T., Hu, H., Xie, H., <strong>Zhang, X.*</strong>, Wang, L., Shen, X. (2023). "An empirical relationship between urbanization and carbon emissions in an ecological civilization demonstration area of China based on the STIRPAT model". _Environment, Development and Sustainability_, 24. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02144-6)  
 [28] <strong>Zhang, X.*</strong>, Dong, X., Liu, F., Lv, T., Wu, Z., Ranagalage, M. (2023). "Spatiotemporal dynamics of ecological security in a typical conservation region of southern China based on catastrophe theory and GIS". _Environmental Monitoring and Assessment_, 195(1), 90. [[Link]](https://link.springer.com/article/10.1007/s10661-022-10669-6)  
 
