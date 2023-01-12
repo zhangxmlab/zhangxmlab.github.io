@@ -8,6 +8,7 @@ Total citations = 810; H-index = 14 (Google Scholar, Jan. 2023) [[ORCID]](https:
 
 2023
 ====
+[35] Wang, L., Lv, T., Xie, H., <strong>Zhang, X.</strong>, Zhang, Y., Cai, J., Liu, Y., Liu, J. (2023). "Assessing urban smart growth in China based on the Sustainable Development Goals framework". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007)  
 [34] Xu, Y., Yu, H., Zeng, X., <strong>Zhang, X.*</strong> (2023). "Impacts of environmental regulation on innovation in the context of the Internet". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02615-w)  
 [33] Xiao, K., Fu, J., Ullah, W., <strong>Zhang, X.*</strong> (2023). "Poverty alleviation efficiency of tourism and its spatiotemporal differentiation in Jiangxi Province of China based on the DEA model". _SAGE Open_, 13. [[Link]](https://journals.sagepub.com/home/SGO)  
 [32] He, Y., Zhu, Z., Xie, H., <strong>Zhang, X.</strong>, Sheng, M. (2023). "A case study in China of the influence mechanism of industrial park efficiency using DEA". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02290-x)  
