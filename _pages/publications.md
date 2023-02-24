@@ -8,7 +8,7 @@ Total citations = 810; H-index = 14 (Google Scholar, Jan. 2023) [[ORCID]](https:
 
 2023
 ====
-[35] Xiao, K, Ullah, W., Fu, J., <strong>Zhang, X.*</strong> (2023). "Poverty alleviation efficiency of tourism and its spatiotemporal differentiation in Jiangxi province of China based on the DEA model". _SAGE Open_, 13. [[Link]](https://journals.sagepub.com/home/SGO)  
+[35] Xiao, K., Ullah, W., Fu, J., <strong>Zhang, X.*</strong> (2023). "Poverty alleviation efficiency of tourism and its spatiotemporal differentiation in Jiangxi province of China based on the DEA model". _SAGE Open_, 13. [[Link]](https://journals.sagepub.com/home/SGO)  
 [34] Xu, Y., Yu, H., Zeng, X., <strong>Zhang, X.*</strong> (2023). "Impacts of environmental regulation on innovation in the context of the Internet". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02615-w)  
 [33] Hu, H., Lv, T., <strong>Zhang, X.</strong>, Xie, H., Fu, S., Geng, C., Li, Z. (2023). "Spatiotemporal heterogeneity and decoupling decomposition of industrial carbon emissions in the Yangtze River Delta urban agglomeration of China". _Environmental Science and Pollution Research_, 30. [[Link]](https://link.springer.com/article/10.1007/s11356-023-25794-z)  
 [32] <strong>Zhang, X.*</strong>, Dong, X., Xu, C., Wang, R., Lv, T., Ranagalage, M. (2023). "Landscape ecological risk assessment in the Dongjiangyuan region, China, from 1985 to 2020 using geospatial techniques". _Geomatics, Natural Hazards and Risk_, 14(1), 2173662. [[Link]](https://www.tandfonline.com/doi/full/10.1080/19475705.2023.2173662)  
