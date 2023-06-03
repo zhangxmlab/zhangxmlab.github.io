@@ -10,6 +10,7 @@ I am recruiting one or two Chinese graduate students majoring in Land Resource a
 
 <img src='/images/gallery/WeChat.png'> 
   (WeChat QR Code)
+
 # Address
 
 Institute of Ecological Civilization  
