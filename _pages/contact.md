@@ -14,6 +14,7 @@ I am recruiting one or two Chinese graduate students majoring in Land Resource a
 # Address
 
 Institute of Ecological Civilization  
+School of Applied Economics  
 Jiangxi University of Finance and Economics  
 No. 169, Shuanggang East Road  
 Nanchang 330013, China  
