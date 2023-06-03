@@ -17,5 +17,5 @@ redirect_from:
 
 ---
 **Recent Progresses** 
-* Our collaborative research paper, entitled “Spatial spillover effects of urbanization on carbon emissions in the Yangtze River Delta urban agglomeration, China”, has been published in _Environmental Science and Pollution Research_. Congratulations to all the authors!  
-* Our collaborative research paper, entitled “Global research trends and gaps in ecological compensation studies from 1990 to 2020: A scientometric review”, has been published in _Journal for Nature Conservation_. Congratulations to all the authors!
+* Our collaborative research paper, entitled “Spatiotemporal change in ecological quality and its influencing factors in the Dongjiangyuan region, China”, has been published in _Environmental Science and Pollution Research_. Congratulations to all the authors!  
+* Our collaborative research paper, entitled “Landscape ecological risk assessment in the Dongjiangyuan region, China, from 1985 to 2020 using geospatial techniques”, has been published in _Geomatics, Natural Hazards and Risk_. Congratulations to all the authors!
