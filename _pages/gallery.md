@@ -4,7 +4,7 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
-<strong>2. Congratulations to the graduates of 2023.</strong>
+<strong>3. Congratulations to the graduates of 2023.</strong>
 <img src='/images/gallery/Graduation_2023.JPG'> 
 <strong>2. Congratulations to the graduates of 2022.</strong>
 <img src='/images/gallery/Graduation_2022.JPG'> 
