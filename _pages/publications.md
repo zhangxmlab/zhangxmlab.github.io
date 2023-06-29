@@ -8,7 +8,7 @@ Total citations = 1000; H-index = 16 (Google Scholar, May 2023) [[ORCID]](https:
 
 2023
 ====
-[41] Lv, T., Hu, H., <strong>Zhang, X.</strong>, Sun, L., Li, Z., Chen, Y., Fu, S. (2023). "Driving mechanism of the allometric relationship between economic development and carbon emissions in the Yangtze River Delta Urban Agglomeration, China". _Environment, Development and Sustainability_, 25. [[Link]](https://www.springer.com/journal/10668)  
+[41] Lv, T., Hu, H., <strong>Zhang, X.</strong>, Sun, L., Li, Z., Chen, Y., Fu, S. (2023). "Driving mechanism of the allometric relationship between economic development and carbon emissions in the Yangtze River Delta urban agglomeration, China". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-023-03519-z)  
 [40] Wang, L., Lv, T., Xie, H., <strong>Zhang, X.</strong>, Zhang, Y., Cai, J., Liu, Y., Liu, J. (2023). "Assessing urban smart growth in China based on the sustainable development goals framework". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-023-03428-1)  
 [39] Xu, Y., Yu, H., Zeng, X., <strong>Zhang, X.*</strong> (2023). "Impacts of environmental regulation on innovation in the context of the Internet". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02615-w)  
 [38] Jin, S., Chen, Z., Bao, B., <strong>Zhang, X.</strong> (2023). "Study on the influence of digital financial inclusion on agricultural carbon emission efficiency in the Yangtze River Economic Belt". _International Journal of Low-Carbon Technologies_, 18. [[Link]](https://academic.oup.com/ijlct)  
