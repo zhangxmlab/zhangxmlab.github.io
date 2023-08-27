@@ -16,4 +16,4 @@ collection: people
 * M.Sc. in Geosciences, University of Tsukuba, 2016
 
 ## Research Interests
-Land Management; Landscape Ecology; Ecosystem Services; Environmental Pollution
+Land Management; Landscape Ecology; Ecological Security; Environmental Pollution
