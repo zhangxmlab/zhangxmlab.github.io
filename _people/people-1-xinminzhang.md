@@ -19,4 +19,5 @@ collection: people
 Land Management; Landscape Ecology; Ecological Security; Environmental Pollution
 
 ## Journal Editorialships
-Societal Impacts (2023-Now)
+* Editorial Board
+[Societal Impacts](https://www.sciencedirect.com/journal/societal-impacts) (2023-Now)
