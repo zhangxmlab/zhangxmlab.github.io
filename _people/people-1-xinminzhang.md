@@ -17,3 +17,6 @@ collection: people
 
 ## Research Interests
 Land Management; Landscape Ecology; Ecological Security; Environmental Pollution
+
+## Journal Editorialships
+Societal Impacts (2023-Now)
