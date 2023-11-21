@@ -6,10 +6,13 @@ author_profile: true
 ---
 Total citations = 1200; H-index = 19 (Google Scholar, Nov. 2023) [[ORCID]](https://orcid.org/0000-0002-5180-8371) [[Scopus]](https://www.scopus.com/authid/detail.uri?authorId=57194289047)
 
-2023
+2024
 ====
 [45] Lv, T., Hu, H., <strong>Zhang, X.</strong>, Sun, L., Li, Z., Chen, Y., Fu, S. (2023). "Driving mechanism of the allometric relationship between economic development and carbon emissions in the Yangtze River Delta urban agglomeration, China". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-023-03519-z)  
 [44] Wang, L., Lv, T., Xie, H., <strong>Zhang, X.</strong>, Zhang, Y., Cai, J., Liu, Y., Liu, J. (2023). "Assessing urban smart growth in China based on the sustainable development goals framework". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-023-03428-1)  
+
+2023
+====
 [43] Xu, Y., Yu, H., Zeng, X., <strong>Zhang, X.*</strong> (2023). "Impacts of environmental regulation on innovation in the context of the Internet". _Environment, Development and Sustainability_, 25(11), 13281-13303. [[Link]](https://link.springer.com/article/10.1007/s10668-022-02615-w)  
 [42] Lv, T., Geng, C., <strong>Zhang, X.*</strong>, Li, Z., Hu, H., Fu, S. (2023). "Impact of the intensive use of urban construction land on carbon emission efficiency: evidence from the urban agglomeration in the middle reaches of the Yangtze River". _Environmental Science and Pollution Research_, 30. [[Link]](https://link.springer.com/article/10.1007/s11356-023-30184-6)  
 [41] Xu, C., Hui, J., Zhang, Z., <strong>Zhang, X.</strong>, Wang, W., Cui, Z. (2023). "Quantifying the contributions of natural and anthropogenic dust sources in Shanxi Province, northern China". _Chemosphere_, 344, 140280. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S004565352302550X)  
