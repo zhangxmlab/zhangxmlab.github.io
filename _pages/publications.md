@@ -8,8 +8,9 @@ Total citations = 1200; H-index = 19 (Google Scholar, Nov. 2023) [[ORCID]](https
 
 2024
 ====
-[45] Lv, T., Hu, H., <strong>Zhang, X.</strong>, Sun, L., Li, Z., Chen, Y., Fu, S. (2023). "Driving mechanism of the allometric relationship between economic development and carbon emissions in the Yangtze River Delta urban agglomeration, China". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-023-03519-z)  
-[44] Wang, L., Lv, T., Xie, H., <strong>Zhang, X.</strong>, Zhang, Y., Cai, J., Liu, Y., Liu, J. (2023). "Assessing urban smart growth in China based on the sustainable development goals framework". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-023-03428-1)  
+[46] Lv, T., Hu, H., <strong>Zhang, X.</strong>, Sun, L., Li, Z., Chen, Y., Fu, S. (2024). "Driving mechanism of the allometric relationship between economic development and carbon emissions in the Yangtze River Delta urban agglomeration, China". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-023-03519-z)  
+[45] Wang, L., Lv, T., Xie, H., <strong>Zhang, X.</strong>, Zhang, Y., Cai, J., Liu, Y., Liu, J. (2024). "Assessing urban smart growth in China based on the sustainable development goals framework". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-023-03428-1)  
+[44] <strong>Zhang, X.</strong>, Fan, H., Sun, L., Liu, W., Wang, C., Wu, Z., Lv, T. (2024). "Identifying regional eco-environment quality and its influencing factors: A case study of an ecological civilization pilot zone in China". _Journal of Cleaner Production_, 431. [[Link]](https://www.sciencedirect.com/journal/journal-of-cleaner-production)  
 
 2023
 ====
