@@ -8,7 +8,7 @@ Total citations = 1200; H-index = 19 (Google Scholar, Nov. 2023) [[ORCID]](https
 
 2024
 ====
-[48] Jin, S., Bao, B., Wu, Z., <strong>Zhang, X.</strong>. (2024). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi province, China". _Environment, Development and Sustainability_, 25. [[Link]](https://www.springer.com/journal/10668)  
+[48] Jin, S., Bao, B., Wu, Z., <strong>Zhang, X.</strong> (2024). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi province, China". _Environment, Development and Sustainability_, 25. [[Link]](https://www.springer.com/journal/10668)  
 [47] <strong>Zhang, X.</strong>, Fan, H., Sun, L., Liu, W., Wang, C., Wu, Z., Lv, T. (2024). "Identifying regional eco-environment quality and its influencing factors: A case study of an ecological civilization pilot zone in China". _Journal of Cleaner Production_, 431. [[Link]](https://www.sciencedirect.com/journal/journal-of-cleaner-production)  
 [46] Lv, T., Hu, H., <strong>Zhang, X.</strong>, Sun, L., Li, Z., Chen, Y., Fu, S. (2024). "Driving mechanism of the allometric relationship between economic development and carbon emissions in the Yangtze River Delta urban agglomeration, China". _Environment, Development and Sustainability_, 25. [[Link]](https://link.springer.com/article/10.1007/s10668-023-03519-z)  
 [45] <strong>Zhang, X.*</strong>, Wan, W., Fan, H., Dong, X., Lv, T. (2024). "Evaluating temporal and spatial responses of landscape patterns to habitat quality changes in the Poyang Lake region, China". _Journal for Nature Conservation_. [[Link]](https://www.sciencedirect.com/journal/journal-for-nature-conservation)  
