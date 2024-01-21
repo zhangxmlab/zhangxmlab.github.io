@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "西湖大学大气环境研究组"
-title                    : "大气环境研究"
+#title                    : "Zhang Lab"
+title                    : "Zhang Lab"
 title_separator          : "-"
-name                     : &name "Atmospheric Environment Research | Yuzhong Zhang Group"
-description              : &description "Atmospheric chemistry modeling & data analysis"
-url                      : https://atmosphere-westlake.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhang Lab"
+description              : &description "Land Ecology and Environmental Management"
+url                      : https://zhangxmlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Atmosphere-Westlake"
+repository               : "Zhang Lab"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,11 +81,11 @@ analytics:
 
 # Site Author
 author:
- # name             : "Atmospheric Environment Research Group @ Westlake University"
-  name             : "Atmospheric Environment Research | Yuzhong Zhang Group"
+ # name             : "Zhang Lab"
+  name             : "Zhang Lab"
   avatar           : "profile.png"
-  bio              : "atmospheric chemistry modeling | data analysis | air pollution | climate change | greenhouse gas"
-  location         : "Hangzhou, China"
+  bio              : "landscape ecology | ecological security | climate change | environmental pollution"
+  location         : "Nanchang, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jLzcXpMAAAAJ&hl=zh-CN"
@@ -98,7 +98,7 @@ author:
   flickr           :
 #  facebook         :
   foursquare       :
-  github           : "Atmosphere-Westlake"
+  github           : "zhangxmlab"
   google_plus      :
   keybase          :
   instagram        :
