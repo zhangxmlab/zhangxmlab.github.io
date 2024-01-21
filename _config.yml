@@ -164,10 +164,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _news
   - scope:
       path: ""
-      type: posts
+      type: news
     values:
       layout: single
       author_profile: true
@@ -175,13 +175,31 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _research
   - scope:
       path: ""
-      type: pages
+      type: research
     values:
       layout: single
       author_profile: true
+  # _people
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comments: true
   # _teaching
   - scope:
       path: ""
@@ -191,10 +209,28 @@ defaults:
       author_profile: false
       share: false
       comments: true
-  # _publications
+  # _gallery
   - scope:
       path: ""
-      type: publications
+      type: gallery
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comments: true
+  # _contact
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comments: true
+  # _links
+  - scope:
+      path: ""
+      type: links
     values:
       layout: single
       author_profile: false
@@ -217,24 +253,6 @@ defaults:
   #    layout: talk
   #    author_profile: false
   #    share: false
-  # _presentations
-  - scope:
-      path: ""
-      type: presentations
-    values:
-      layout: single
-      author_profile: false
-      share: false
-      comment: false
-  # _team
-  - scope:
-      path: ""
-      type: team
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comment: false
 
 # Sass/SCSS
 sass:
