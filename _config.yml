@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhang Lab"
 title_separator          : "-"
 name                     : &name "Zhang Lab @JUFE"
-description              : &description "Ecosystem Management"
+description              : &description "Land Ecology and Environmental Management"
 url                      : https://zhangxmlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhangxmlab"
@@ -70,13 +70,49 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-
 # Analytics
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
+# Site Author
+author:
+  name             : "Xinmin Zhang"
+  avatar           : "xinminzhang.jpg"
+  bio              : "Assistant Professor, Jiangxi University of Finance and Economics, China"
+  location         : "Nanchang, China"
+#  employer         :
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=E6zwzREAAAAJ&hl=zh-CN"
+  email            : "zhangxm1217@aliyun.com"
+#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+#  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/0000-0002-5707-0216"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+#  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 #  facebook         :
   foursquare       :
