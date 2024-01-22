@@ -9,6 +9,6 @@ National Scholarship
 ====
 Xintong Dong (2023)  
 
-Tope 10 Academic Star
+Top 10 Academic Star
 ====
 Houbao Fan (2023)
