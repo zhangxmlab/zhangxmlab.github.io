@@ -5,7 +5,10 @@ permalink: /awards/
 author_profile: true
 ---
 
-2023
+National Scholarship
 ====
-Xintong Dong      National Scholarship  
-Houbao Fan        Top 10 Academic Star  
+Xintong Dong (2023)  
+
+Tope 10 Academic Star
+====
+Houbao Fan (2023)
