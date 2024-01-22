@@ -156,7 +156,7 @@ defaults:
       layout: single
       author_profile: true
       comments: false
-      share: true
+      share: false
   # _research
   - scope:
       path: ""
