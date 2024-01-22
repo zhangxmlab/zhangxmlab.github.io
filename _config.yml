@@ -135,6 +135,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  student awards:
+    output: true
+    permalink: /:collection/:path/
   gallery:
     output: true
     permalink: /:collection/:path/
@@ -186,6 +189,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comments: true
+    # _student-awards
+  - scope:
+      path: ""
+      type: student-awards
     values:
       layout: single
       author_profile: false
