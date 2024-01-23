@@ -8,7 +8,7 @@ Total citations = 1300; H-index = 19 [Google Scholar](https://scholar.google.com
 
 2024
 ====
-[52] Jin, S., Bao, B., Wu, Z., <strong>Zhang, X.</strong> (2024). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi province, China". _Environment, Development and Sustainability_, 26. [Link](https://www.springer.com/journal/10668)  
+[52] Jin, S., Wu, Z., Bao, B., <strong>Zhang, X.</strong>, Wang, X. (2024). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi province, China". _Environment, Development and Sustainability_, 26. [Link](https://www.springer.com/journal/10668)  
 [51] <strong>Zhang, X.</strong>, Fan, H., Hou, H., Xu, C., Sun, L., Li, Q., Ren, J. (2024). "Spatiotemporal evolution and multi-scale coupling effects of land-use carbon emissions and ecological environmental quality". _Science of the Total Environment_, 914. [Link](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
 [50] Hu, H., Yan, K., Fan, H., Lv, T., <strong>Zhang, X.</strong> (2024). "Detecting regional unevenness and influencing factors of ecological resilience in China". _Energy & Environment_, 34(8). [Link](https://journals.sagepub.com/home/eae)  
 [49] Wu, Z., Zeng, T., Chen, H., <strong>Zhang, X.</strong>, Yang, J. (2024). "Rural transformation in the hilly and mountainous region of southern China: Livelihood trajectory and cross-scale effects". _Habitat International_, 144. [Link](https://www.sciencedirect.com/journal/habitat-international/)  
