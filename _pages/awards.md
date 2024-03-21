@@ -13,7 +13,6 @@ National Scholarship
 ====
 Houbao Fan (2024)
 
-Xintong Dong (2023)  
 Top 10 Academic Stars
 ====
 Houbao Fan (2023)
