@@ -9,7 +9,7 @@ National Scholarship
 ====
 Xintong Dong (2023)  
 
-National Scholarship
+Provincial Government Scholarship
 ====
 Houbao Fan (2024)
 
