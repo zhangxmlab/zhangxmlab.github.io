@@ -19,5 +19,5 @@ collection: people
 Landscape Ecology; Ecological Security; Climate Change; Environmental Pollution
 
 ## Journal Editorialships
-[Sustainable Futures](https://www.sciencedirect.com/journal/sustainable-futures) (Editorial Board, 2024-Now)
+[Sustainable Futures](https://www.sciencedirect.com/journal/sustainable-futures) (Editorial Board, 2024-Now)  
 [Societal Impacts](https://www.sciencedirect.com/journal/societal-impacts) (Editorial Board, 2023-Now)
