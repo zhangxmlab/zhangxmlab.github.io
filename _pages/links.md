@@ -38,7 +38,6 @@ English Journals
 * [Land Use Policy](https://www.sciencedirect.com/journal/land-use-policy)  
 * [Forest Ecology and Management](https://www.sciencedirect.com/journal/forest-ecology-and-management)  
 * [Landscape Ecology](https://www.springer.com/journal/10980)  
-* [Environmental Science and Pollution Research](https://www.springer.com/journal/11356)  
 * [Applied Geography](https://www.sciencedirect.com/journal/applied-geography)  
 * [Urban Forestry & Urban Greening](https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening)  
 * [Remote Sensing](https://www.mdpi.com/journal/remotesensing)  
