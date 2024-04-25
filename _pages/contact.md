@@ -18,4 +18,4 @@ E-mail: zhangxm1217@aliyun.com
 
 # WeChat Official Account
 
-<img src='/images/gallery/WeChat.png'> 
+<img src='/images/gallery/WeChat-1.png'> 
