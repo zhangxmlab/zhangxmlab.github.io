@@ -16,4 +16,4 @@ No. 169, Shuanggang East Road
 Nanchang 330013, China  
 E-mail: zhangxm1217@aliyun.com
 
-<img src='/images/gallery/JUFE_Map.jpg'> 
+<img src='/images/gallery/WeChat.png'> 
