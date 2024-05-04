@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Total citations = 1400; H-index = 20 [Google Scholar](https://scholar.google.com/citations?user=E6zwzREAAAAJ&hl=zh-CN) [ORCID](https://orcid.org/0000-0002-5180-8371) [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194289047)
+Total citations = 1100; H-index = 17 [ORCID](https://orcid.org/0000-0002-5180-8371) [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194289047)
 
 2024
 ====
