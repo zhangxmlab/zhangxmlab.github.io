@@ -22,4 +22,4 @@ Landscape Ecology; Ecological Security; Climate Change; Environmental Pollution
 [Societal Impacts](https://www.sciencedirect.com/journal/societal-impacts) (Editorial Board, 2023—Now)
 
 ## Honors and Awards
-Excellent Guide Teacher Award, 2024 Sharing Cup
+Excellent Guide Teacher Award, 2024 "Sharing Cup" Innovation Competition
