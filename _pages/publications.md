@@ -8,7 +8,7 @@ Total citations = 1100; H-index = 17  [Scopus](https://www.scopus.com/authid/det
 
 2024
 ====
-[58] Jin, S., Wu, Z., Bao, B., <strong>Zhang, X.</strong>, Wang, X. (2024). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi province, China". _Environment, Development and Sustainability_, 26. [Link](https://doi.org/10.1007/s10668-024-04496-7)  
+[58] Jin, S., Wu, Z., Bao, B., <strong>Zhang, X.</strong>, Wang, X. (2024). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi Province, China". _Environment, Development and Sustainability_, 26. [Link](https://doi.org/10.1007/s10668-024-04496-7)  
 [57] Hu, H., Yan, K., Shi, Y., Lv, T., <strong>Zhang, X.</strong>, Wang, X. (2024). "Decrypting resilence: The spatiotemporal evolution and driving factors of ecological resilence in the Yangtze River Delta Urban Agglomeration". _Environmental Impact Assessment Review_, 106, 107540. [Link](https://doi.org/10.1016/j.eiar.2024.107540)  
 [56] <strong>Zhang, X.*</strong>, Dong, X., Liu, F., Zhou, C., Lv, T. (2024). "Geospatial analysis of landscape ecological risk in Jiangxi Province, China: Trends and driving forces". _Environmental Science and Pollution Research_, 31. [Link](https://link.springer.com/journal/11356)  
 [55] Lv, T., Hu, H., Han, H., <strong>Zhang, X.</strong>, Fan, H., Yan, K. (2024). "Towards sustainability: The spatiotemporal patterns and impact mechanism of urban sprawl intensity in the Yangtze River Delta Urban Agglomeration". _Habitat International_, 148, 103089. [Link](https://doi.org/10.1016/j.habitatint.2024.103089)  
