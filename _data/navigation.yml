@@ -16,10 +16,7 @@ main:
     url: /publications/   
     
   - title: "Teaching"
-    url: /teaching/    
-
-  - title: "Awards"
-    url: /awards/       
+    url: /teaching/        
     
   - title: "Gallery"
     url: /gallery/
