@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Total citations = 1100; H-index = 18  [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194289047)
+Total citations = 1150; H-index = 18  [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194289047)
 
 2024
 ====
