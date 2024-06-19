@@ -5,8 +5,9 @@ permalink: /links/
 author_profile: true
 ---
 # Chinese Journals
-
-
+[Acta Geographica Sinica](https://www.geog.com.cn/CN/home)  
+[Geographical Research](https://www.dlyj.ac.cn/CN/home)  
+[Scientia Geographica Sinica](http://geoscien.neigae.ac.cn/CN/home)  
 
 # English Journals
 [Nature Sustainability](https://www.nature.com/natsustain/)  
