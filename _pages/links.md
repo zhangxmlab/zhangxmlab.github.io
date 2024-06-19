@@ -9,6 +9,6 @@ author_profile: true
 
 
 # English Journals
-[Nature Sustainability](http://grs.jxufe.edu.cn/news-show-3785.html)  
+[Nature Sustainability](https://www.nature.com/ncomms/)  
 [Nature Sustainability](http://grs.jxufe.edu.cn/news-show-3785.html)  
 [Nature Sustainability](http://grs.jxufe.edu.cn/news-show-3785.html)  
