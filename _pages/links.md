@@ -10,5 +10,5 @@ author_profile: true
 
 # English Journals
 [Nature Sustainability](https://www.nature.com/natsustain/)  
+[Nature Climate Change](https://www.nature.com/nclimate/)  
 [Nature Communications](https://www.nature.com/ncomms/)  
-[Nature Sustainability](http://grs.jxufe.edu.cn/news-show-3785.html)  
