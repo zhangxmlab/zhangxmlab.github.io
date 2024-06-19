@@ -25,6 +25,7 @@ author_profile: true
 [Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)  
 [Science of The Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
 [Journal of Cleaner Production](https://www.sciencedirect.com/journal/journal-of-cleaner-production)  
+[Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management)  
 [Forest Ecology and Management](https://www.sciencedirect.com/journal/forest-ecology-and-management)  
 [Land Use Policy](https://www.sciencedirect.com/journal/land-use-policy)  
 [Habitat International](https://www.sciencedirect.com/journal/habitat-international)  
