@@ -18,6 +18,7 @@ author_profile: true
 [Nature Communications](https://www.nature.com/ncomms/)  
 [Science Advances](https://www.science.org/journal/sciadv)  
 [PNAS](https://www.pnas.org/latest)  
+[Science Bulletin](https://www.sciencedirect.com/journal/science-bulletin)  
 [One Earth](https://www.sciencedirect.com/journal/one-earth)  
 [Remote Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-environment)  
 [Global Change Biology](https://onlinelibrary.wiley.com/journal/13652486)  
