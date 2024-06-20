@@ -5,7 +5,6 @@ main:
 
   - title: "News"
     url: /news/
-    [News](https://mp.weixin.qq.com/s?__biz=MzkzMDUyMzc3Ng==&mid=2247483745&idx=1&sn=54bedc7b369385f5c924016c6953584b&chksm=c279be8ef50e3798dd7b4394f567dde893ccebd63fad251386d6724d6eca6633d5beade8391f&token=525580863&lang=zh_CN#rd)
 
   - title: "Research"
     url: /research/
