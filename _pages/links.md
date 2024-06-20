@@ -9,7 +9,7 @@ author_profile: true
 [Geographical Research](https://www.dlyj.ac.cn/CN/home)  
 [Scientia Geographica Sinica](http://geoscien.neigae.ac.cn/CN/home)  
 [Acta Ecologica Sinica](https://www.ecologica.cn/stxb/home)  
-[Progress in Geography](https://www.progressingeography.com/CN/home)  
+[Journal of Geo-information Science](https://www.dqxxkx.cn/CN/home)  
 
 # English Journals
 [Nature Sustainability](https://www.nature.com/natsustain/)  
