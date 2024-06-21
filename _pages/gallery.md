@@ -15,4 +15,4 @@ author_profile: true
 
 # Congratuations to the graduates of 2022
 
-<img src='/images/gallery/Graduation_2022.jpg'> 
+<img src='/images/gallery/Graduation_2022.JPG'> 
