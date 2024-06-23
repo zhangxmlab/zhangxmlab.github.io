@@ -20,6 +20,7 @@ author_profile: true
 [PNAS](https://www.pnas.org/latest)  
 [Science Bulletin](https://www.sciencedirect.com/journal/science-bulletin)  
 [One Earth](https://www.sciencedirect.com/journal/one-earth)  
+[Environmental Science & Technology](https://pubs.acs.org/journal/esthag#)  
 [Remote Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-environment)  
 [Global Change Biology](https://onlinelibrary.wiley.com/journal/13652486)  
 [Earth’s Future](https://agupubs.onlinelibrary.wiley.com/journal/23284277)  
