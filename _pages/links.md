@@ -18,7 +18,6 @@ author_profile: true
 [Nature Communications](https://www.nature.com/ncomms/)  
 [Science Advances](https://www.science.org/journal/sciadv)  
 [PNAS](https://www.pnas.org/latest)  
-[Science Bulletin](https://www.sciencedirect.com/journal/science-bulletin)  
 [One Earth](https://www.sciencedirect.com/journal/one-earth)  
 [Environmental Science & Technology](https://pubs.acs.org/journal/esthag#)  
 [Science Bulletin](https://www.sciencedirect.com/journal/science-bulletin)  
@@ -37,3 +36,4 @@ author_profile: true
 [Habitat International](https://www.sciencedirect.com/journal/habitat-international)  
 [Applied Geography](https://www.sciencedirect.com/journal/applied-geography)  
 [Landscape Ecology](https://link.springer.com/journal/10980)  
+[Urban Forestry & Urban Greening]https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening)  
