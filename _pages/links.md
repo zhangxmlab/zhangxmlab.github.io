@@ -36,4 +36,4 @@ author_profile: true
 [Habitat International](https://www.sciencedirect.com/journal/habitat-international)  
 [Applied Geography](https://www.sciencedirect.com/journal/applied-geography)  
 [Landscape Ecology](https://link.springer.com/journal/10980)  
-[Urban Forestry & Urban Greening]https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening)  
+[Urban Forestry & Urban Greening](https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening)  
