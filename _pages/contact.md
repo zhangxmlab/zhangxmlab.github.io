@@ -10,10 +10,8 @@ I am annually seeking two Chinese graduate students specializing in Land Resourc
 
 # Address
 
-School of Applied Economics  
-Jiangxi University of Finance and Economics  
-No. 169, Shuanggang East Road  
-Nanchang 330013, China  
+School of Applied Economics, Jiangxi University of Finance and Economics  
+No. 169, Shuanggang East Road, Nanchang 330013, China  
 E-mail: zhangxm1217@aliyun.com
 
 # WeChat Official Account
