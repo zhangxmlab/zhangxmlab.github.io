@@ -15,7 +15,3 @@ Jiangxi University of Finance and Economics
 No. 169, Shuanggang East Road  
 Nanchang 330013, China  
 E-mail: zhangxm1217@aliyun.com
-
-# WeChat Official Account
-
-<img src='/images/gallery/WeChat-1.png'> 
