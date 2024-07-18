@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Research Grants (Principal Investigator)
+Research Grants
 =====
 * "Construction and optimization of ecological security pattern in the Hunan-Jiangxi border region", funded by the Social Science Foundation of Jiangxi Province. (2024.5-2025.12)
 * "Ecological risk assessment and ecological security pattern optimization in Dongjiangyuan watershed based on GIS", funded by the Science and Technology Research Project of Jiangxi Provincial Department of Education. (2021.1-2022.12)
