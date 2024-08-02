@@ -29,7 +29,7 @@ author_profile: true
 [Landscape and Urban Planning](https://www.sciencedirect.com/journal/landscape-and-urban-planning)  
 [Geography and Sustainability](https://www.sciencedirect.com/journal/geography-and-sustainability)  
 [Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)  
-[Science of The Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
+[Science of the Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
 [Journal of Cleaner Production](https://www.sciencedirect.com/journal/journal-of-cleaner-production)  
 [Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management)  
 [Forest Ecology and Management](https://www.sciencedirect.com/journal/forest-ecology-and-management)  
