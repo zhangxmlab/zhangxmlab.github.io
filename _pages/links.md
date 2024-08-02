@@ -19,6 +19,7 @@ author_profile: true
 [Science Advances](https://www.science.org/journal/sciadv)  
 [PNAS](https://www.pnas.org/latest)  
 [One Earth](https://www.sciencedirect.com/journal/one-earth)  
+[Innovation Geoscience](https://www.the-innovation.org/geoscience)  
 [Environmental Science & Technology](https://pubs.acs.org/journal/esthag#)  
 [Science Bulletin](https://www.sciencedirect.com/journal/science-bulletin)  
 [Remote Sensing of Environment](https://www.sciencedirect.com/journal/remote-sensing-of-environment)  
