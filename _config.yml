@@ -62,6 +62,36 @@ analytics:
   google:
     tracking_id          :
 
+# Site Author
+author:
+  name             : "Xinmin Zhang"
+  avatar           : "XinminZhang.jpg"
+  bio              : "Assistant Professor, Jiangxi University of Finance and Economics"
+  location         : "Nanchang, China"
+#  employer         :
+  email            : "zhangxm1217@aliyun.com"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble  
+  flickr           :
+  facebook         :
+  foursquare       :
+#  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  steam            :
+  tumblr           :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  
 # Reading Files
 include:
   - .htaccess
