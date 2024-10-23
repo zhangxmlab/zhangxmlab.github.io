@@ -6,8 +6,7 @@ author_profile: true
 ---
 Total citations = 1250; H-index = 18  [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194289047) 
 
-2024
-====
+
 [57] Jin, S., Wu, Z., Bao, B., <strong>Zhang, X.</strong>, Wang, X. (2024). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi Province, China". _Environment, Development and Sustainability_, 26. [Link](https://doi.org/10.1007/s10668-024-04496-7)  
 [56] He, Y., Shu, C., Zhu, L., He, Y., <strong>Zhang, X.*</strong> (2024). "Does the digital economy realize the synergistic reduction of pollution and carbon emissions in China? From the perspective of the local neighborhood effects". _International Journal of Low-Carbon Technologies_, 19. [Link](https://doi.org/10.1093/ijlct/ctae202)  
 [55] Hu, H., Yan, K., Fan, H., Lv, T., <strong>Zhang, X.*</strong> (2024). "How to decipher the environmental resilience performance? A case study of Yangtze River Delta Urban Agglomeration". _Physics and Chemistry of the Earth_, 136, 103725. [Link](https://doi.org/10.1016/j.pce.2024.103725)  
@@ -23,9 +22,6 @@ Total citations = 1250; H-index = 18  [Scopus](https://www.scopus.com/authid/det
 [45] <strong>Zhang, X.*</strong>, Wan, W., Fan, H., Dong, X., Lv, T. (2024). "Temporal and spatial responses of landscape patterns to habitat quality changes in the Poyang Lake region, China". _Journal for Nature Conservation_, 77, 126546. [Link](https://doi.org/10.1016/j.jnc.2023.126546)  
 [44] Wang, L., Lv, T., Xie, H., <strong>Zhang, X.</strong>, Zhang, Y., Cai, J., Liu, Y., Liu, J. (2024). "Assessing urban smart growth in China based on the sustainable development goals framework". _Environment, Development and Sustainability_, 26(8),19627-19657. [Link](https://link.springer.com/article/10.1007/s10668-023-03428-1)  
 [43] Lv, T., Li, Z., <strong>Zhang, X.*</strong>, Geng, C., Hu, H., Xiao, J. (2024). "Spatial-temporal differences and influencing factors of agricultural water use efficiency in the main grain-producing areas of the middle reaches of the Yangtze River". _Polish Journal of Environmental Studies_, 33(1), 753-765. [Link](https://doi.org/10.15244/pjoes/172035)  
-
-2023
-====
 [42] Xu, Y., Yu, H., Zeng, X., <strong>Zhang, X.*</strong> (2023). "Impacts of environmental regulation on innovation in the context of the Internet". _Environment, Development and Sustainability_, 25(11), 13281-13303. [Link](https://link.springer.com/article/10.1007/s10668-022-02615-w)  
 [41] Lv, T., Geng, C., <strong>Zhang, X.*</strong>, Li, Z., Hu, H., Fu, S. (2023). "Impact of the intensive use of urban construction land on carbon emission efficiency: evidence from the urban agglomeration in the middle reaches of the Yangtze River". _Environmental Science and Pollution Research_, 30(53), 113729-113746. [Link](https://link.springer.com/article/10.1007/s11356-023-30184-6)  
 [40] Xu, C., Hui, J., Zhang, Z., <strong>Zhang, X.</strong>, Wang, W., Cui, Z. (2023). "Quantifying the contributions of natural and anthropogenic dust sources in Shanxi Province, northern China". _Chemosphere_, 344, 140280. [Link](https://www.sciencedirect.com/science/article/abs/pii/S004565352302550X)  
@@ -41,48 +37,30 @@ Total citations = 1250; H-index = 18  [Scopus](https://www.scopus.com/authid/det
 [30] Hu, H., Lv, T., <strong>Zhang, X.</strong>, Xie, H., Fu, S., Wang, L. (2023). "Spatiotemporal coupling of multidimensional urbanization and resource-environment performance in the Yangtze River Delta urban agglomeration of China". _Physics and Chemistry of the Earth_, 129, 103360. [Link](https://www.sciencedirect.com/science/article/pii/S1474706523000049)  
 [29] Lv, T., Hu, H., Xie, H., <strong>Zhang, X.*</strong>, Wang, L., Shen, X. (2023). "An empirical relationship between urbanization and carbon emissions in an ecological civilization demonstration area of China based on the STIRPAT model". _Environment, Development and Sustainability_, 25(3), 2465-2486. [Link](https://link.springer.com/article/10.1007/s10668-022-02144-6)  
 [28] <strong>Zhang, X.*</strong>, Dong, X., Liu, F., Lv, T., Wu, Z., Ranagalage, M. (2023). "Spatiotemporal dynamics of ecological security in a typical conservation region of southern China based on catastrophe theory and GIS". _Environmental Monitoring and Assessment_, 195(1), 90. [Link](https://link.springer.com/article/10.1007/s10661-022-10669-6)  
-
-2022
-====
 [27] Lv, T., Fu, S., <strong>Zhang, X.</strong>, Wu, G., Hu, H., Tian, J. (2022). "Assessing cultivated land-use transition in the major grain-producing areas of China based on an integrated framework". _Land_, 11(10), 1622. [Link](https://www.mdpi.com/2073-445X/11/10/1622)  
 [26] Hu, H., Lv, T., <strong>Zhang, X.*</strong>, Fu, S., Geng, C., Li, Z. (2022). "Spatiotemporal dynamics and decoupling mechanism of economic growth and carbon emissions in an urban agglomeration of China". _Environmental Monitoring and Assessment_, 194(9), 616. [Link](https://link.springer.com/article/10.1007/s10661-022-10195-5)  
 [25] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Xie, H., Fu, S., Wang, L. (2022). "Spatiotemporal pattern of regional carbon emissions and its influencing factors in the Yangtze River Delta urban agglomeration of China". _Environmental Monitoring and Assessment_, 194(7), 515. [Link](https://link.springer.com/article/10.1007/s10661-022-10085-w)  
 [24] Chen, Q., Wen, Y., <strong>Zhang, X.</strong>, Zhu, Z. (2022). "Evolutionary overview of terrace research based on bibliometric analysis in Web of Science from 1991 to 2020". _International Journal of Environmental Research and Public Health_, 19(13), 7796. [Link](https://www.mdpi.com/1660-4601/19/13/7796)  
 [23] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Wang, L., Fu, S. (2022). "Impact of multidimensional urbanization on carbon emissions in an ecological civilization experimental area of China". _Physics and Chemistry of the Earth_, 126, 103120. [Link](https://www.sciencedirect.com/science/article/pii/S1474706522000158)  
 [22] Lv, T., Hu, H., <strong>Zhang, X.*</strong>, Xie, H., Wang, L., Fu, S. (2022). "Spatial spillover effects of urbanization on carbon emissions in the Yangtze River Delta urban agglomeration, China". _Environmental Science and Pollution Research_, 29(23), 33920-33934. [Link](https://link.springer.com/article/10.1007/s11356-021-17872-x)  
-[21] Wang, L., Lv, T., <strong>Zhang, X.</strong>, Hu, H., Cai, X. (2022). "Global research trends and gaps in ecological compensation studies from 1990 to 2020: A scientometric review". _Journal for Nature Conservation_, 65, 126097. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1617138121001448)  
-
-2021
-====
+[21] Wang, L., Lv, T., <strong>Zhang, X.</strong>, Hu, H., Cai, X. (2022). "Global research trends and gaps in ecological compensation studies from 1990 to 2020: A scientometric review". _Journal for Nature Conservation_, 65, 126097. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1617138121001448) 
 [20] Lv, T., Liu, W., <strong>Zhang, X.*</strong>, Yao, L. (2021). "Spatiotemporal evolution of the green efficiency of industrial water resources and its influencing factors in the Poyang Lake region". _Physics and Chemistry of the Earth_, 124, 103049. [Link](https://www.sciencedirect.com/science/article/pii/S1474706521000929)  
 [19] Lv, T., Wang, L., Xie, H., <strong>Zhang, X.*</strong>, Zhang, Y. (2021). "Exploring the global research trends of land use planning based on a bibliometric analysis: Current status and future prospects". _Land_, 10(3), 304. [Link](https://www.mdpi.com/2073-445X/10/3/304)  
 [18] Xie, H., Wen, Y., Choi, Y., <strong>Zhang, X.</strong> (2021). "Global trends on food security research: A bibliometric analysis". _Land_, 10(2), 119. [Link](https://www.mdpi.com/2073-445X/10/2/119)  
 [17] <strong>Zhang, X.*</strong>, Estoque, R. C., Murayama, Y., Ranagalage, M. (2021). "Capturing urban heat island formation in a subtropical city of China based on Landsat images: implications for sustainable urban development". _Environmental Monitoring and Assessment_, 193(3), 130. [Link](https://link.springer.com/article/10.1007%2Fs10661-021-08890-w)  
 [16] Lv, T., Wang, L., Xie, H., <strong>Zhang, X.</strong>, Zhang, Y. (2021). "Evolutionary overview of water resource management (1990–2019) based on a bibliometric analysis in Web of Science". _Ecological Informatics_, 61, 101218. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1574954121000091)
-
-2020
-====
 [15] Zhou, C., <strong>Zhang, X.*</strong> (2020). "Measuring the efficiency of fiscal policies for environmental pollution control and the spatial effect of fiscal decentralization in China". _International Journal of Environmental Research and Public Health_, 17(23), 8974. [Link](https://www.mdpi.com/1660-4601/17/23/8974)  
 [14] <strong>Zhang, X.*</strong>, Xie, H., Shi, J., Lv, T., Zhou, C., Liu, W. (2020). "Assessing changes in ecosystem service values in response to land cover dynamics in Jiangxi province, China". _International Journal of Environmental Research and Public Health_, 17(9), 3018. [Link](https://www.mdpi.com/1660-4601/17/9/3018)  
 [13] Liu, F., <strong>Zhang, X.</strong>, Murayama, Y., Morimoto, T. (2020). "Impacts of land cover/use on the urban thermal environment: A comparative study of 10 megacities in China". _Remote Sensing_, 12(2), 307. [Link](https://www.mdpi.com/2072-4292/12/2/307)  
 [12] <strong>Zhang, X.*</strong>, Xie, H., Zhou, C., Zeng, B. (2020). "Jingdezhen: The millennium porcelain capital". _Cities_, 98, 102569. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0264275119309916)
-
-2019
-====
 [11] Lv, T., Wang, L., <strong>Zhang, X.</strong>, Xie, H., Lu, H., Li, H., Liu, W., Zhang, Y. (2019). "Coupling coordinated development and exploring its influencing factors in Nanchang, China: From the perspectives of land urbanization and population urbanization". _Land_, 8(12), 178. [Link](https://www.mdpi.com/2073-445X/8/12/178)  
 [10] Lv, T., Xie, H., Lu, H., <strong>Zhang, X.</strong>, Yang, L. (2019). "A game theory-based approach for exploring water resource exploitation behavior in the Poyang Lake Basin, China". _Sustainability_, 11(22), 6237. [Link](https://www.mdpi.com/2071-1050/11/22/6237)  
 [9] Zhou, C., Xie, H., <strong>Zhang, X.</strong> (2019). "Does fiscal policy promote third-party environmental pollution control in China? An evolutionary game theoretical approach". _Sustainability_, 11(16), 4434. [Link](https://www.mdpi.com/2071-1050/11/16/4434)  
 [8] <strong>Zhang, X.*</strong>, Estoque, R. C., Xie, H., Murayama, Y., Ranagalage, M. (2019). "Bibliometric analysis of highly cited articles on ecosystem services". _PLoS ONE_, 14(2), e0210707. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210707)
-
-2018
-====
 [7] Ranagalage, M., Dissanayake, D., Murayama, Y., <strong>Zhang, X.*</strong>, Estoque, R. C., Perera, E., Morimoto, T. (2018). "Quantifying surface urban heat island formation in the world heritage tropical mountain city of Sri Lanka". _ISPRS International Journal of Geo-Information_, 7(9), 341. [Link](https://www.mdpi.com/2220-9964/7/9/341)  
 [6] Ranagalage, M., Estoque, R. C., Handayani, H. H., <strong>Zhang, X.</strong>, Morimoto, T., Tadono, T., Murayama, Y. (2018). "Relation between urban volume and land surface temperature: A comparative study of planned and traditional cities in Japan". _Sustainability_, 10(7), 2366. [Link](https://www.mdpi.com/2071-1050/10/7/2366)  
 [5] Lu, H., Xie, H., He, Y., Wu, Z., <strong>Zhang, X.</strong> (2018). "Assessing the impacts of land fragmentation and plot size on yields and costs: A translog production model and cost function approach". _Agricultural Systems_, 161, 81-88. [Link](https://www.sciencedirect.com/science/article/pii/S0308521X17309034)  
 [4] Ranagalage, M., Estoque, R. C., <strong>Zhang, X.*</strong>, Murayama, Y. (2018). "Spatial changes of urban heat island formation in the Colombo District, Sri Lanka: Implications for sustainability planning". _Sustainability_, 10(5), 1367. [Link](https://www.mdpi.com/2071-1050/10/5/1367)  
 [3] Xie, H., Wang, W., <strong>Zhang, X.</strong> (2018). "Evolutionary game and simulation of management strategies of fallow cultivated land: A case study in Hunan province, China". _Land Use Policy_, 71, 86-97. [Link](https://www.sciencedirect.com/science/article/pii/S0264837717311328)
-
-2017
-====
 [2] Wang, W., Xie, H., Lu, F., <strong>Zhang, X.</strong> (2017). "Measuring the performance of industrial green development using a non-radial directional distance function approach: A case study of Jiangxi province in China". _Sustainability_, 9(10), 1757. [Link](https://www.mdpi.com/2071-1050/9/10/1757)  
 [1] <strong>Zhang, X.*</strong>, Estoque, R. C., Murayama, Y. (2017). "An urban heat island study in Nanchang City, China based on land surface temperature and social-ecological variables". _Sustainable Cities and Society_, 32, 557-568. [Link](https://www.sciencedirect.com/science/article/pii/S221067071730094X)
