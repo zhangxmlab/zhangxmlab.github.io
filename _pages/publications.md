@@ -7,7 +7,7 @@ author_profile: true
 Total citations = 1250; H-index = 18  [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194289047) 
 
 
-[57] Jin, S., Wu, Z., Bao, B., <strong>Zhang, X.</strong>, Wang, X. (2024). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi Province, China". _Environment, Development and Sustainability_, 26. [[Link]](https://doi.org/10.1007/s10668-024-04496-7)  
+[57] Jin, S., Wu, Z., Bao, B., <strong>Zhang, X.</strong>, Wang, X. (2024). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi Province, China". _Environment, Development and Sustainability_, 26. [Link](https://doi.org/10.1007/s10668-024-04496-7)  
 [56] He, Y., Shu, C., Zhu, L., He, Y., <strong>Zhang, X.*</strong> (2024). "Does the digital economy realize the synergistic reduction of pollution and carbon emissions in China? From the perspective of the local neighborhood effects". _International Journal of Low-Carbon Technologies_, 19. [Link](https://doi.org/10.1093/ijlct/ctae202)  
 [55] Hu, H., Yan, K., Fan, H., Lv, T., <strong>Zhang, X.*</strong> (2024). "How to decipher the environmental resilience performance? A case study of Yangtze River Delta Urban Agglomeration". _Physics and Chemistry of the Earth_, 136, 103725. [Link](https://doi.org/10.1016/j.pce.2024.103725)  
 [54] Hu, H., Yan, K., Shi, Y., Lv, T., <strong>Zhang, X.</strong>, Wang, X. (2024). "Decrypting resilience: The spatiotemporal evolution and driving factors of ecological resilience in the Yangtze River Delta Urban Agglomeration". _Environmental Impact Assessment Review_, 106, 107540. [Link](https://doi.org/10.1016/j.eiar.2024.107540)  
