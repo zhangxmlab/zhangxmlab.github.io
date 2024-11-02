@@ -3,8 +3,8 @@ main:
   - title: "Home"
     url: /home/
  
-  - title: "News"
-    url: /news/
+  #- title: "News"
+  #  url: /news/
 
   - title: "Research"
     url: /research/
