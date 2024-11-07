@@ -1,9 +1,13 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: ""
+permalink: /gallery/
 author_profile: true
+redirect_from:
+  - /
+  - /gallery
 ---
+
 
 Courses (whole semester):
 =====
