@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: ""
-permalink: /gallery/
+permalink: /teaching/
 author_profile: true
 redirect_from:
   - /
-  - /gallery
+  - /teaching
 ---
 
 
