@@ -1,9 +1,13 @@
 ---
 layout: archive
-title: "Contact"
+title: ""
 permalink: /contact/
 author_profile: true
+redirect_from:
+  - /
+  - /contact
 ---
+
 # Prospective Students
 
 I am annually recruiting one Chinese graduate student specializing in Land Resource and Ecological Economics. Detailed information on the Graduate Student Entrance Examination can be found at [the Graduate School](http://grs.jxufe.edu.cn/news-show-4157.html). Applicants should possess a bachelor's degree, preferably in fields such as land resource management, economics, statistics, geography, ecology, or related disciplines. For international students, I strongly recommend applying to the Public Administration graduate program (specializing in natural resource management). The application process can be accessed through [the Overseas Education School](http://oesenglish.jxufe.edu.cn/). Scholarship details and the application process are available at [the Scholarship](http://oes.jxufe.edu.cn/news-list-jiangsxuehjinx.html). If you are interested in any aspect of my current research or any work I have done in the past, please feel free to contact me at any time. Welcome to join us.
