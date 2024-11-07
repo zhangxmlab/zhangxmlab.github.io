@@ -1,9 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /
+  - /publications
 ---
+
 Total citations = 1350; H-index = 19  [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194289047) 
 
 2024
