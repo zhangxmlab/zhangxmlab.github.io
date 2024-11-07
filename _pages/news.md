@@ -1,7 +1,9 @@
 ---
 layout: archive
-title: "News"
+title: ""
 permalink: /news/
 author_profile: true
+redirect_from:
+  - /
+  - /news
 ---
-
