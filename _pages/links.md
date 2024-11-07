@@ -1,9 +1,13 @@
 ---
 layout: archive
-title: "Links"
+title: ""
 permalink: /links/
 author_profile: true
+redirect_from:
+  - /
+  - /links
 ---
+
 # Chinese Journals
 [Acta Geographica Sinica](https://www.geog.com.cn/CN/home)  
 [Geographical Research](https://www.dlyj.ac.cn/CN/home)  
