@@ -24,6 +24,5 @@ main:
   - title: "Contact"
     url: /contact/
     
-  - title: "Links"
-    url: /links/
-    
+  #- title: "Links"
+  #  url: /links/    
