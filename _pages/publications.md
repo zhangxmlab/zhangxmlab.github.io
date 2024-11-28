@@ -9,6 +9,7 @@ Total citations = 1350; H-index = 19  [Scopus](https://www.scopus.com/authid/det
 
 2024
 =====
+[60] He, Y., Cheng, H., Zou, P., Zhou, Y., <strong>Zhang, X.*</strong>, Chen, J. (2024). "Multi-subject collaboration in agricultural green production: A tripartite evolutionary game of central government, local governments, and farmers". _Environment, Development and Sustainability_, 26. [Link](https://link.springer.com/journal/10668)  
 [59] Jin, S., Wu, Z., Bao, B., <strong>Zhang, X.</strong>, Wang, X. (2024). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi Province, China". _Environment, Development and Sustainability_, 26. [Link](https://doi.org/10.1007/s10668-024-04496-7)  
 [58] Fan, H., <strong>Zhang, X.*</strong>, Zhou, X., Sun, Z., He, Y., Wan, W., Lv, T. (2024). "Comprehensive evaluation of land-use carbon emissions based on social network analysis and zones-based machine learning approach". _Environmental Impact Assessment Review_, 111. [Link](https://www.sciencedirect.com/journal/environmental-impact-assessment-review)  
 [57] Lv, T., Zhao, Q., Fu, S., Jin, G., <strong>Zhang, X.</strong>, Hu, H., Xu, G. (2024). "Deciphering flows: Spatial correlation characteristics and factors influencing carbon emission intensity in the Yangtze River Delta". _Journal of Cleaner Production_. [Link](https://doi.org/10.1016/j.jclepro.2024.144290)  
