@@ -10,8 +10,8 @@ Total citations = 1350; H-index = 19  [Scopus](https://www.scopus.com/authid/det
 2025
 =====
 [61] He, Y., Cheng, H., Zou, P., Zhou, Y., <strong>Zhang, X.*</strong>, Chen, J. (2024). "Multi-subject collaboration in agricultural green production: A tripartite evolutionary game of central government, local governments, and farmers". _Environment, Development and Sustainability_, 26. [Link](https://link.springer.com/journal/10668)  
-[60] Jin, S., Wu, Z., Bao, B., <strong>Zhang, X.</strong>, Wang, X. (2024). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi Province, China". _Environment, Development and Sustainability_, 26. [Link](https://doi.org/10.1007/s10668-024-04496-7)  
-[59] Fan, H., <strong>Zhang, X.*</strong>, Zhou, X., Sun, Z., He, Y., Wan, W., Lv, T. (2024). "Comprehensive evaluation of land-use carbon emissions based on social network analysis and zones-based machine learning approach". _Environmental Impact Assessment Review_, 111. [Link](https://www.sciencedirect.com/journal/environmental-impact-assessment-review)  
+[60] Fan, H., <strong>Zhang, X.*</strong>, Zhou, X., Sun, Z., He, Y., Wan, W., Lv, T. (2024). "Comprehensive evaluation of land-use carbon emissions based on social network analysis and zones-based machine learning approach". _Environmental Impact Assessment Review_, 111. [Link](https://www.sciencedirect.com/journal/environmental-impact-assessment-review)  
+[59] Jin, S., Wu, Z., Bao, B., <strong>Zhang, X.</strong>, Wang, X. (2024). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi Province, China". _Environment, Development and Sustainability_, 26. [Link](https://doi.org/10.1007/s10668-024-04496-7)  
 [58] He, Y., Shu, C., Zhu, L., He, Y., <strong>Zhang, X.*</strong> (2024). "Does the digital economy realize the synergistic reduction of pollution and carbon emissions in China? From the perspective of the local neighborhood effects". _International Journal of Low-Carbon Technologies_, 19. [Link](https://doi.org/10.1093/ijlct/ctae202)  
 
 2024
