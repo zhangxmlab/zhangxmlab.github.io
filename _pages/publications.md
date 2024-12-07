@@ -16,7 +16,7 @@ Total citations = 1350; H-index = 19  [Scopus](https://www.scopus.com/authid/det
 
 2024
 =====
-[57] Li, Q., Ge, J., <strong>Zhang, X.*</strong>, Wu, X., Fan, H., Yang, L. (2024). "Assessment of the interaction between digital infrastructure and ecological resilience: Insights from Yangtze River Delta Urban Agglomeration in China". _Journal of Cleaner Production_, 483, 144364. [Link](https://doi.org/10.1016/j.jclepro.2024.144364)  
+[57] Li, Q., Ge, J., <strong>Zhang, X.*</strong>, Wu, X., Fan, H., Yang, L. (2024). "Assessment of the interaction between digital infrastructure and ecological resilience: Insights from Yangtze River Delta Urban Agglomeration in China". _Journal of Cleaner Production_, 485, 144364. [Link](https://doi.org/10.1016/j.jclepro.2024.144364)  
 [56] Lv, T., Zhao, Q., Fu, S., Jin, G., <strong>Zhang, X.</strong>, Hu, H., Xu, G. (2024). "Deciphering flows: Spatial correlation characteristics and factors influencing carbon emission intensity in the Yangtze River Delta". _Journal of Cleaner Production_, 483, 144290. [Link](https://doi.org/10.1016/j.jclepro.2024.144290)  
 [55] Hu, H., Yan, K., Fan, H., Lv, T., <strong>Zhang, X.*</strong> (2024). "How to decipher the environmental resilience performance? A case study of Yangtze River Delta Urban Agglomeration". _Physics and Chemistry of the Earth_, 136, 103725. [Link](https://doi.org/10.1016/j.pce.2024.103725)  
 [54] Hu, H., Yan, K., Shi, Y., Lv, T., <strong>Zhang, X.</strong>, Wang, X. (2024). "Decrypting resilience: The spatiotemporal evolution and driving factors of ecological resilience in the Yangtze River Delta Urban Agglomeration". _Environmental Impact Assessment Review_, 106, 107540. [Link](https://doi.org/10.1016/j.eiar.2024.107540)  
