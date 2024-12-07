@@ -18,4 +18,4 @@ redirect_from:
 ---
 **Recent Progress** 
 * Our research paper, entitled “Spatiotemporal evolution and multi-scale coupling effects of land-use carbon emissions and ecological environmental quality”, has been published in _Science of the Total Environment_. Congratulations to all the authors!
-* Our research paper, entitled “Identifying regional eco-environment quality and its influencing factors: A case study of an ecological civilization pilot zone in China”, has been published in _Journal of Cleaner Production_. Congratulations to all the authors!  
+* Our research paper, entitled “Assessment of the interaction between digital infrastructure and ecological resilience: Insights from Yangtze River Delta Urban Agglomeration in China”, has been published in _Journal of Cleaner Production_. Congratulations to all the authors!  
