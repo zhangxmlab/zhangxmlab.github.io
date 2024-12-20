@@ -3,8 +3,9 @@ layout: archive
 title: "Home"
 permalink: /home/
 author_profile: true
+redirect_from:
+  - /home
 ---
-
 
 {% include base_path %}
 # Welcome to the Zhang Lab  
