@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "Links"
 permalink: /links/
 author_profile: true
-redirect_from:
-  - /
-  - /links
 ---
+
 
 # Chinese Journals
 [Acta Geographica Sinica](https://www.geog.com.cn/CN/home)  
