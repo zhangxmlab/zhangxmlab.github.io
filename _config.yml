@@ -62,6 +62,82 @@ analytics:
   google:
     tracking_id          :
 
+# Site Author
+author:
+  name             : "Xinmin Zhang"
+  avatar           : "xiongwanru.jpg"
+  bio              : "Assistant Professor, Jiangxi University of Finance and Economics"
+  location         : "Nanchang, China"
+#  employer         :
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=RsdHqWAAAAAJ&hl"
+  email            : "zhangxm1217@aliyun.com"
+#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+#  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+# Site Author
+author:
+  name             : "Xinmin Zhang"
+  avatar           : "xinminzhang.jpg"
+  bio              : "Assistant Professor, Jiangxi University of Finance and Economics"
+  location         : "Nanchang, China"
+#  employer         :
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  googlescholar    : "https://scholar.google.com/citations?user=RsdHqWAAAAAJ&hl"
+  email            : "zhangxm1217@aliyun.com"
+#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+#  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+#  orcid            : "http://orcid.org/0000-0002-5707-0216"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+#  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+#  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5180-8371"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+#  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
 # Reading Files
 include:
   - .htaccess
