@@ -61,6 +61,32 @@ analytics:
   provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
+
+  # Site Author
+author:
+  name             : "Xinmin Zhang"
+  avatar           : "profile.png"
+  bio              : "Assistant Professor, Jiangxi University of Finance and Economics"
+  location         : "Nanchang, China"
+#  employer         :
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=RsdHqWAAAAAJ&hl"
+  email            : "zhangxm1217@aliyun.com"
+#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+#  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin   
   
 # Reading Files
 include:
