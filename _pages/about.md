@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhang Lab @JUFE"
+title: "Zhang Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
