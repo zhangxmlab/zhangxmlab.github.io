@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "Contact"
 permalink: /contact/
 author_profile: true
-redirect_from:
-  - /
-  - /contact
 ---
+
 
 # Prospective Students
 
