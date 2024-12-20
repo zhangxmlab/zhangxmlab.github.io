@@ -1,12 +1,8 @@
 ---
-permalink: /
-title: "Zhang Lab @JUFE"
-excerpt: "About me"
+layout: archive
+title: ""
+permalink: /home/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /home
 ---
-
-Our research focuses on ...
-
