@@ -1,8 +1,11 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
+redirect_from:
+  - /
+  - /teaching
 ---
 
 Courses (whole semester):
