@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Total citations = 1350; H-index = 19  [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194289047) 
+Total citations = 1400; H-index = 20  [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194289047) 
 
 2025
 =====
