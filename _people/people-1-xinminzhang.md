@@ -18,4 +18,4 @@ collection: people
 Landscape Ecology; Ecological Security; Climate Change; Environmental Pollution
 
 ## Journal Editorialship
-[Carbon Footprints](https://www.oaepublish.com/cf)
+[Carbon Footprints](https://www.oaepublish.com/cf) (2025-Now, Youth Editorial Board)
