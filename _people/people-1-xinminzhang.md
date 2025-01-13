@@ -17,5 +17,5 @@ collection: people
 ## Research Interests
 Landscape Ecology; Ecological Security; Climate Change; Environmental Pollution
 
-## Journal Editorialship
+## Journal Editorialships
 [Carbon Footprints](https://www.oaepublish.com/cf) (2025-Now, Youth Editorial Board)
