@@ -16,3 +16,6 @@ collection: people
 
 ## Research Interests
 Landscape Ecology; Ecological Security; Climate Change; Environmental Pollution
+
+## Journal Editorialship
+Landscape Ecology; Ecological Security; Climate Change; Environmental Pollution
