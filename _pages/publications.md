@@ -10,7 +10,7 @@ Total citations = 1400; H-index = 20  [Scopus](https://www.scopus.com/authid/det
 
 2025
 =====
-[62] He, Y., Cheng, H., Zou, P., Zhou, Y., <strong>Zhang, X.*</strong>, Chen, J. (2025). "Multi-Subject Collaboration in Agricultural Green Production: A Tripartite Evolutionary Game of Central Government, Local Governments, and Farmers". _Environment, Development and Sustainability_, 27. [Link](https://link.springer.com/journal/10668)  
+[62] He, Y., Cheng, H., Zou, P., Zhou, Y., <strong>Zhang, X.*</strong>, Chen, J. (2025). "Multi-subject collaboration in agricultural green production: A tripartite evolutionary game of central government, local governments, and farmers". _Environment, Development and Sustainability_, 27. [Link](https://link.springer.com/journal/10668)  
 [61] Zhou, X., Wang, T., Wang, H., <strong>Zhang, X.</strong>, Duan, Z., Zhou, G. (2025). "Urban cyclists’exposure to PM2.5: A quantitative analysis using trajectory big data and mobile monitoring". _Sustainable Cities and Society_, 120. [Link](https://www.sciencedirect.com/journal/sustainable-cities-and-society)  
 [60] Fan, H., <strong>Zhang, X.*</strong>, Zhou, X., Sun, Z., He, Y., Wan, W., Lv, T. (2025). "Comprehensive evaluation of land-use carbon emissions integrating social network analysis and a zone-based machine learning approach". _Environmental Impact Assessment Review_, 112, 107775. [Link](https://doi.org/10.1016/j.eiar.2024.107775)  
 [59] Jin, S., Wu, Z., Bao, B., <strong>Zhang, X.</strong>, Wang, X. (2025). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi Province, China". _Environment, Development and Sustainability_, 27. [Link](https://doi.org/10.1007/s10668-024-04496-7)  
