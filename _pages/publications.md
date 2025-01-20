@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 Total citations = 1400; H-index = 20  [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194289047) 
 
 2025
