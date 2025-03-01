@@ -9,6 +9,7 @@ Total citations = 1500; H-index = 21  [Scopus](https://www.scopus.com/authid/det
 
 2025
 =====
+[64] He, Y., Cheng, H., Zou, P., Zhou, Y., <strong>Zhang, X.*</strong>, Chen, J. (2025). "Multi-subject collaboration in agricultural green production: A tripartite evolutionary game of central government, local governments, and farmers". _Environment, Development and Sustainability_, 27. [Link](https://link.springer.com/journal/10668)  
 [63] Jin, S., Wu, Z., Bao, B., <strong>Zhang, X.</strong>, Wang, X. (2025). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi Province, China". _Environment, Development and Sustainability_, 27. [Link](https://doi.org/10.1007/s10668-024-04496-7)  
 [62] Dong, X., <strong>Zhang, X.*</strong>, Liu, F., Zhou, C., Lv, T. (2025). "Spatial and temporal pattern of landscape ecological risk and its influencing factors in Jiangxi province, China". _Environmental Monitoring and Assessment_, 197. [Link](https://link.springer.com/journal/10661)  
 [61] Zhou, X., Xia, T., Huang, Z., <strong>Zhang, X.</strong>, Duan, Z., Wu, J., Zhou, G. (2025). "The integrated application of big data and geospatial analysis in maritime transportation safety management: A comprehensive review". _International Journal of Applied Earth Observation and Geoinformation_, 137, 104444. [Link](https://doi.org/10.1016/j.jag.2025.104444)  
