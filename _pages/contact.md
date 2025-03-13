@@ -12,7 +12,7 @@ I am annually recruiting one or two Chinese graduate students specializing in La
 
 # Address
 
-Department of Energy and Ecological Economics
+Department of Energy and Ecological Economics  
 School of Digital Economics  
 Jiangxi University of Finance and Economics  
 No. 169, Shuanggang East Road  
