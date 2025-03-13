@@ -12,7 +12,8 @@ I am annually recruiting one or two Chinese graduate students specializing in La
 
 # Address
 
-School of Applied Economics  
+Department of Energy and Ecological Economics
+School of Digital Economics  
 Jiangxi University of Finance and Economics  
 No. 169, Shuanggang East Road  
 Nanchang 330013, China  
