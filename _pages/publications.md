@@ -9,7 +9,7 @@ Total citations = 1500; H-index = 21  [Scopus](https://www.scopus.com/authid/det
 
 2025
 =====
-[65] He, Y., Cheng, H., Zou, P., Zhou, Y., <strong>Zhang, X.*</strong>, Chen, J. (2025). "Multi-subject collaboration in agricultural green production: A tripartite evolutionary game of central government, local governments, and farmers". _Environment, Development and Sustainability_, 27. [Link](https://link.springer.com/journal/10668)  
+[65] He, Y., Cheng, H., Zou, P., Zhou, Y., <strong>Zhang, X.*</strong>, Chen, J. (2025). "Multi-subject collaboration in agricultural green production: A tripartite evolutionary game of central government, local governments, and farmers". _Environment, Development and Sustainability_, 27. [Link](https://doi.org/10.1007/s10668-025-06104-8)  
 [64] <strong>Zhang, X.*</strong>, Wan, W., Yang, H., Yi, K. (2025). "Rapid development of wind energy infrastructure threatens bird migration". _The Innovation Geoscience_, 3. [Link](https://www.the-innovation.org/geoscience)  
 [63] Jin, S., Wu, Z., Bao, B., <strong>Zhang, X.</strong>, Wang, X. (2025). "Financial transfer payment and green development transition in backward area: A case study in Jiangxi Province, China". _Environment, Development and Sustainability_, 27. [Link](https://doi.org/10.1007/s10668-024-04496-7)  
 [62] Dong, X., <strong>Zhang, X.*</strong>, Liu, F., Zhou, C., Lv, T. (2025). "Spatial and temporal pattern of landscape ecological risk and its influencing factors in Jiangxi province, China". _Environmental Monitoring and Assessment_, 197. [Link](https://link.springer.com/journal/10661)  
