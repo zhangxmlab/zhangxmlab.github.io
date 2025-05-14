@@ -9,7 +9,7 @@ Total citations = 1550; H-index = 22  [Scopus](https://www.scopus.com/authid/det
 
 2025
 =====
-[68] Xu, Y., Wang, Y., Su, Y., <strong>Zhang, X.*</strong> (2025). "Impacts of enterprise digital transformation on green technology innovation in China". _Environment, Development and Sustainability_, 27. [Link](https://link.springer.com/journal/10668)  
+[68] Wan, W., <strong>Zhang, X.*</strong>, Zhou, X., Lv, T., Xu, G., Fu, S. (2025). "Coordinated development of land use change and habitat quality in the border mountainous area of China: From the multi-scenario perspective". _Environment, Development and Sustainability_, 27. [Link](https://link.springer.com/journal/10668)  
 [67] He, Y., Cheng, H., Zou, P., Zhou, Y., <strong>Zhang, X.*</strong>, Chen, J. (2025). "Multi-subject collaboration in agricultural green production: a tripartite evolutionary game of central government, local governments, and farmers". _Environment, Development and Sustainability_, 27. [Link](https://doi.org/10.1007/s10668-025-06104-8)  
 [66] Hu, H., Yan, K., Lv, T., <strong>Zhang, X.</strong>, Huang, Y., Zhao, H., Zhao, Q. (2025). "Rethinking the assessment and nonlinear effects of ecological urbanization: A case study of the Yangtze River Delta". _Human and Ecological Risk Assessment_, 31(2). [Link](https://doi.org/10.1080/10807039.2025.2487801)  
 [65] <strong>Zhang, X.*</strong>, Wan, W., Yang, H., Yi, K. (2025). "Rapid development of wind energy infrastructure threatens bird migration". _The Innovation Geoscience_, 3(2), 100142. [Link](https://doi.org/10.59717/j.xinn-geo.2025.100142)  
