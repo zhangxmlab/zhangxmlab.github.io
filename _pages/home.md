@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Welcome to the Zhang Lab  
+# Welcome to Zhang Lab  
 ---
 
 <img src='/images/gallery/Home.jpg'>
