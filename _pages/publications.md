@@ -17,6 +17,7 @@ Total citations = 1700; H-index = 22  [Scopus](https://www.scopus.com/authid/det
 
 2025
 =====
+[72] <strong>Zhang, X.*</strong>, Wan, W., Estoque, R. C. (2025). "Impacts of urban and cropland expansions on natural habitats in Southeast Asia". _Nature Communications_, 16. [Link](https://doi.org/10.1038/s41467-025-63384-4)  
 [71] Wang, T., Zhou, X., Wang, H., <strong>Zhang, X.</strong>, Lu, W. (2025). "Urban cyclists’ exposure to PM2.5: A quantitative analysis using trajectory data and mobile monitoring". _Atmospheric Pollution Research_, 16(11), 102655. [Link](https://doi.org/10.1016/j.apr.2025.102655)  
 [70] Zhou, X., Wang, T., <strong>Zhang, X.</strong>, Bao, Y., Wu, J., Chen, X., Lu, Y., Zhou, G. (2025). "Assessing carbon sink potentials in the built environment: A study of 40 Chinese cities using a bottom-up high-resolution approach". _Journal of Cleaner Production_, 519, 146058. [Link](https://doi.org/10.1016/j.jclepro.2025.146058)  
 [69] Fu, S., Peng, Y., Xu, B., Feng, Y., Yu, J., Zeng, X., <strong>Zhang, X.</strong> (2025). "Investigating the effects of urban expansion on carbon stocks and developing optimization strategies: A case study of Nanchang". _Ecological Frontiers_, 45(5), 1486-1497. [Link](https://doi.org/10.1016/j.ecofro.2025.06.017)  
