@@ -6,6 +6,3 @@ author_profile: true
 ---
 
 
-Shubin Qin, Xinyu Administrative Service Center  
-Houbao Fan, Nanjing University  
-Xintong Dong, Nanjing Forestry University  
