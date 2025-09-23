@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "People"
-permalink: /people/
+title: "Team"
+permalink: /team/
 author_profile: true
 redirect_from:
-  - /people
+  - /team
 ---
 
 {% include base_path %}
