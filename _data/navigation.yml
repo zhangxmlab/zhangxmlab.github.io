@@ -21,8 +21,9 @@ main:
   - title: "Gallery"
     url: /gallery/
     
+  - title: "Alumni"
+    url: /alumni/
+
   - title: "Contact"
     url: /contact/
     
-  - title: "Alumni"
-    url: /alumni/
