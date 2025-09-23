@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 
-Shubin Qin
-Houbao Fan
-Xintong Dong
+Shubin Qin  
+Houbao Fan  
+Xintong Dong  
