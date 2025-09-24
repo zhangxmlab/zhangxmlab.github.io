@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+
 Our research integrates landscape ecology, sustainability science, and geospatial analysis to address critical challenges at the intersection of ecological security and global environmental change. Our work is dedicated to advancing a mechanistic understanding of social-ecological system dynamics and formulating robust strategies for achieving ecological sustainability under the dual pressures of climate change and anthropogenic forcing.
 
 <strong>Landscape Sustainability and Ecological Security</strong>  
