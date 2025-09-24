@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-Our research program integrates the disciplines of landscape ecology, sustainability science, and geospatial analysis to address critical challenges at the intersection of ecological security and global environmental change. Our work is dedicated to advancing a mechanistic understanding of social-ecological system dynamics and formulating robust strategies for achieving ecological sustainability under the dual pressures of climate change and anthropogenic forcing.
+Our research integrates landscape ecology, sustainability science, and geospatial analysis to address critical challenges at the intersection of ecological security and global environmental change. Our work is dedicated to advancing a mechanistic understanding of social-ecological system dynamics and formulating robust strategies for achieving ecological sustainability under the dual pressures of climate change and anthropogenic forcing.
 
-<strong>Landscape Sustainability and Ecological Security Patterns</strong>  
+<strong>Landscape Sustainability and Ecological Security</strong>  
 This theme is centered on the identification and preservation of critical ecological patterns that constitute the foundation of landscape sustainability and regional ecological security. By employing cutting-edge spatial modeling and remote sensing technologies, we aim to characterize ecological networks, conduct rigorous assessments of ecosystem health, and pioneer conservation strategies designed to bolster ecosystem resilience against climate change and anthropogenic expansion.
 
 <strong>Global Change Ecology and Telecoupling</strong>    
