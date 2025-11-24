@@ -1,9 +1,9 @@
 ---
 title: "Xinmin Zhang"
-excerpt: "<img src='/images/group/XinminZhang_small.jpg' class='rounded-corners'><br/>Principal Investigator"
+excerpt: "<img src='/images/group/Xinmin_Zhang.jpg' class='rounded-corners'><br/>Principal Investigator"
 collection: team
 ---
-<img src='/images/group/XinminZhang.jpg' class='rounded-corners'>
+<img src='/images/group/Xinmin_Zhang.jpg' class='rounded-corners'>
 <br/>Xinmin Zhang was born in Jiujiang, China, in December 1990. Currently, he is an Assistant Professor in the Department of Energy and Ecological Economics, School of Digital Economics, Jiangxi University of Finance and Economics, China. His current research interests include landscape ecology, ecological security, climate change and environmental pollution. He has approximately 80 refereed papers published in SCI and SSCI journals, with a total number of citations of more than 1800 times and an H-index of 22. His research has been funded by the Social Science Foundation of Jiangxi Province, etc. His work has been published in _Environmental Impact Assessment Review_, _Cities_, _Science of the Total Environment_, _Sustainable Cities and Society_, _Journal of Cleaner Production_, _Urban Climate_, etc.<br/>
 
 ## Academic Experience
