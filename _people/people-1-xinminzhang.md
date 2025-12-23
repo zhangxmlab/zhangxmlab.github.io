@@ -1,7 +1,7 @@
 ---
 title: "Xinmin Zhang"
 excerpt: "<img src='/images/group/Xinmin_Zhang.JPG' class='rounded-corners'><br/>Principal Investigator"
-collection: team
+collection: people
 ---
 <img src='/images/group/Xinmin_Zhang.JPG' class='rounded-corners'>
 <br/>Xinmin Zhang was born in Jiujiang, China, in November 1990. Currently, he is an Assistant Professor in School of Public Administration, Jiangxi University of Finance and Economics, China. His current research interests include landscape ecology, ecological security, climate change and environmental pollution. He has approximately 80 refereed papers published in SCI and SSCI journals, with a total number of citations of more than 1900 times and an H-index of 24. His work has been published in _Environmental Impact Assessment Review_, _Cities_, _Science of the Total Environment_, _Sustainable Cities and Society_, _Journal of Cleaner Production_, _Urban Climate_, etc.<br/>
