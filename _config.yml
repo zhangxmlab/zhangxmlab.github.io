@@ -184,7 +184,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  team:
+  people:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -225,10 +225,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _team
+  # _people
   - scope:
       path: ""
-      type: team
+      type: people
     values:
       layout: single
       author_profile: true
