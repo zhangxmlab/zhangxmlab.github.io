@@ -1,6 +1,6 @@
 ---
 title: "Xinmin Zhang"
-excerpt: "<img src='/images/group/Xinmin_Zhang.JPG' class='rounded-corners'><br/>Assistant Professor"
+excerpt: "<img src='/images/group/Xinmin_Zhang.JPG' class='rounded-corners'><br/> "
 collection: people
 ---
 <img src='/images/group/Xinmin_Zhang.JPG' class='rounded-corners'>
