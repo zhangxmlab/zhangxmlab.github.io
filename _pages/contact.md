@@ -7,13 +7,11 @@ author_profile: true
 
 # Prospective Students
 
-I am actively seeking highly motivated and dedicated students to join my research team as Master’s and Ph.D. candidates for the upcoming academic year. Prospective applicants should hold a Bachelor’s degree, ideally in fields such as geography, ecology, urban planning and design, landscape architecture, or related disciplines.
+I am actively seeking highly motivated and dedicated students to join my research lab as Master students. Prospective applicants should hold a Bachelor’s degree, ideally in fields such as geography, ecology, urban planning and design, landscape architecture, or related disciplines.
 
 If any aspect of my current research portfolio or previous scholarly work resonates with your academic interests and career aspirations, I warmly invite you to get in touch. I welcome informal inquiries and exploratory conversations at any time—whether you are in the early stages of considering graduate studies or are preparing your application.
 
-Joining our group offers the opportunity to engage in meaningful, innovative research within a collaborative and supportive intellectual environment. I look forward to connecting with passionate individuals who are eager to contribute to our projects and develop their expertise.
-
-Please feel free to reach out with questions or to discuss potential research directions—I’m happy to chat and explore how we might work together. Welcome to our academic community!
+Joining our lab offers the opportunity to engage in meaningful, innovative research within a collaborative and supportive intellectual environment. I look forward to connecting with passionate individuals who are eager to contribute to our projects and develop their expertise.
 
 # Address
 
