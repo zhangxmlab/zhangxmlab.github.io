@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Total citations = 1950; H-index = 25  [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194289047) [ScienceDirect](https://www.sciencedirect.com/author/57194289047/xinmin-zhang) 
+Total citations = 1950; H-index = 25  [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194289047)  
 
 
 2026
