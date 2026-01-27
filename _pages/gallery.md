@@ -155,37 +155,56 @@ Campus Scenery
     </div>
 
     <script>
-        // 图片数据
+        // 图片数据 - 使用GitHub仓库中的图片路径
+        // 请确保您的GitHub仓库中有这些图片文件
         const images = [
             {
                 id: 1,
-                url: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+                url: "/images/gallery/Home.jpg",
                 title: "校园正门",
                 description: "学校正门入口，庄严大气，绿树成荫，是学校的标志性建筑之一。"
             },
             {
                 id: 2,
-                url: "https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+                url: "/images/gallery/library.jpg",
                 title: "图书馆大楼",
                 description: "现代化图书馆，藏书丰富，是学生们学习研究的重要场所。"
             },
             {
                 id: 3,
-                url: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+                url: "/images/gallery/classroom.jpg",
                 title: "教学楼",
                 description: "现代化的教学楼，设施齐全，为师生提供了优良的教学环境。"
             },
             {
                 id: 4,
-                url: "https://images.unsplash.com/photo-1523580494863-6f3031224c94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+                url: "/images/gallery/lab.jpg",
                 title: "实验中心",
                 description: "先进的实验中心，配备各类实验设备，支持学生进行科学研究和实践。"
             },
             {
                 id: 5,
-                url: "https://images.unsplash.com/photo-1524178234883-043d5c3f3cf4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+                url: "/images/gallery/activity.jpg",
                 title: "学生活动中心",
                 description: "学生活动中心，各类社团活动、文艺演出和学术讲座在这里举行。"
+            },
+            {
+                id: 6,
+                url: "/images/gallery/sports.jpg",
+                title: "校园操场",
+                description: "宽敞的操场，是学生体育锻炼、举办运动会和日常活动的主要场所。"
+            },
+            {
+                id: 7,
+                url: "/images/gallery/dormitory.jpg",
+                title: "学生宿舍",
+                description: "舒适的学生宿舍区，绿树环绕，为学生提供了良好的生活环境。"
+            },
+            {
+                id: 8,
+                url: "/images/gallery/lake.jpg",
+                title: "校园湖景",
+                description: "校园内的湖泊，风景优美，是师生休闲散步、放松心情的好去处。"
             }
         ];
 
@@ -207,6 +226,12 @@ Campus Scenery
                 const img = document.createElement('img');
                 img.src = image.url;
                 img.alt = image.title;
+                
+                // 添加图片加载错误处理
+                img.onerror = function() {
+                    console.warn(`无法加载图片: ${image.url}`);
+                    this.src = "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='300'><rect width='100%' height='100%' fill='%23f0f0f0'/><text x='50%' y='50%' font-size='18' text-anchor='middle' dy='.3em' fill='%23666'>图片未找到</text></svg>";
+                };
                 
                 slide.appendChild(img);
                 imageContainer.appendChild(slide);
@@ -270,8 +295,6 @@ Campus Scenery
         
         function handleSwipe() {
             const swipeThreshold = 50;
-            let touchStartX = 0;
-            let touchEndX = 0;
             
             if (touchStartX - touchEndX > swipeThreshold) {
                 showNextImage();
@@ -296,4 +319,3 @@ Campus Scenery
     </script>
 </body>
 </html>
-          
