@@ -5,6 +5,8 @@ permalink: /gallery/
 author_profile: true
 ---
 
+Campus Scenery
+=====
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
