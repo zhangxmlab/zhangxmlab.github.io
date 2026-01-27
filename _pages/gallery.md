@@ -7,285 +7,284 @@ author_profile: true
 
 Campus Scenery
 =====
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>图片浏览</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        .gallery-container {
-            position: relative;
-            width: 100%;
-            max-width: 900px;
-            margin: 0 auto;
-            overflow: hidden;
-        }
-        
+<div class="gallery-container">
+    <div class="image-container">
+        <div class="image-slide active">
+            <img src='/images/gallery/Campus-1.jpg' alt="校园正门">
+        </div>
+        <div class="image-slide">
+            <img src='/images/gallery/Campus-2.jpg' alt="图书馆大楼">
+        </div>
+        <div class="image-slide">
+            <img src='/images/gallery/Campus-3.jpg' alt="教学楼">
+        </div>
+    </div>
+    
+    <button class="nav-button prev-button" aria-label="上一张图片">
+        <i class="fas fa-chevron-left"></i>
+    </button>
+    <button class="nav-button next-button" aria-label="下一张图片">
+        <i class="fas fa-chevron-right"></i>
+    </button>
+    
+    <div class="image-caption">
+        <h3>校园正门</h3>
+        <p>学校正门入口，庄严大气，绿树成荫，是学校的标志性建筑之一。</p>
+    </div>
+</div>
+
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .gallery-container {
+        position: relative;
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+    
+    .image-container {
+        position: relative;
+        width: 100%;
+        height: 500px;
+        overflow: hidden;
+    }
+    
+    .image-slide {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        transition: opacity 0.8s ease-in-out;
+    }
+    
+    .image-slide.active {
+        opacity: 1;
+    }
+    
+    .image-slide img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+    }
+    
+    .image-caption {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background: linear-gradient(transparent, rgba(0, 0, 0, 0.8));
+        color: white;
+        padding: 20px;
+        text-align: center;
+    }
+    
+    .image-caption h3 {
+        font-size: 1.5rem;
+        margin-bottom: 5px;
+    }
+    
+    .image-caption p {
+        font-size: 1rem;
+        opacity: 0.9;
+        max-width: 700px;
+        margin: 0 auto;
+    }
+    
+    .nav-button {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: rgba(255, 255, 255, 0.9);
+        border: none;
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.8rem;
+        color: #2c5282;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        z-index: 10;
+    }
+    
+    .nav-button:hover {
+        background-color: #2c5282;
+        color: white;
+        transform: translateY(-50%) scale(1.1);
+    }
+    
+    .prev-button {
+        left: 20px;
+    }
+    
+    .next-button {
+        right: 20px;
+    }
+    
+    @media (max-width: 768px) {
         .image-container {
-            position: relative;
-            width: 100%;
-            height: 500px;
-            overflow: hidden;
-        }
-        
-        .image-slide {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            opacity: 0;
-            transition: opacity 0.8s ease-in-out;
-        }
-        
-        .image-slide.active {
-            opacity: 1;
-        }
-        
-        .image-slide img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            display: block;
-        }
-        
-        .image-caption {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            background: linear-gradient(transparent, rgba(0, 0, 0, 0.8));
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
-        
-        .image-caption h3 {
-            font-size: 1.5rem;
-            margin-bottom: 5px;
-        }
-        
-        .image-caption p {
-            font-size: 1rem;
-            opacity: 0.9;
-            max-width: 700px;
-            margin: 0 auto;
+            height: 400px;
         }
         
         .nav-button {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            background-color: rgba(255, 255, 255, 0.9);
-            border: none;
-            width: 60px;
-            height: 60px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.8rem;
-            color: #2c5282;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-            z-index: 10;
-        }
-        
-        .nav-button:hover {
-            background-color: #2c5282;
-            color: white;
-            transform: translateY(-50%) scale(1.1);
+            width: 50px;
+            height: 50px;
+            font-size: 1.5rem;
         }
         
         .prev-button {
-            left: 20px;
+            left: 10px;
         }
         
         .next-button {
-            right: 20px;
+            right: 10px;
         }
-        
-        @media (max-width: 768px) {
-            .image-container {
-                height: 400px;
-            }
-            
-            .nav-button {
-                width: 50px;
-                height: 50px;
-                font-size: 1.5rem;
-            }
-            
-            .prev-button {
-                left: 10px;
-            }
-            
-            .next-button {
-                right: 10px;
-            }
+    }
+    
+    @media (max-width: 480px) {
+        .image-container {
+            height: 300px;
         }
-        
-        @media (max-width: 480px) {
-            .image-container {
-                height: 300px;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="gallery-container">
-        <div class="image-container"></div>
-        
-        <button class="nav-button prev-button" aria-label="上一张图片">
-            <i class="fas fa-chevron-left"></i>
-        </button>
-        <button class="nav-button next-button" aria-label="下一张图片">
-            <i class="fas fa-chevron-right"></i>
-        </button>
-        
-        <div class="image-caption"></div>
-    </div>
+    }
+</style>
 
-    <script>
-        // 图片数据 - 使用GitHub仓库中的图片路径
-        // 请确保您的GitHub仓库中有这些图片文件
-        const images = [
-            {
-                id: 1,
-                url: '/images/gallery/Home.jpg',
-                title: "校园正门",
-                description: "学校正门入口，庄严大气，绿树成荫，是学校的标志性建筑之一。"
-            },
-            {
-                id: 2,
-                url: '/images/gallery/Campus-2.jpg',
-                title: "图书馆大楼",
-                description: "现代化图书馆，藏书丰富，是学生们学习研究的重要场所。"
-            },
-            {
-                id: 3,
-                url: '/images/gallery/Campus-3.jpg',
-                title: "教学楼",
-                description: "现代化的教学楼，设施齐全，为师生提供了优良的教学环境。"
-            },
-        ];
+<script>
+    // 图片数据
+    const images = [
+        {
+            id: 1,
+            title: "校园正门",
+            description: "学校正门入口，庄严大气，绿树成荫，是学校的标志性建筑之一。"
+        },
+        {
+            id: 2,
+            title: "图书馆大楼",
+            description: "现代化图书馆，藏书丰富，是学生们学习研究的重要场所。"
+        },
+        {
+            id: 3,
+            title: "教学楼",
+            description: "现代化的教学楼，设施齐全，为师生提供了优良的教学环境。"
+        },
+        {
+            id: 4,
+            title: "实验中心",
+            description: "先进的实验中心，配备各类实验设备，支持学生进行科学研究和实践。"
+        },
+        {
+            id: 5,
+            title: "学生活动中心",
+            description: "学生活动中心，各类社团活动、文艺演出和学术讲座在这里举行。"
+        }
+    ];
 
-        // DOM元素
-        const imageContainer = document.querySelector('.image-container');
-        const captionContainer = document.querySelector('.image-caption');
-        const prevButton = document.querySelector('.prev-button');
-        const nextButton = document.querySelector('.next-button');
+    // DOM元素
+    const imageContainer = document.querySelector('.image-container');
+    const captionContainer = document.querySelector('.image-caption');
+    const prevButton = document.querySelector('.prev-button');
+    const nextButton = document.querySelector('.next-button');
+    const slides = document.querySelectorAll('.image-slide');
+    
+    let currentIndex = 0;
+    let touchStartX = 0;
+    let touchEndX = 0;
+    
+    // 初始化画廊
+    function initGallery() {
+        // 设置第一张图片的标题
+        updateCaption();
         
-        let currentIndex = 0;
+        // 事件监听器
+        prevButton.addEventListener('click', showPrevImage);
+        nextButton.addEventListener('click', showNextImage);
         
-        // 初始化画廊
-        function initGallery() {
-            // 创建图片幻灯片
-            images.forEach((image, index) => {
-                const slide = document.createElement('div');
-                slide.className = `image-slide ${index === 0 ? 'active' : ''}`;
-                
-                const img = document.createElement('img');
-                img.src = image.url;
-                img.alt = image.title;
-                
-                // 添加图片加载错误处理
-                img.onerror = function() {
-                    console.warn(`无法加载图片: ${image.url}`);
-                    this.src = "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='300'><rect width='100%' height='100%' fill='%23f0f0f0'/><text x='50%' y='50%' font-size='18' text-anchor='middle' dy='.3em' fill='%23666'>图片未找到</text></svg>";
-                };
-                
-                slide.appendChild(img);
-                imageContainer.appendChild(slide);
-            });
-            
-            updateCaption();
-            
-            // 事件监听器
-            prevButton.addEventListener('click', showPrevImage);
-            nextButton.addEventListener('click', showNextImage);
-            
-            // 键盘导航
-            document.addEventListener('keydown', handleKeyDown);
-            
-            // 触摸滑动支持
-            let touchStartX = 0;
-            let touchEndX = 0;
-            
-            imageContainer.addEventListener('touchstart', e => {
-                touchStartX = e.changedTouches[0].screenX;
-            });
-            
-            imageContainer.addEventListener('touchend', e => {
-                touchEndX = e.changedTouches[0].screenX;
-                handleSwipe();
-            });
-            
-            // 自动轮播
-            startAutoSlide();
+        // 键盘导航
+        document.addEventListener('keydown', handleKeyDown);
+        
+        // 触摸滑动支持
+        imageContainer.addEventListener('touchstart', e => {
+            touchStartX = e.changedTouches[0].screenX;
+        });
+        
+        imageContainer.addEventListener('touchend', e => {
+            touchEndX = e.changedTouches[0].screenX;
+            handleSwipe();
+        });
+        
+        // 自动轮播
+        startAutoSlide();
+    }
+    
+    function showPrevImage() {
+        currentIndex = (currentIndex - 1 + slides.length) % slides.length;
+        updateGallery();
+    }
+    
+    function showNextImage() {
+        currentIndex = (currentIndex + 1) % slides.length;
+        updateGallery();
+    }
+    
+    function updateGallery() {
+        // 更新主图片
+        slides.forEach(slide => {
+            slide.classList.remove('active');
+        });
+        
+        slides[currentIndex].classList.add('active');
+        
+        // 更新标题
+        updateCaption();
+    }
+    
+    function updateCaption() {
+        const currentImage = images[currentIndex];
+        captionContainer.innerHTML = `
+            <h3>${currentImage.title}</h3>
+            <p>${currentImage.description}</p>
+        `;
+    }
+    
+    function handleKeyDown(e) {
+        if (e.key === 'ArrowLeft') showPrevImage();
+        else if (e.key === 'ArrowRight') showNextImage();
+    }
+    
+    function handleSwipe() {
+        const swipeThreshold = 50;
+        
+        if (touchStartX - touchEndX > swipeThreshold) {
+            showNextImage();
+        } else if (touchEndX - touchStartX > swipeThreshold) {
+            showPrevImage();
         }
-        
-        function showPrevImage() {
-            currentIndex = (currentIndex - 1 + images.length) % images.length;
-            updateGallery();
-        }
-        
-        function showNextImage() {
-            currentIndex = (currentIndex + 1) % images.length;
-            updateGallery();
-        }
-        
-        function updateGallery() {
-            const slides = document.querySelectorAll('.image-slide');
-            slides.forEach(slide => slide.classList.remove('active'));
-            slides[currentIndex].classList.add('active');
-            updateCaption();
-        }
-        
-        function updateCaption() {
-            const currentImage = images[currentIndex];
-            captionContainer.innerHTML = `
-                <h3>${currentImage.title}</h3>
-                <p>${currentImage.description}</p>
-            `;
-        }
-        
-        function handleKeyDown(e) {
-            if (e.key === 'ArrowLeft') showPrevImage();
-            else if (e.key === 'ArrowRight') showNextImage();
-        }
-        
-        function handleSwipe() {
-            const swipeThreshold = 50;
-            
-            if (touchStartX - touchEndX > swipeThreshold) {
-                showNextImage();
-            } else if (touchEndX - touchStartX > swipeThreshold) {
-                showPrevImage();
-            }
-        }
-        
-        let autoSlideInterval;
-        function startAutoSlide() {
-            autoSlideInterval = setInterval(showNextImage, 5000);
-        }
-        
-        function stopAutoSlide() {
-            clearInterval(autoSlideInterval);
-        }
-        
-        document.querySelector('.gallery-container').addEventListener('mouseenter', stopAutoSlide);
-        document.querySelector('.gallery-container').addEventListener('mouseleave', startAutoSlide);
-        
-        window.addEventListener('DOMContentLoaded', initGallery);
-    </script>
-</body>
-</html>
+    }
+    
+    let autoSlideInterval;
+    function startAutoSlide() {
+        autoSlideInterval = setInterval(showNextImage, 5000);
+    }
+    
+    function stopAutoSlide() {
+        clearInterval(autoSlideInterval);
+    }
+    
+    document.querySelector('.gallery-container').addEventListener('mouseenter', stopAutoSlide);
+    document.querySelector('.gallery-container').addEventListener('mouseleave', startAutoSlide);
+    
+    window.addEventListener('DOMContentLoaded', initGallery);
+</script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
