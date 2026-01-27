@@ -329,11 +329,6 @@ author_profile: true
 </head>
 <body>
     <div class="container">
-        <header>
-            <h1>校园风光画廊</h1>
-            <p class="subtitle">使用左右箭头键或按钮浏览我们美丽的校园景色，感受校园的四季变化与建筑风貌。</p>
-        </header>
-        
         <div class="gallery-container">
             <div class="image-container">
                 <!-- 图片幻灯片将通过JavaScript动态生成 -->
