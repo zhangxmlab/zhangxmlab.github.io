@@ -10,13 +10,10 @@ Campus Scenery
 <div class="gallery-container">
     <div class="image-container">
         <div class="image-slide active">
-            <img src='/images/gallery/Campus-1.jpg' alt="校园正门">
+            <img src='/images/gallery/Campus-3.jpg' alt="图书馆">
         </div>
         <div class="image-slide">
-            <img src='/images/gallery/Campus-2.jpg' alt="图书馆大楼">
-        </div>
-        <div class="image-slide">
-            <img src='/images/gallery/Campus-3.jpg' alt="教学楼">
+            <img src='/images/gallery/Campus-2.jpg' alt="大学生活动中心">
         </div>
     </div>
     
