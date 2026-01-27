@@ -160,19 +160,19 @@ Campus Scenery
         const images = [
             {
                 id: 1,
-                <img src='/images/gallery/Campus-1.jpg'>
+                <img src='/images/gallery/Campus-1.jpg'>,
                 title: "校园正门",
                 description: "学校正门入口，庄严大气，绿树成荫，是学校的标志性建筑之一。"
             },
             {
                 id: 2,
-                url: "/images/gallery/Campus-2.jpg",
+                <img src='/images/gallery/Campus-1.jpg'>,
                 title: "图书馆大楼",
                 description: "现代化图书馆，藏书丰富，是学生们学习研究的重要场所。"
             },
             {
                 id: 3,
-                url: "/images/gallery/Campus-3.jpg",
+                <img src='/images/gallery/Campus-1.jpg'>,
                 title: "教学楼",
                 description: "现代化的教学楼，设施齐全，为师生提供了优良的教学环境。"
             },
