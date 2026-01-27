@@ -160,52 +160,22 @@ Campus Scenery
         const images = [
             {
                 id: 1,
-                url: "/images/gallery/Home.jpg",
+                url: "/images/gallery/Campus-1.jpg",
                 title: "校园正门",
                 description: "学校正门入口，庄严大气，绿树成荫，是学校的标志性建筑之一。"
             },
             {
                 id: 2,
-                url: "/images/gallery/library.jpg",
+                url: "/images/gallery/Campus-2.jpg",
                 title: "图书馆大楼",
                 description: "现代化图书馆，藏书丰富，是学生们学习研究的重要场所。"
             },
             {
                 id: 3,
-                url: "/images/gallery/classroom.jpg",
+                url: "/images/gallery/Campus-3.jpg",
                 title: "教学楼",
                 description: "现代化的教学楼，设施齐全，为师生提供了优良的教学环境。"
             },
-            {
-                id: 4,
-                url: "/images/gallery/lab.jpg",
-                title: "实验中心",
-                description: "先进的实验中心，配备各类实验设备，支持学生进行科学研究和实践。"
-            },
-            {
-                id: 5,
-                url: "/images/gallery/activity.jpg",
-                title: "学生活动中心",
-                description: "学生活动中心，各类社团活动、文艺演出和学术讲座在这里举行。"
-            },
-            {
-                id: 6,
-                url: "/images/gallery/sports.jpg",
-                title: "校园操场",
-                description: "宽敞的操场，是学生体育锻炼、举办运动会和日常活动的主要场所。"
-            },
-            {
-                id: 7,
-                url: "/images/gallery/dormitory.jpg",
-                title: "学生宿舍",
-                description: "舒适的学生宿舍区，绿树环绕，为学生提供了良好的生活环境。"
-            },
-            {
-                id: 8,
-                url: "/images/gallery/lake.jpg",
-                title: "校园湖景",
-                description: "校园内的湖泊，风景优美，是师生休闲散步、放松心情的好去处。"
-            }
         ];
 
         // DOM元素
