@@ -359,10 +359,7 @@ author_profile: true
                 <span><i class="fas fa-mouse-pointer"></i> 点击缩略图跳转</span>
             </div>
         </div>
-        
-        <footer>
-            <p>校园图片画廊 &copy; 2023 | 使用HTML、CSS和JavaScript创建</p>
-        </footer>
+
     </div>
 
     <script>
