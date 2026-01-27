@@ -160,7 +160,7 @@ Campus Scenery
         const images = [
             {
                 id: 1,
-                url: '/images/gallery/Campus-1.jpg',
+                url: '/images/gallery/Home.jpg',
                 title: "校园正门",
                 description: "学校正门入口，庄严大气，绿树成荫，是学校的标志性建筑之一。"
             },
