@@ -162,28 +162,13 @@ Campus Scenery
     const images = [
         {
             id: 1,
-            title: "校园正门",
-            description: "学校正门入口，庄严大气，绿树成荫，是学校的标志性建筑之一。"
+            title: "图书馆",
+            description: "图书馆，是学校的标志性建筑之一。"
         },
         {
             id: 2,
-            title: "图书馆大楼",
-            description: "现代化图书馆，藏书丰富，是学生们学习研究的重要场所。"
-        },
-        {
-            id: 3,
-            title: "教学楼",
-            description: "现代化的教学楼，设施齐全，为师生提供了优良的教学环境。"
-        },
-        {
-            id: 4,
-            title: "实验中心",
-            description: "先进的实验中心，配备各类实验设备，支持学生进行科学研究和实践。"
-        },
-        {
-            id: 5,
-            title: "学生活动中心",
-            description: "学生活动中心，各类社团活动、文艺演出和学术讲座在这里举行。"
+            title: "大学生活动中心",
+            description: "大学生活动中心，是大学生活动的重要场所。"
         }
     ];
 
