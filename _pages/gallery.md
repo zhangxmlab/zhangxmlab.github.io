@@ -21,15 +21,10 @@ author_profile: true
         }
         
         body {
-            background-color: #f5f9ff;
             color: #333;
             line-height: 1.6;
             padding: 20px;
             min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
         }
         
         .container {
@@ -39,44 +34,11 @@ author_profile: true
             padding: 20px;
         }
         
-        header {
-            text-align: center;
-            margin-bottom: 30px;
-            width: 100%;
-        }
-        
-        h1 {
-            color: #2c5282;
-            font-size: 2.8rem;
-            margin-bottom: 10px;
-            position: relative;
-            display: inline-block;
-        }
-        
-        h1:after {
-            content: '';
-            position: absolute;
-            bottom: -10px;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 120px;
-            height: 4px;
-            background: linear-gradient(90deg, #4299e1, #2b6cb0);
-            border-radius: 2px;
-        }
-        
-        .subtitle {
-            color: #4a5568;
-            font-size: 1.2rem;
-            max-width: 600px;
-            margin: 20px auto;
-        }
-        
         .gallery-container {
             position: relative;
             width: 100%;
             max-width: 900px;
-            margin: 0 auto 30px;
+            margin: 0 auto;
             box-shadow: 0 10px 30px rgba(0, 0, 100, 0.15);
             border-radius: 15px;
             overflow: hidden;
@@ -176,101 +138,8 @@ author_profile: true
             right: 20px;
         }
         
-        .thumbnails {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 12px;
-            margin-top: 20px;
-            padding: 15px;
-        }
-        
-        .thumbnail {
-            width: 100px;
-            height: 70px;
-            border-radius: 8px;
-            overflow: hidden;
-            cursor: pointer;
-            opacity: 0.7;
-            transition: all 0.3s ease;
-            border: 3px solid transparent;
-        }
-        
-        .thumbnail:hover {
-            opacity: 0.9;
-            transform: translateY(-3px);
-        }
-        
-        .thumbnail.active {
-            opacity: 1;
-            border-color: #2c5282;
-            box-shadow: 0 5px 10px rgba(44, 82, 130, 0.3);
-        }
-        
-        .thumbnail img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
-        
-        .gallery-info {
-            text-align: center;
-            margin-top: 20px;
-            padding: 15px;
-            background-color: white;
-            border-radius: 10px;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
-            max-width: 900px;
-            width: 100%;
-        }
-        
-        .gallery-info p {
-            color: #4a5568;
-            margin-bottom: 10px;
-        }
-        
-        .counter {
-            font-weight: bold;
-            color: #2c5282;
-            font-size: 1.2rem;
-        }
-        
-        .keyboard-hint {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 20px;
-            margin-top: 15px;
-            color: #718096;
-            font-size: 0.9rem;
-        }
-        
-        .keyboard-hint span {
-            display: flex;
-            align-items: center;
-            gap: 5px;
-            background-color: #edf2f7;
-            padding: 5px 10px;
-            border-radius: 5px;
-        }
-        
-        footer {
-            margin-top: 30px;
-            text-align: center;
-            color: #718096;
-            font-size: 0.9rem;
-            padding-top: 20px;
-            border-top: 1px solid #e2e8f0;
-            width: 100%;
-            max-width: 900px;
-        }
-        
         /* 响应式设计 */
         @media (max-width: 768px) {
-            h1 {
-                font-size: 2.2rem;
-            }
-            
             .image-container {
                 height: 400px;
             }
@@ -296,33 +165,11 @@ author_profile: true
             .image-caption h3 {
                 font-size: 1.3rem;
             }
-            
-            .thumbnail {
-                width: 80px;
-                height: 56px;
-            }
         }
         
         @media (max-width: 480px) {
             .image-container {
                 height: 300px;
-            }
-            
-            .thumbnails {
-                gap: 8px;
-            }
-            
-            .thumbnail {
-                width: 70px;
-                height: 50px;
-            }
-            
-            h1 {
-                font-size: 1.8rem;
-            }
-            
-            .subtitle {
-                font-size: 1rem;
             }
         }
     </style>
@@ -345,21 +192,6 @@ author_profile: true
                 <!-- 图片标题将通过JavaScript动态生成 -->
             </div>
         </div>
-        
-        <div class="thumbnails">
-            <!-- 缩略图将通过JavaScript动态生成 -->
-        </div>
-        
-        <div class="gallery-info">
-            <p>当前图片：<span class="counter">1 / 8</span></p>
-            <p>点击缩略图或使用左右箭头键浏览图片</p>
-            <div class="keyboard-hint">
-                <span><i class="fas fa-arrow-left"></i> 上一张</span>
-                <span><i class="fas fa-arrow-right"></i> 下一张</span>
-                <span><i class="fas fa-mouse-pointer"></i> 点击缩略图跳转</span>
-            </div>
-        </div>
-
     </div>
 
     <script>
@@ -418,10 +250,8 @@ author_profile: true
         // DOM元素
         const imageContainer = document.querySelector('.image-container');
         const captionContainer = document.querySelector('.image-caption');
-        const thumbnailsContainer = document.querySelector('.thumbnails');
         const prevButton = document.querySelector('.prev-button');
         const nextButton = document.querySelector('.next-button');
-        const counterElement = document.querySelector('.counter');
         
         let currentIndex = 0;
         
@@ -440,28 +270,10 @@ author_profile: true
                 
                 slide.appendChild(img);
                 imageContainer.appendChild(slide);
-                
-                // 创建缩略图
-                const thumbnail = document.createElement('div');
-                thumbnail.className = `thumbnail ${index === 0 ? 'active' : ''}`;
-                thumbnail.dataset.index = index;
-                
-                const thumbImg = document.createElement('img');
-                thumbImg.src = image.url;
-                thumbImg.alt = `缩略图: ${image.title}`;
-                
-                thumbnail.appendChild(thumbImg);
-                thumbnailsContainer.appendChild(thumbnail);
-                
-                // 缩略图点击事件
-                thumbnail.addEventListener('click', () => {
-                    goToImage(index);
-                });
             });
             
             // 设置第一张图片的标题
             updateCaption();
-            updateCounter();
             
             // 添加事件监听器
             prevButton.addEventListener('click', showPrevImage);
@@ -512,17 +324,8 @@ author_profile: true
             
             slides[currentIndex].classList.add('active');
             
-            // 更新缩略图
-            const thumbnails = document.querySelectorAll('.thumbnail');
-            thumbnails.forEach(thumb => {
-                thumb.classList.remove('active');
-            });
-            
-            thumbnails[currentIndex].classList.add('active');
-            
-            // 更新标题和计数器
+            // 更新标题
             updateCaption();
-            updateCounter();
         }
         
         // 更新图片标题
@@ -532,11 +335,6 @@ author_profile: true
                 <h3>${currentImage.title}</h3>
                 <p>${currentImage.description}</p>
             `;
-        }
-        
-        // 更新计数器
-        function updateCounter() {
-            counterElement.textContent = `${currentIndex + 1} / ${campusImages.length}`;
         }
         
         // 处理键盘事件
@@ -584,4 +382,3 @@ author_profile: true
     </script>
 </body>
 </html>
-           
