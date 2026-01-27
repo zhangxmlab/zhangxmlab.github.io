@@ -5,7 +5,6 @@ permalink: /gallery/
 author_profile: true
 ---
 
- <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
