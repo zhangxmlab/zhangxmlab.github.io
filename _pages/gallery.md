@@ -11,19 +11,13 @@ Campus Scenery
     <div class="gallery__container">
         <div class="gallery__slides">
             <div class="gallery__slide gallery__slide--active">
-                <img class="gallery__image" src="{{ '/images/gallery/Campus1.jpg' | relative_url }}" alt="校园正门" loading="lazy">
+                <img class="gallery__image" src="{{ '/images/gallery/Campus1.jpg' | relative_url }}" alt="" loading="lazy">
             </div>
             <div class="gallery__slide">
-                <img class="gallery__image" src="{{ '/images/gallery/Campus2.jpg' | relative_url }}" alt="图书馆大楼" loading="lazy">
+                <img class="gallery__image" src="{{ '/images/gallery/Campus2.jpg' | relative_url }}" alt="" loading="lazy">
             </div>
             <div class="gallery__slide">
-                <img class="gallery__image" src="{{ '/images/gallery/Campus3.jpg' | relative_url }}" alt="教学楼" loading="lazy">
-            </div>
-            <div class="gallery__slide">
-                <img class="gallery__image" src="{{ '/images/gallery/Campus4.jpg' | relative_url }}" alt="实验中心" loading="lazy">
-            </div>
-            <div class="gallery__slide">
-                <img class="gallery__image" src="{{ '/images/gallery/Campus5.jpg' | relative_url }}" alt="学生活动中心" loading="lazy">
+                <img class="gallery__image" src="{{ '/images/gallery/Campus3.jpg' | relative_url }}" alt="" loading="lazy">
             </div>
         </div>
         
@@ -33,11 +27,6 @@ Campus Scenery
         <button class="gallery__nav gallery__nav--next" aria-label="下一张图片">
             <i class="fas fa-chevron-right"></i>
         </button>
-        
-        <div class="gallery__caption">
-            <h3 class="gallery__title">校园正门</h3>
-            <p class="gallery__description">学校正门入口，庄严大气，绿树成荫，是学校的标志性建筑之一。</p>
-        </div>
         
         <!-- 缩略图导航 -->
         <div class="gallery__thumbnails">
@@ -49,12 +38,6 @@ Campus Scenery
             </button>
             <button class="gallery__thumb" data-index="2" aria-label="查看图片3: 教学楼">
                 <img src="{{ '/images/gallery/Campus3.jpg' | relative_url }}" alt="教学楼缩略图" loading="lazy">
-            </button>
-            <button class="gallery__thumb" data-index="3" aria-label="查看图片4: 实验中心">
-                <img src="{{ '/images/gallery/Campus4.jpg' | relative_url }}" alt="实验中心缩略图" loading="lazy">
-            </button>
-            <button class="gallery__thumb" data-index="4" aria-label="查看图片5: 学生活动中心">
-                <img src="{{ '/images/gallery/Campus5.jpg' | relative_url }}" alt="学生活动中心缩略图" loading="lazy">
             </button>
         </div>
     </div>
@@ -154,36 +137,6 @@ Campus Scenery
     right: 20px;
 }
 
-/* 图片说明 */
-.gallery__caption {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: linear-gradient(transparent, rgba(0, 0, 0, 0.9));
-    color: white;
-    padding: 1.5rem;
-    text-align: center;
-    transition: transform 0.3s ease;
-    z-index: 5;
-}
-
-.gallery__title {
-    font-size: 1.4rem;
-    margin: 0 0 0.5rem;
-    font-weight: 600;
-    line-height: 1.3;
-}
-
-.gallery__description {
-    font-size: 0.95rem;
-    margin: 0;
-    opacity: 0.9;
-    line-height: 1.5;
-    max-width: 700px;
-    margin: 0 auto;
-}
-
 /* 缩略图样式 */
 .gallery__thumbnails {
     display: flex;
@@ -247,15 +200,6 @@ Campus Scenery
         right: 12px;
     }
     
-    .gallery__title {
-        font-size: 1.2rem;
-    }
-    
-    .gallery__description {
-        font-size: 0.9rem;
-        padding: 0 0.5rem;
-    }
-    
     .gallery__thumbnails {
         padding: 15px 10px;
         gap: 8px;
@@ -277,19 +221,6 @@ Campus Scenery
         height: 40px;
     }
     
-    .gallery__caption {
-        padding: 1rem;
-    }
-    
-    .gallery__title {
-        font-size: 1.1rem;
-        margin-bottom: 0.3rem;
-    }
-    
-    .gallery__description {
-        font-size: 0.85rem;
-    }
-    
     .gallery__thumbnails {
         padding: 12px 8px;
         gap: 6px;
@@ -308,8 +239,7 @@ Campus Scenery
     outline-offset: 2px;
 }
 
-.gallery__nav:active,
-.gallery__thumb:active {
+.gallery__nav:active {
     transform: translateY(-50%) scale(0.95);
 }
 
@@ -331,10 +261,6 @@ Campus Scenery
     .gallery__nav:hover {
         background: #2c5282;
         color: white;
-    }
-    
-    .gallery__caption {
-        background: linear-gradient(transparent, rgba(0, 0, 0, 0.95));
     }
     
     .gallery__thumbnails {
@@ -371,8 +297,6 @@ class ImageGallery {
         this.slides = document.querySelectorAll('.gallery__slide');
         this.prevBtn = document.querySelector('.gallery__nav--prev');
         this.nextBtn = document.querySelector('.gallery__nav--next');
-        this.captionTitle = document.querySelector('.gallery__title');
-        this.captionDesc = document.querySelector('.gallery__description');
         this.thumbnails = document.querySelectorAll('.gallery__thumb');
         
         this.currentIndex = 0;
@@ -381,28 +305,13 @@ class ImageGallery {
         this.touchEndX = 0;
         this.isTransitioning = false;
         
-        // 图片标题数据
-        this.imageData = [
-            {
-                title: "校园正门",
-                description: "学校正门入口，庄严大气，绿树成荫，是学校的标志性建筑之一。"
-            },
-            {
-                title: "图书馆大楼",
-                description: "现代化图书馆，藏书丰富，是学生们学习研究的重要场所。"
-            },
-            {
-                title: "教学楼",
-                description: "现代化的教学楼，设施齐全，为师生提供了优良的教学环境。"
-            },
-            {
-                title: "实验中心",
-                description: "先进的实验中心，配备各类实验设备，支持学生进行科学研究和实践。"
-            },
-            {
-                title: "学生活动中心",
-                description: "学生活动中心，各类社团活动、文艺演出和学术讲座在这里举行。"
-            }
+        // 图片标题数据（仅保留标题）
+        this.imageTitles = [
+            "校园正门",
+            "图书馆大楼",
+            "教学楼",
+            "实验中心",
+            "学生活动中心"
         ];
         
         this.init();
@@ -414,7 +323,6 @@ class ImageGallery {
         
         this.setupEventListeners();
         this.startAutoSlide();
-        this.updateCaption();
         this.updateThumbnails();
         
         // 预加载下一张图片
@@ -440,7 +348,7 @@ class ImageGallery {
                             color: #666;
                         ">
                             <i class="fas fa-image" style="font-size: 3rem; margin-bottom: 1rem;"></i>
-                            <p>${this.imageData[index].title}</p>
+                            <p>${this.imageTitles[index]}</p>
                             <p style="font-size: 0.9rem;">图片加载中...</p>
                         </div>`;
                 };
@@ -510,8 +418,7 @@ class ImageGallery {
             slide.classList.toggle('gallery__slide--active', i === this.currentIndex);
         });
         
-        // 更新标题和缩略图
-        this.updateCaption();
+        // 更新缩略图
         this.updateThumbnails();
         
         // 预加载下一张
@@ -533,22 +440,11 @@ class ImageGallery {
             slide.classList.toggle('gallery__slide--active', index === this.currentIndex);
         });
         
-        // 更新标题
-        this.updateCaption();
-        
         // 更新缩略图
         this.updateThumbnails();
         
         // 更新ARIA标签
         this.updateAriaLabels();
-    }
-    
-    updateCaption() {
-        if (this.currentIndex < this.imageData.length) {
-            const data = this.imageData[this.currentIndex];
-            this.captionTitle.textContent = data.title;
-            this.captionDesc.textContent = data.description;
-        }
     }
     
     updateThumbnails() {
@@ -565,7 +461,7 @@ class ImageGallery {
         
         // 更新缩略图ARIA标签
         this.thumbnails.forEach((thumb, index) => {
-            const title = this.imageData[index]?.title || `图片 ${index + 1}`;
+            const title = this.imageTitles[index] || `图片 ${index + 1}`;
             thumb.setAttribute('aria-label', `查看${title}，当前${index === this.currentIndex ? '已选中' : '未选中'}`);
         });
     }
