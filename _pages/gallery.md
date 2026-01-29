@@ -11,19 +11,19 @@ Campus Scenery
     <div class="gallery__container">
         <div class="gallery__slides">
             <div class="gallery__slide gallery__slide--active">
-                <img class="gallery__image" src="{{ '/images/gallery/Campus-1.jpg' | relative_url }}" alt="校园正门" loading="lazy">
+                <img class="gallery__image" src="{{ '/images/gallery/Campus1.jpg' | relative_url }}" alt="校园正门" loading="lazy">
             </div>
             <div class="gallery__slide">
-                <img class="gallery__image" src="{{ '/images/gallery/Campus-2.jpg' | relative_url }}" alt="图书馆大楼" loading="lazy">
+                <img class="gallery__image" src="{{ '/images/gallery/Campus2.jpg' | relative_url }}" alt="图书馆大楼" loading="lazy">
             </div>
             <div class="gallery__slide">
-                <img class="gallery__image" src="{{ '/images/gallery/Campus-3.jpg' | relative_url }}" alt="教学楼" loading="lazy">
+                <img class="gallery__image" src="{{ '/images/gallery/Campus3.jpg' | relative_url }}" alt="教学楼" loading="lazy">
             </div>
             <div class="gallery__slide">
-                <img class="gallery__image" src="{{ '/images/gallery/Campus-4.jpg' | relative_url }}" alt="实验中心" loading="lazy">
+                <img class="gallery__image" src="{{ '/images/gallery/Campus4.jpg' | relative_url }}" alt="实验中心" loading="lazy">
             </div>
             <div class="gallery__slide">
-                <img class="gallery__image" src="{{ '/images/gallery/Campus-5.jpg' | relative_url }}" alt="学生活动中心" loading="lazy">
+                <img class="gallery__image" src="{{ '/images/gallery/Campus5.jpg' | relative_url }}" alt="学生活动中心" loading="lazy">
             </div>
         </div>
         
@@ -42,19 +42,19 @@ Campus Scenery
         <!-- 缩略图导航 -->
         <div class="gallery__thumbnails">
             <button class="gallery__thumb active" data-index="0" aria-label="查看图片1: 校园正门">
-                <img src="{{ '/images/gallery/Campus-1.jpg' | relative_url }}" alt="校园正门缩略图" loading="lazy">
+                <img src="{{ '/images/gallery/Campus1.jpg' | relative_url }}" alt="校园正门缩略图" loading="lazy">
             </button>
             <button class="gallery__thumb" data-index="1" aria-label="查看图片2: 图书馆大楼">
-                <img src="{{ '/images/gallery/Campus-2.jpg' | relative_url }}" alt="图书馆大楼缩略图" loading="lazy">
+                <img src="{{ '/images/gallery/Campus2.jpg' | relative_url }}" alt="图书馆大楼缩略图" loading="lazy">
             </button>
             <button class="gallery__thumb" data-index="2" aria-label="查看图片3: 教学楼">
-                <img src="{{ '/images/gallery/Campus-3.jpg' | relative_url }}" alt="教学楼缩略图" loading="lazy">
+                <img src="{{ '/images/gallery/Campus3.jpg' | relative_url }}" alt="教学楼缩略图" loading="lazy">
             </button>
             <button class="gallery__thumb" data-index="3" aria-label="查看图片4: 实验中心">
-                <img src="{{ '/images/gallery/Campus-4.jpg' | relative_url }}" alt="实验中心缩略图" loading="lazy">
+                <img src="{{ '/images/gallery/Campus4.jpg' | relative_url }}" alt="实验中心缩略图" loading="lazy">
             </button>
             <button class="gallery__thumb" data-index="4" aria-label="查看图片5: 学生活动中心">
-                <img src="{{ '/images/gallery/Campus-5.jpg' | relative_url }}" alt="学生活动中心缩略图" loading="lazy">
+                <img src="{{ '/images/gallery/Campus5.jpg' | relative_url }}" alt="学生活动中心缩略图" loading="lazy">
             </button>
         </div>
     </div>
