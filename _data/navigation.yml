@@ -1,23 +1,140 @@
-# main links links
-main:
-  - title: "Home"
-    url: /home/
- 
-  - title: "News"
-    url: /news/
-
-  - title: "Research"
-    url: /research/
-                  
-  - title: "People"
-    url: /people/
-    
-  - title: "Publications"
-    url: /publications/   
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zhang Lab Navigation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
         
-  - title: "Gallery"
-    url: /gallery/
+        body {
+            background-color: #f5f7fa;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .navigation-container {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+        
+        nav {
+            background-color: white;
+            border-radius: 8px;
+            padding: 15px 30px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+            display: inline-flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            max-width: 900px;
+            border: 1px solid #e0e0e0;
+        }
+        
+        .nav-item {
+            margin: 8px 12px;
+        }
+        
+        .nav-link {
+            text-decoration: none;
+            color: #333;
+            font-size: 1.1rem;
+            font-weight: 500;
+            padding: 10px 18px;
+            border-radius: 6px;
+            transition: all 0.3s ease;
+            display: block;
+        }
+        
+        .nav-link:hover {
+            background-color: #f0f7ff;
+            color: #0066cc;
+        }
+        
+        .nav-link.active {
+            background-color: #0066cc;
+            color: white;
+        }
+        
+        .nav-link.active:hover {
+            background-color: #0052a3;
+        }
+        
+        /* 响应式设计 */
+        @media (max-width: 768px) {
+            nav {
+                padding: 12px 20px;
+                max-width: 95%;
+            }
+            
+            .nav-link {
+                padding: 8px 14px;
+                font-size: 1rem;
+            }
+        }
+        
+        @media (max-width: 576px) {
+            .nav-item {
+                margin: 6px 8px;
+            }
+            
+            .nav-link {
+                padding: 6px 10px;
+                font-size: 0.95rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="navigation-container">
+        <nav>
+            <div class="nav-item">
+                <a href="#" class="nav-link active">Home</a>
+            </div>
+            <div class="nav-item">
+                <a href="#" class="nav-link">News</a>
+            </div>
+            <div class="nav-item">
+                <a href="#" class="nav-link">Research</a>
+            </div>
+            <div class="nav-item">
+                <a href="#" class="nav-link">People</a>
+            </div>
+            <div class="nav-item">
+                <a href="#" class="nav-link">Publications</a>
+            </div>
+            <div class="nav-item">
+                <a href="#" class="nav-link">Gallery</a>
+            </div>
+            <div class="nav-item">
+                <a href="#" class="nav-link">Contact</a>
+            </div>
+        </nav>
+    </div>
     
-  - title: "Contact"
-    url: /contact/
-    
+    <script>
+        // 为导航链接添加交互效果
+        document.querySelectorAll('.nav-link').forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                
+                // 移除所有链接的active类
+                document.querySelectorAll('.nav-link').forEach(item => {
+                    item.classList.remove('active');
+                });
+                
+                // 为当前点击的链接添加active类
+                this.classList.add('active');
+            });
+        });
+    </script>
+</body>
+</html>
