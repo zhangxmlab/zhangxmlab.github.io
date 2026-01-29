@@ -11,19 +11,19 @@ Campus Scenery
     <div class="gallery__container">
         <div class="gallery__slides">
             <div class="gallery__slide gallery__slide--active">
-                <img class="gallery__image" src="/images/gallery/Campus-1.jpg" alt="校园正门" loading="lazy">
+                <img class="gallery__image" src="{{ '/images/gallery/Campus-1.jpg' | relative_url }}" alt="校园正门" loading="lazy">
             </div>
             <div class="gallery__slide">
-                <img class="gallery__image" src="/images/gallery/Campus-2.jpg" alt="图书馆大楼" loading="lazy">
+                <img class="gallery__image" src="{{ '/images/gallery/Campus-2.jpg' | relative_url }}" alt="图书馆大楼" loading="lazy">
             </div>
             <div class="gallery__slide">
-                <img class="gallery__image" src="/images/gallery/Campus-3.jpg" alt="教学楼" loading="lazy">
+                <img class="gallery__image" src="{{ '/images/gallery/Campus-3.jpg' | relative_url }}" alt="教学楼" loading="lazy">
             </div>
             <div class="gallery__slide">
-                <img class="gallery__image" src="/images/gallery/Campus-4.jpg" alt="实验中心" loading="lazy">
+                <img class="gallery__image" src="{{ '/images/gallery/Campus-4.jpg' | relative_url }}" alt="实验中心" loading="lazy">
             </div>
             <div class="gallery__slide">
-                <img class="gallery__image" src="/images/gallery/Campus-5.jpg" alt="学生活动中心" loading="lazy">
+                <img class="gallery__image" src="{{ '/images/gallery/Campus-5.jpg' | relative_url }}" alt="学生活动中心" loading="lazy">
             </div>
         </div>
         
@@ -37,6 +37,25 @@ Campus Scenery
         <div class="gallery__caption">
             <h3 class="gallery__title">校园正门</h3>
             <p class="gallery__description">学校正门入口，庄严大气，绿树成荫，是学校的标志性建筑之一。</p>
+        </div>
+        
+        <!-- 缩略图导航 -->
+        <div class="gallery__thumbnails">
+            <button class="gallery__thumb active" data-index="0" aria-label="查看图片1: 校园正门">
+                <img src="{{ '/images/gallery/Campus-1.jpg' | relative_url }}" alt="校园正门缩略图" loading="lazy">
+            </button>
+            <button class="gallery__thumb" data-index="1" aria-label="查看图片2: 图书馆大楼">
+                <img src="{{ '/images/gallery/Campus-2.jpg' | relative_url }}" alt="图书馆大楼缩略图" loading="lazy">
+            </button>
+            <button class="gallery__thumb" data-index="2" aria-label="查看图片3: 教学楼">
+                <img src="{{ '/images/gallery/Campus-3.jpg' | relative_url }}" alt="教学楼缩略图" loading="lazy">
+            </button>
+            <button class="gallery__thumb" data-index="3" aria-label="查看图片4: 实验中心">
+                <img src="{{ '/images/gallery/Campus-4.jpg' | relative_url }}" alt="实验中心缩略图" loading="lazy">
+            </button>
+            <button class="gallery__thumb" data-index="4" aria-label="查看图片5: 学生活动中心">
+                <img src="{{ '/images/gallery/Campus-5.jpg' | relative_url }}" alt="学生活动中心缩略图" loading="lazy">
+            </button>
         </div>
     </div>
 </div>
@@ -62,6 +81,7 @@ Campus Scenery
     position: relative;
     aspect-ratio: 16/9;
     width: 100%;
+    background: #f0f0f0;
 }
 
 .gallery__slide {
@@ -82,6 +102,15 @@ Campus Scenery
     height: 100%;
     object-fit: cover;
     display: block;
+}
+
+/* 添加加载状态样式 */
+.gallery__image:not([src]) {
+    visibility: hidden;
+}
+
+.gallery__image.loading {
+    opacity: 0.5;
 }
 
 /* 导航按钮 */
@@ -136,6 +165,7 @@ Campus Scenery
     padding: 1.5rem;
     text-align: center;
     transition: transform 0.3s ease;
+    z-index: 5;
 }
 
 .gallery__title {
@@ -152,6 +182,47 @@ Campus Scenery
     line-height: 1.5;
     max-width: 700px;
     margin: 0 auto;
+}
+
+/* 缩略图样式 */
+.gallery__thumbnails {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+    background: #f8f9fa;
+    border-top: 1px solid #eaeaea;
+}
+
+.gallery__thumb {
+    width: 80px;
+    height: 60px;
+    border: none;
+    border-radius: 6px;
+    overflow: hidden;
+    cursor: pointer;
+    padding: 0;
+    background: transparent;
+    transition: all 0.2s ease;
+    opacity: 0.6;
+}
+
+.gallery__thumb:hover {
+    opacity: 0.8;
+    transform: translateY(-2px);
+}
+
+.gallery__thumb.active {
+    opacity: 1;
+    border: 3px solid #2c5282;
+    box-shadow: 0 4px 8px rgba(44, 82, 130, 0.3);
+}
+
+.gallery__thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
 }
 
 /* 响应式设计 */
@@ -184,6 +255,16 @@ Campus Scenery
         font-size: 0.9rem;
         padding: 0 0.5rem;
     }
+    
+    .gallery__thumbnails {
+        padding: 15px 10px;
+        gap: 8px;
+    }
+    
+    .gallery__thumb {
+        width: 60px;
+        height: 45px;
+    }
 }
 
 @media (max-width: 480px) {
@@ -208,16 +289,32 @@ Campus Scenery
     .gallery__description {
         font-size: 0.85rem;
     }
+    
+    .gallery__thumbnails {
+        padding: 12px 8px;
+        gap: 6px;
+    }
+    
+    .gallery__thumb {
+        width: 50px;
+        height: 38px;
+    }
 }
 
 /* 无障碍支持 */
-.gallery__nav:focus-visible {
+.gallery__nav:focus-visible,
+.gallery__thumb:focus-visible {
     outline: 3px solid #4299e1;
     outline-offset: 2px;
 }
 
-.gallery__nav:active {
+.gallery__nav:active,
+.gallery__thumb:active {
     transform: translateY(-50%) scale(0.95);
+}
+
+.gallery__thumb:active {
+    transform: translateY(-1px) scale(0.95);
 }
 
 /* 深色模式支持 */
@@ -235,6 +332,35 @@ Campus Scenery
         background: #2c5282;
         color: white;
     }
+    
+    .gallery__caption {
+        background: linear-gradient(transparent, rgba(0, 0, 0, 0.95));
+    }
+    
+    .gallery__thumbnails {
+        background: #1a202c;
+        border-top: 1px solid #2d3748;
+    }
+    
+    .gallery__thumb.active {
+        border-color: #4299e1;
+        box-shadow: 0 4px 8px rgba(66, 153, 225, 0.3);
+    }
+}
+
+/* 加载动画 */
+@keyframes shimmer {
+    0% { background-position: -1000px 0; }
+    100% { background-position: 1000px 0; }
+}
+
+.gallery__slide--loading::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+    background-size: 1000px 100%;
+    animation: shimmer 2s infinite linear;
 }
 </style>
 
@@ -247,11 +373,13 @@ class ImageGallery {
         this.nextBtn = document.querySelector('.gallery__nav--next');
         this.captionTitle = document.querySelector('.gallery__title');
         this.captionDesc = document.querySelector('.gallery__description');
+        this.thumbnails = document.querySelectorAll('.gallery__thumb');
         
         this.currentIndex = 0;
         this.autoSlideInterval = null;
         this.touchStartX = 0;
         this.touchEndX = 0;
+        this.isTransitioning = false;
         
         // 图片标题数据
         this.imageData = [
@@ -281,17 +409,62 @@ class ImageGallery {
     }
     
     init() {
+        // 检查图片是否正常加载
+        this.checkImages();
+        
         this.setupEventListeners();
         this.startAutoSlide();
         this.updateCaption();
+        this.updateThumbnails();
         
         // 预加载下一张图片
         this.preloadImages();
     }
     
+    checkImages() {
+        this.slides.forEach((slide, index) => {
+            const img = slide.querySelector('img');
+            if (img) {
+                img.onerror = () => {
+                    console.warn(`图片加载失败: ${img.src}`);
+                    // 显示备用文本或占位符
+                    slide.innerHTML = `
+                        <div style="
+                            width: 100%; 
+                            height: 100%; 
+                            display: flex; 
+                            flex-direction: column; 
+                            align-items: center; 
+                            justify-content: center; 
+                            background: #f0f0f0; 
+                            color: #666;
+                        ">
+                            <i class="fas fa-image" style="font-size: 3rem; margin-bottom: 1rem;"></i>
+                            <p>${this.imageData[index].title}</p>
+                            <p style="font-size: 0.9rem;">图片加载中...</p>
+                        </div>`;
+                };
+                
+                img.onload = () => {
+                    slide.classList.remove('gallery__slide--loading');
+                };
+            }
+        });
+    }
+    
     setupEventListeners() {
         this.prevBtn.addEventListener('click', () => this.prevSlide());
         this.nextBtn.addEventListener('click', () => this.nextSlide());
+        
+        // 缩略图点击事件
+        this.thumbnails.forEach(thumb => {
+            thumb.addEventListener('click', (e) => {
+                const index = parseInt(e.currentTarget.dataset.index);
+                if (!isNaN(index) && index !== this.currentIndex) {
+                    this.goToSlide(index);
+                }
+            });
+        });
         
         // 键盘导航
         document.addEventListener('keydown', (e) => this.handleKeyDown(e));
@@ -316,17 +489,42 @@ class ImageGallery {
     }
     
     prevSlide() {
-        this.currentIndex = (this.currentIndex - 1 + this.slides.length) % this.slides.length;
-        this.updateSlide();
+        if (this.isTransitioning) return;
+        this.goToSlide((this.currentIndex - 1 + this.slides.length) % this.slides.length);
     }
     
     nextSlide() {
-        this.currentIndex = (this.currentIndex + 1) % this.slides.length;
-        this.updateSlide();
+        if (this.isTransitioning) return;
+        this.goToSlide((this.currentIndex + 1) % this.slides.length);
+    }
+    
+    goToSlide(index) {
+        if (this.isTransitioning || index === this.currentIndex) return;
+        
+        this.isTransitioning = true;
+        this.currentIndex = index;
+        
+        // 添加过渡效果
+        this.slides.forEach((slide, i) => {
+            slide.style.transition = 'opacity 0.4s ease';
+            slide.classList.toggle('gallery__slide--active', i === this.currentIndex);
+        });
+        
+        // 更新标题和缩略图
+        this.updateCaption();
+        this.updateThumbnails();
         
         // 预加载下一张
         const nextIndex = (this.currentIndex + 1) % this.slides.length;
         this.preloadImage(nextIndex);
+        
+        // 重置过渡状态
+        setTimeout(() => {
+            this.isTransitioning = false;
+            this.slides.forEach(slide => {
+                slide.style.transition = '';
+            });
+        }, 400);
     }
     
     updateSlide() {
@@ -337,6 +535,9 @@ class ImageGallery {
         
         // 更新标题
         this.updateCaption();
+        
+        // 更新缩略图
+        this.updateThumbnails();
         
         // 更新ARIA标签
         this.updateAriaLabels();
@@ -350,14 +551,28 @@ class ImageGallery {
         }
     }
     
+    updateThumbnails() {
+        this.thumbnails.forEach((thumb, index) => {
+            thumb.classList.toggle('active', index === this.currentIndex);
+        });
+    }
+    
     updateAriaLabels() {
         this.slides.forEach((slide, index) => {
             slide.setAttribute('aria-hidden', index !== this.currentIndex);
             slide.setAttribute('aria-label', `图片 ${index + 1}，共 ${this.slides.length} 张`);
         });
+        
+        // 更新缩略图ARIA标签
+        this.thumbnails.forEach((thumb, index) => {
+            const title = this.imageData[index]?.title || `图片 ${index + 1}`;
+            thumb.setAttribute('aria-label', `查看${title}，当前${index === this.currentIndex ? '已选中' : '未选中'}`);
+        });
     }
     
     handleKeyDown(e) {
+        if (e.target.tagName === 'BUTTON' || e.target.tagName === 'I') return;
+        
         switch(e.key) {
             case 'ArrowLeft':
                 e.preventDefault();
@@ -369,18 +584,24 @@ class ImageGallery {
                 break;
             case 'Home':
                 e.preventDefault();
-                this.currentIndex = 0;
-                this.updateSlide();
+                this.goToSlide(0);
                 break;
             case 'End':
                 e.preventDefault();
-                this.currentIndex = this.slides.length - 1;
-                this.updateSlide();
+                this.goToSlide(this.slides.length - 1);
+                break;
+            case ' ':
+            case 'Spacebar':
+                e.preventDefault();
+                this.stopAutoSlide();
+                setTimeout(() => this.startAutoSlide(), 3000);
                 break;
         }
     }
     
     handleSwipe() {
+        if (this.isTransitioning) return;
+        
         const SWIPE_THRESHOLD = 50;
         const diff = this.touchStartX - this.touchEndX;
         
@@ -403,12 +624,9 @@ class ImageGallery {
     preloadImage(index) {
         const slide = this.slides[index];
         const img = slide.querySelector('img');
-        if (img) {
-            const src = img.getAttribute('src');
-            if (src) {
-                const preloadImg = new Image();
-                preloadImg.src = src;
-            }
+        if (img && img.src) {
+            const preloadImg = new Image();
+            preloadImg.src = img.src;
         }
     }
     
