@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zhang Lab Navigation</title>
+    <title>Zhang Lab</title>
     <style>
         * {
             margin: 0;
@@ -13,15 +13,46 @@
         }
         
         body {
-            background-color: #f5f7fa;
+            background-color: #f8f9fa;
             min-height: 100vh;
             display: flex;
-            justify-content: center;
+            flex-direction: column;
             align-items: center;
+            justify-content: center;
             padding: 20px;
         }
         
-        .navigation-container {
+        .container {
+            width: 100%;
+            max-width: 1000px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        .lab-title {
+            font-size: 2.8rem;
+            color: #2c3e50;
+            margin-bottom: 40px;
+            text-align: center;
+            font-weight: 600;
+            letter-spacing: 1px;
+            position: relative;
+        }
+        
+        .lab-title::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 4px;
+            background-color: #3498db;
+            border-radius: 2px;
+        }
+        
+        .nav-container {
             width: 100%;
             display: flex;
             justify-content: center;
@@ -29,18 +60,18 @@
         
         nav {
             background-color: white;
-            border-radius: 8px;
-            padding: 15px 30px;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
-            display: inline-flex;
-            flex-wrap: wrap;
+            border-radius: 10px;
+            padding: 20px 35px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+            display: flex;
             justify-content: center;
-            max-width: 900px;
-            border: 1px solid #e0e0e0;
+            flex-wrap: wrap;
+            gap: 5px;
+            border: 1px solid #eaeaea;
         }
         
         .nav-item {
-            margin: 8px 12px;
+            list-style: none;
         }
         
         .nav-link {
@@ -48,42 +79,67 @@
             color: #333;
             font-size: 1.1rem;
             font-weight: 500;
-            padding: 10px 18px;
+            padding: 12px 22px;
             border-radius: 6px;
             transition: all 0.3s ease;
             display: block;
+            white-space: nowrap;
         }
         
         .nav-link:hover {
             background-color: #f0f7ff;
-            color: #0066cc;
+            color: #2980b9;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 10px rgba(52, 152, 219, 0.15);
         }
         
         .nav-link.active {
-            background-color: #0066cc;
+            background-color: #3498db;
             color: white;
+            box-shadow: 0 4px 12px rgba(52, 152, 219, 0.3);
         }
         
         .nav-link.active:hover {
-            background-color: #0052a3;
+            background-color: #2980b9;
         }
         
         /* 响应式设计 */
-        @media (max-width: 768px) {
+        @media (max-width: 900px) {
             nav {
-                padding: 12px 20px;
+                padding: 15px 25px;
                 max-width: 95%;
             }
             
             .nav-link {
-                padding: 8px 14px;
+                padding: 10px 18px;
                 font-size: 1rem;
             }
         }
         
+        @media (max-width: 768px) {
+            .lab-title {
+                font-size: 2.2rem;
+                margin-bottom: 30px;
+            }
+            
+            nav {
+                padding: 12px 20px;
+                gap: 3px;
+            }
+            
+            .nav-link {
+                padding: 8px 14px;
+            }
+        }
+        
         @media (max-width: 576px) {
-            .nav-item {
-                margin: 6px 8px;
+            .lab-title {
+                font-size: 1.9rem;
+                margin-bottom: 25px;
+            }
+            
+            nav {
+                padding: 10px 15px;
             }
             
             .nav-link {
@@ -91,49 +147,116 @@
                 font-size: 0.95rem;
             }
         }
+        
+        @media (max-width: 480px) {
+            .lab-title {
+                font-size: 1.7rem;
+            }
+            
+            nav {
+                flex-direction: column;
+                align-items: center;
+                width: auto;
+            }
+            
+            .nav-item {
+                width: 100%;
+                text-align: center;
+            }
+            
+            .nav-link {
+                padding: 10px;
+                width: 200px;
+            }
+        }
     </style>
 </head>
 <body>
-    <div class="navigation-container">
-        <nav>
-            <div class="nav-item">
-                <a href="#" class="nav-link active">Home</a>
-            </div>
-            <div class="nav-item">
-                <a href="#" class="nav-link">News</a>
-            </div>
-            <div class="nav-item">
-                <a href="#" class="nav-link">Research</a>
-            </div>
-            <div class="nav-item">
-                <a href="#" class="nav-link">People</a>
-            </div>
-            <div class="nav-item">
-                <a href="#" class="nav-link">Publications</a>
-            </div>
-            <div class="nav-item">
-                <a href="#" class="nav-link">Gallery</a>
-            </div>
-            <div class="nav-item">
-                <a href="#" class="nav-link">Contact</a>
-            </div>
-        </nav>
+    <div class="container">
+        <h1 class="lab-title">Zhang Lab</h1>
+        
+        <div class="nav-container">
+            <nav>
+                <!-- 导航项将从YAML数据动态生成 -->
+            </nav>
+        </div>
     </div>
     
     <script>
-        // 为导航链接添加交互效果
-        document.querySelectorAll('.nav-link').forEach(link => {
-            link.addEventListener('click', function(e) {
-                e.preventDefault();
+        // 模拟从YAML格式获取的导航数据
+        const navData = {
+            main: [
+                { title: "Home", url: "/home/" },
+                { title: "News", url: "/news/" },
+                { title: "Research", url: "/research/" },
+                { title: "People", url: "/people/" },
+                { title: "Publications", url: "/publications/" },
+                { title: "Gallery", url: "/gallery/" },
+                { title: "Contact", url: "/contact/" }
+            ]
+        };
+        
+        // 获取当前URL路径
+        function getCurrentPath() {
+            // 模拟当前路径，实际使用时可以替换为真实逻辑
+            return window.location.pathname || "/home/";
+        }
+        
+        // 动态生成导航栏
+        function renderNavigation() {
+            const navElement = document.querySelector('nav');
+            const currentPath = getCurrentPath();
+            
+            // 清空现有内容
+            navElement.innerHTML = '';
+            
+            // 为每个导航项创建HTML
+            navData.main.forEach(item => {
+                const listItem = document.createElement('li');
+                listItem.className = 'nav-item';
                 
-                // 移除所有链接的active类
-                document.querySelectorAll('.nav-link').forEach(item => {
-                    item.classList.remove('active');
+                const link = document.createElement('a');
+                link.className = 'nav-link';
+                link.href = item.url;
+                link.textContent = item.title;
+                
+                // 检查当前页面是否匹配该链接
+                if (currentPath === item.url) {
+                    link.classList.add('active');
+                }
+                
+                // 添加点击事件
+                link.addEventListener('click', function(e) {
+                    // 在实际网站中，这里可能不需要阻止默认行为
+                    // 我们仅用于演示，所以阻止页面跳转
+                    e.preventDefault();
+                    
+                    // 更新激活状态
+                    document.querySelectorAll('.nav-link').forEach(link => {
+                        link.classList.remove('active');
+                    });
+                    this.classList.add('active');
+                    
+                    // 在实际应用中，这里可能会加载新页面内容或进行页面跳转
+                    console.log(`Navigating to: ${item.url}`);
                 });
                 
-                // 为当前点击的链接添加active类
-                this.classList.add('active');
+                listItem.appendChild(link);
+                navElement.appendChild(listItem);
             });
+        }
+        
+        // 页面加载完成后渲染导航栏
+        document.addEventListener('DOMContentLoaded', renderNavigation);
+        
+        // 添加页面加载动画
+        window.addEventListener('load', function() {
+            document.querySelector('.container').style.opacity = '0';
+            document.querySelector('.container').style.transition = 'opacity 0.5s ease';
+            
+            setTimeout(() => {
+                document.querySelector('.container').style.opacity = '1';
+            }, 100);
         });
     </script>
 </body>
