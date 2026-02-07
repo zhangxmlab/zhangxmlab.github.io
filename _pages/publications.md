@@ -10,6 +10,7 @@ Total citations = 1950; H-index = 25  [Scopus](https://www.scopus.com/authid/det
 
 2026
 =====
+[79] Jin, S., Jin, Y., Xu, Y., Yin, J., Tao, X., Li, X., <strong>Zhang, X.*</strong> (2026). "Unraveling the local determinants of well-being in the Dabie Mountain Old Revolutionary Base Area: A Geographically Weighted Random Forest model". _Applied Spatial Analysis and Policy_, 19. [Link](https://link.springer.com/journal/12061)  
 [78] Wan, W., <strong>Zhang, X.*</strong>, Sun, Z., Zhou, X., He, Y., Lv, T., Hou, H. (2026). "Assessing the impact of photovoltaic system construction on the green environment in China: An interpretable machine learning approach". _Renewable Energy_, 256, 124120. [Link](https://doi.org/10.1016/j.renene.2025.124120)  
 [77] Xu, Y., Wang, Y., Su, Y., <strong>Zhang, X.*</strong> (2026). "Impacts of enterprise digital transformation on green technology innovation in China". _Environment, Development and Sustainability_, 27. [Link](https://doi.org/10.1007/s10668-025-06413-y)  
 [76] Li, X., Li, Y., <strong>Zhang, X.</strong> (2026). "Quantifying agricultural green development in Jiangxi Province, China: Implications for low-carbon transition". _Physics and Chemistry of the Earth_. [Link](https://www.sciencedirect.com/journal/physics-and-chemistry-of-the-earth-parts-a-b-c)  
