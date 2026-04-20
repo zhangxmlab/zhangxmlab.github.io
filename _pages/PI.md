@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "PI"
-permalink: /pi/
+title: "Dr. Zhang"
+permalink: /dr.zhang/
 author_profile: true
 ---
 <img src='/images/group/Xinmin_Zhang.JPG' class='rounded-corners'>
