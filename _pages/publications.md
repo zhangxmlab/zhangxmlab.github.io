@@ -10,7 +10,7 @@ Total citations = 2000; H-index = 25  [Scopus](https://www.scopus.com/authid/det
 
 2026
 =====
-[82] Jin, S., Jin, Y., Xu, Y., Yin, J., Tao, X., Li, X., <strong>Zhang, X.*</strong> (2026). "Unraveling the local determinants of well-being in the Dabie Mountain Old Revolutionary Base Area: A Geographically Weighted Random Forest model". _Applied Spatial Analysis and Policy_, 19. [Link](https://link.springer.com/journal/12061)  
+[82] Jin, S., Jin, Y., Xu, Y., Yin, J., Tao, X., Li, X., <strong>Zhang, X.*</strong> (2026). "Unraveling the local determinants of well-being in the Dabie Mountain Old Revolutionary Base Area: A Geographically Weighted Random Forest model". _Applied Spatial Analysis and Policy_, 19, 134. [Link](https://link.springer.com/article/10.1007/s12061-026-09900-5)  
 [81] Cao, R., Zhang, G., Yang, T., Wang, F., Du, C., <strong>Zhang, X.</strong>, Sun, L. (2026). "From expansion to renewal: Material metabolism and secondary resource potential of urban buildings in Western central cities". _Buildings_, 16. [Link](https://www.mdpi.com/journal/buildings)  
 [80] Tang, J., Hou, H., Estoque, R. C., Murayama, Y., <strong>Zhang, X.</strong>, Wang, R., Hu, T. (2026). "Urban heat risk assessment: A machine learning analysis of multidimensional morphology in 293 Chinese cities". _npj Urban Sustainability_, 6. [Link](https://www.nature.com/npjurbansustain/)  
 [79] Fu, S., Yang, Y., Liu, Y., Xu, B., Peng, Y., Feng, Y., Yang, Z., <strong>Zhang, X.</strong> (2026). "Land use change impacts on terrestrial carbon storage: dynamics and drivers in the Greater Nanchang Metropolitan Area". _International Journal of Agricultural and Biological Engineering_, 19. [Link](https://ijabe.org/index.php/ijabe)  
